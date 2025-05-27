@@ -47,17 +47,20 @@
       const script = document.createElement("script");
       script.src = "/live.js";
       script.onload = () => {
-        if (typeof initializeApp === "function") {
-          try {
-            initializeApp();
-          } catch (e) {
+        // Wait a tick in case live.js defines things after load
+        setTimeout(() => {
+          if (typeof window.initializeApp === "function") {
+            try {
+              window.initializeApp();
+            } catch (e) {
+              console.error("initializeApp threw an error:", e);
+              showFailImage();
+            }
+          } else {
+            console.error("initializeApp is not defined in /live.js.");
             showFailImage();
-            console.error("initializeApp threw an error:", e);
           }
-        } else {
-          showFailImage();
-          console.error("initializeApp is not defined.");
-        }
+        }, 0);
       };
       script.onerror = showFailImage;
       document.head.appendChild(script);
