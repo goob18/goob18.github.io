@@ -37,7 +37,7 @@
       if (Math.floor(Math.random() * 500) === 0) {
         const audio = new Audio("https://archive.org/download/01-intro-64kbps/06%20Feel%20Good%20INC%2064kbps.mp3");
         audio.volume = 0.5;
-        audio.play().catch(err => {
+        audio.play().catch((err) => {
           console.warn("Audio playback failed:", err);
         });
       }
@@ -47,7 +47,6 @@
       const script = document.createElement("script");
       script.src = "/live.js";
       script.onload = () => {
-        // Wait a tick in case live.js defines things after load
         setTimeout(() => {
           if (typeof window.initializeApp === "function") {
             try {
@@ -57,12 +56,16 @@
               showFailImage();
             }
           } else {
-            console.error("initializeApp is not defined in /live.js.");
-            showFailImage();
+            console.warn("initializeApp is not defined in /live.js. No call will be made.");
+            // Don't call it — just move on
           }
         }, 0);
       };
-      script.onerror = showFailImage;
+      script.onerror = () => {
+        console.error("Failed to load /live.js.");
+        showFailImage();
+      };
+
       document.head.appendChild(script);
     </script>
   </body>
