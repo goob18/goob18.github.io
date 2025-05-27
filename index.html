@@ -33,6 +33,15 @@
         }
       }
 
+      // 1 in 500 chance to play "Feel Good Inc"
+      if (Math.floor(Math.random() * 500) === 0) {
+        const audio = new Audio("https://archive.org/download/01-intro-64kbps/06%20Feel%20Good%20INC%2064kbps.mp3");
+        audio.volume = 0.5;
+        audio.play().catch(err => {
+          console.warn("Audio playback failed:", err);
+        });
+      }
+
       window.addEventListener("error", showFailImage);
 
       const script = document.createElement("script");
@@ -40,7 +49,7 @@
       script.onload = () => {
         if (typeof initializeApp === "function") {
           try {
-            initializeApp(); // You can call it here if desired
+            initializeApp();
           } catch (e) {
             showFailImage();
             console.error("initializeApp threw an error:", e);
