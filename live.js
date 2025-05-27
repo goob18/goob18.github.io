@@ -1,47 +1,68 @@
-window.labels = {
-    'default': '051606bd'
-};
-(function() {
-    var a = window.labels;
-    window.jstiming && window.jstiming.load && window.jstiming.load.tick("ld_s");
-    var b = window.devjs,
-        e = /[?&]debugjs=1/.exec(window.location.href),
-        f = /[?&]localPlayer=1/.exec(window.location.href),
-        g = /[?&]mediaDiagnostics=1/.exec(window.location.href),
-        h = window.local_label,
-        k = /[?&]reversePairingCode=/.exec(window.location.href),
-        l = /[?&]launch=preload/.exec(window.location.href),
-        m = /[?&]v=[\w\+\/\-_=]+/.exec(window.location.href);
-    window.label = h ? h : a && a["default"] ? a["default"] : "unknown";
-    var n = window.appRoot + window.label;
+(function () {
+    const urlParams = new URLSearchParams(window.location.search);
+    const debugJS = urlParams.has('debugjs');
+    const localPlayer = urlParams.has('localPlayer');
+    const mediaDiagnostics = urlParams.has('mediaDiagnostics');
 
-    function p(c) {
-        document.write('<script src="' + c + '">\x3c/script>')
+    // Paths
+    const appCSS = '/app-prod.css';
+    const appJS = '/app-prod.js';
+    const debugPlayer = '/video/youtube/src/web/javascript/debug-tv-player-en_US.js';
+    const prodPlayer = '/video/youtube/src/web/javascript/tv-player-en_US.js';
+
+    // Load CSS
+    function loadCSS(href) {
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = href;
+        document.head.appendChild(link);
     }
 
-    function q(c) {
-        document.write("<script>" + c + "\x3c/script>")
+    // Load JS
+    function loadJS(src) {
+        const script = document.createElement('script');
+        script.src = src;
+        document.body.appendChild(script);
     }
 
-    function r(c) {
-        var d = document.createElement("link");
-        d.setAttribute("rel", "stylesheet");
-        d.setAttribute("type", "text/css");
-        d.setAttribute("href", c);
-        document.head.appendChild(d)
+    // Inline JS
+    function inlineJS(code) {
+        const script = document.createElement('script');
+        script.textContent = code;
+        document.body.appendChild(script);
     }
-    window.initializeOrRedirect = function(c) {
-        window.jstiming.load.tick("js_r");
-        yt && yt.tv && yt.tv.initializer ? yt.tv.initializer(c) : window.location = "http://www.youtube.com/error?src=404"
-    };
-    b ? (window.CLOSURE_BASE_PATH = "/javascript/closure/", window.loadStylesheets = function() {
-        window.h5CssList.forEach(r)
-    }, p("/lasagna-parse.js"), p(CLOSURE_BASE_PATH + "base.js"), p("/i18n/input/javascript/deps.js"), p("/video/youtube/src/web/javascript/deps-runfiles.js"), p("/deps.js"), p("/js/base_initializer.js"), p("/js/initializer.js"), p("/css-list.js"), q("loadStylesheets()")) : e ? (window.CLOSURE_NO_DEPS = !0, r("/app-prod.css"), p("/app-concat-bundle.js")) : (r("/app-prod.css"), p("/app-prod.js"), (k || l || m) && p(window.environment.player_url));
-    window.checkBrokenLabel = function() {
-        "undefined" == typeof yt && h && (window.location.href = window.location.href.replace(/([?&])label=[^&]+&?/, "$1stick=0&"))
-    };
-    q("checkBrokenLabel()");
-    f && (window.environment.player_url = e || b ? "/video/youtube/src/web/javascript/debug-tv-player-en_US.js" : "/video/youtube/src/web/javascript/tv-player-en_US.js");
-    g && (e || b ? p("/modules/media-diagnostics-debug.js") : p("/modules/media-diagnostics.js"));
-    q("initializeOrRedirect('" + "');");
+
+    // Load main app files
+    if (debugJS) {
+        window.CLOSURE_NO_DEPS = true;
+        loadCSS(appCSS);
+        loadJS('/app-concat-bundle.js');
+    } else {
+        loadCSS(appCSS);
+        loadJS(appJS);
+    }
+
+    // Optional: load player override
+    if (localPlayer) {
+        window.environment = window.environment || {};
+        window.environment.player_url = debugJS ? debugPlayer : prodPlayer;
+    }
+
+    // Optional: load media diagnostics
+    if (mediaDiagnostics) {
+        const diagScript = debugJS
+            ? '/modules/media-diagnostics-debug.js'
+            : '/modules/media-diagnostics.js';
+        loadJS(diagScript);
+    }
+
+    // Optional: initialization logic stub
+    inlineJS(`
+        if (typeof initializeApp === 'function') {
+            initializeApp();
+        } else {
+            console.warn('initializeApp function not defined.');
+        }
+    `);
 })();
