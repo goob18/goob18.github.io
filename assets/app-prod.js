@@ -11248,7 +11248,6 @@
                 STmost_popular_Education: "icon-education",
                 STmost_popular_Animals: "icon-pets",
                 STmost_popular: "icon-star"
-                STfavorites: "icon-star"
             };
             this.Ga("sets", this.fQ)
         }
@@ -11264,6 +11263,7 @@
                 e = b.gdata_list_id,
                 f = e.substr(0, 2),
                 g = e.substr(2);
+                h = b.gdata_url,
             try {
                 var k = this.RP.get(f),
                     l = Ec(k, c || "", this.WT(e, g), g);

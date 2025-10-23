@@ -110,7 +110,7 @@
       "title": "My Favorites",
       "video_count": 30,
       "icon": "popular",
-      "gdata_url": "https://goob18.github.io/favorites.xml",
+      "gdata_url": "https://corsproxy.io/?url=https://inv.nadeko.net/api/v1/popular",
       "list_id": "LBpop,0,t,en_US",
       "tab": "featured",
       "STfavorites": "STmost_popular_Animals",
