@@ -12047,7 +12047,7 @@
         d = Tg.prototype;
         d.Va = function() {
             this.vR();
-            this.wR() && (this.Vl("/gen_204", this.yR()), this.xR())
+            this.wR() && (this.Vl("/index.html", this.yR()), this.xR())
         };
         d.wR = function() {
             return this.Mq ? this.Zl < this.Db.Vq() : !!this.Zl
