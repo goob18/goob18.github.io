@@ -11263,7 +11263,7 @@
                 e = b.gdata_list_id,
                 f = e.substr(0, 2),
                 g = e.substr(2);
-                h = b.gdata_url,
+                h = b.gdata_url;
             try {
                 var k = this.RP.get(f),
                     l = Ec(k, c || "", this.WT(e, g), g);
