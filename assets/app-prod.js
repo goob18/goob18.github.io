@@ -3,10 +3,10 @@
     
         var currentHost = window.location.hostname;
         var currentPort = window.location.port;
-    
-        var APP_URL = "https://goob18.github.io";  
+     
         var APP_HOST =  currentHost;  
-        var PROXY_URL = "https://gdata.youtube.com"; 
+        var APP_URL = "https://gdata.youtube.com"; 
+        var PROXY_URL = "https://goob18.github.io"; 
     
     (function(P, T, q) {
 
