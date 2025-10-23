@@ -1,0 +1,2014 @@
+
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:media='http://search.yahoo.com/mrss/' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' gd:etag='W/&quot;CUMFQX47eCp7ImA9WhZUGEs.&quot;'>
+	<id>tag:youtube.com,2008:standardfeed:us:top_rated</id>
+	<updated>2011-06-12T00:23:30.000-07:00</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+	<title>Top Rated</title>
+	<logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+	<link rel='alternate' type='text/html' href='http://www.youtube.com/browse?s=tr'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated?v=2'/>
+	<link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/batch?v=2'/>
+	<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated?start-index=1&amp;max-results=25&amp;time=today&amp;v=2'/>
+	<link rel='service' type='application/atomsvc+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated?alt=atom-service&amp;v=2'/>
+	<link rel='next' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated?start-index=26&amp;max-results=25&amp;time=today&amp;v=2'/>
+	<author>
+		<name>YouTube</name>
+		<uri>http://www.youtube.com/</uri>
+	</author>
+	<generator version='2.0' uri='http://gdata.youtube.com/'>YouTube data API</generator>
+	<openSearch:totalResults>100</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+	<entry gd:etag='W/&quot;AkYNRX47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:q9oV59Qj-So</id>
+		<published>2011-06-11T02:18:13.000Z</published>
+		<updated>2011-06-12T08:43:14.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fotos'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='de'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='perfil'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='facebook'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='moxxa'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lentes'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='guapo'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='guapa'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='feo'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fea'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pics'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pictures'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='red'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='social'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='redes'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sociales'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dj'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='piñata'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cancion'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='del'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hi5'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='metroflog'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='myspace'/>
+		<title>FOTOS FACEBOOKERAS</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/q9oV59Qj-So?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=q9oV59Qj-So&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/q9oV59Qj-So/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/q9oV59Qj-So/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=q9oV59Qj-So'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/q9oV59Qj-So?v=2'/>
+		<author>
+			<name>werevertumorro</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/werevertumorro</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/q9oV59Qj-So/comments?v=2' countHint='8047'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='http://www.youtube.com/v/q9oV59Qj-So?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='590' yt:format='5'/>
+			<media:content url='rtsp://v2.cache6.c.youtube.com/CiQLENy73wIaGwkq-SPU5xXaqxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='590' yt:format='1'/>
+			<media:content url='rtsp://v4.cache5.c.youtube.com/CiQLENy73wIaGwkq-SPU5xXaqxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='590' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>werevertumorro</media:credit>
+			<media:description type='plain'>ESTARIA CAGADO http://bit.ly/gqqPYp
+PODCASTS http://bit.ly/hDPXAo
+FB http://on.fb.me/aNxVwG
+TW http://bit.ly/hii5gM 
+WEB http://werevertumorro.mx</media:description>
+			<media:keywords>fotos, de, perfil, facebook, moxxa, lentes, guapo, guapa, feo, fea, pics, pictures, red, social, redes, sociales, dj, piñata, cancion, del, hi5, metroflog, myspace</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=q9oV59Qj-So&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/q9oV59Qj-So/default.jpg' height='90' width='120' time='00:04:55' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/q9oV59Qj-So/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/q9oV59Qj-So/1.jpg' height='90' width='120' time='00:02:27.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/q9oV59Qj-So/2.jpg' height='90' width='120' time='00:04:55' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/q9oV59Qj-So/3.jpg' height='90' width='120' time='00:07:22.500' yt:name='end'/>
+			<media:title type='plain'>FOTOS FACEBOOKERAS</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='590'/>
+			<yt:uploaded>2011-06-11T02:18:13.000Z</yt:uploaded>
+			<yt:videoid>q9oV59Qj-So</yt:videoid>
+		</media:group>
+		<gd:rating average='4.949469' max='5' min='1' numRaters='31268' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='6535' viewCount='582054'/>
+		<yt:rating numDislikes='395' numLikes='30873'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMAR347eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Ii7r3_jh7VY</id>
+		<published>2011-06-11T11:55:21.000Z</published>
+		<updated>2011-06-12T08:47:26.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Film' label='Film &amp; Animation'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shanedawsontv'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='official'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='twilight'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='breaking'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dawn'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='trailer'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='funny'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='spoof'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bella'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='edward'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cullen'/>
+		<title>TWILIGHT: BREAKING FURNITURE</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Ii7r3_jh7VY?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Ii7r3_jh7VY&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Ii7r3_jh7VY/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Ii7r3_jh7VY/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Ii7r3_jh7VY'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/Ii7r3_jh7VY?v=2'/>
+		<author>
+			<name>ShaneDawsonTV</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/shanedawsontv</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='allowed'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Ii7r3_jh7VY/comments?v=2' countHint='6296'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Film &amp; Animation' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Film</media:category>
+			<media:content url='http://www.youtube.com/v/Ii7r3_jh7VY?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='211' yt:format='5'/>
+			<media:content url='rtsp://v8.cache2.c.youtube.com/CiQLENy73wIaGwlW7eH43-suIhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='211' yt:format='1'/>
+			<media:content url='rtsp://v1.cache4.c.youtube.com/CiQLENy73wIaGwlW7eH43-suIhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='211' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>ShaneDawsonTV</media:credit>
+			<media:description type='plain'>Hope u like this fun shorter vid. More longer vids coming soon! i promise!!  ps. twilight is NOT paying me for this video lol. obviously. 
+__
+
+
+LINKS:
+SHIRTS/MERCH STORE - http://store.bandmerch.com/shanedawson
+(Shirts also available at Hot Topic &amp; http://tinyurl.com/hottopicshane )
+**NEW RINGTONES!! http://itunes.apple.com/us/album/comedy-jamz-vol-1-single/id400327938
+MAIN CHANNEL - http://www.youtube.com/shanedawsontv
+SECOND CHANNEL - http://www.youtube.com/shanedawsontv2 
+IPHONE CHANNEL - http://www.youtube.com/shane
+FACEBOOK http://www.facebook.com/shanedawsonfans
+TWITTER http://www.twitter.com/shanedawson
+MYSPACE http://www.myspace.com/shaneyaw
+WEBSITE http://www.shanedawsontv.com
+P.O. BOX: 12450 Burbank Bl. Suite P #252, Valley Village, CA 91607
+
+*Film &amp; Television Agent:
+WME
+
+*Film &amp; Television Manager:
+Patti Crosby
+Pttcrosby@aol.com
+
+*Merchandising &amp; Branding Agent:
+Shelly Marchetti 
+smarchetti@apa-agency.com</media:description>
+			<media:keywords>shanedawsontv, official, twilight, breaking, dawn, trailer, funny, spoof, bella, edward, cullen</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=Ii7r3_jh7VY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ii7r3_jh7VY/default.jpg' height='90' width='120' time='00:01:45.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ii7r3_jh7VY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ii7r3_jh7VY/1.jpg' height='90' width='120' time='00:00:52.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ii7r3_jh7VY/2.jpg' height='90' width='120' time='00:01:45.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ii7r3_jh7VY/3.jpg' height='90' width='120' time='00:02:38.250' yt:name='end'/>
+			<media:title type='plain'>TWILIGHT: BREAKING FURNITURE</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='211'/>
+			<yt:uploaded>2011-06-11T11:55:21.000Z</yt:uploaded>
+			<yt:videoid>Ii7r3_jh7VY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9284883' max='5' min='1' numRaters='24052' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='4798' viewCount='357622'/>
+		<yt:rating numDislikes='430' numLikes='23622'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMARH47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:D3EfCcNioow</id>
+		<published>2011-06-10T14:56:03.000Z</published>
+		<updated>2011-06-12T08:47:25.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shaycarl'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shaytards'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cabin'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='camping'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='in'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Island'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Park'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='summer'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='family'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fun'/>
+		<title>BABY ON A BRIDGE!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/D3EfCcNioow?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=D3EfCcNioow&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/D3EfCcNioow/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/D3EfCcNioow/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=D3EfCcNioow'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/D3EfCcNioow?v=2'/>
+		<author>
+			<name>SHAYTARDS</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/shaytards</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/D3EfCcNioow/comments?v=2' countHint='8465'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People</media:category>
+			<media:content url='http://www.youtube.com/v/D3EfCcNioow?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='1374' yt:format='5'/>
+			<media:content url='rtsp://v2.cache5.c.youtube.com/CiQLENy73wIaGwmMomLDCR9xDxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='1374' yt:format='1'/>
+			<media:content url='rtsp://v6.cache5.c.youtube.com/CiQLENy73wIaGwmMomLDCR9xDxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='1374' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>SHAYTARDS</media:credit>
+			<media:description type='plain'>Check out the new video I did on my shaycarl channel with Mystery Guitar Man and Conan Obrien! 
+http://www.youtube.com/watch?v=cA68F0VOOq4&amp;feature=channel_video_title
+
+*NEW SHIRTS ARE HERE*
+GET YOUR SHAYCARL SHIRTS, HATS, HOODIES &amp; STICKERS HERE!
+http://www.DistrictLines.com/Shay-Carl
+
+Subscribe to my bro yo! http://www.youtube.com/CaseyLavere
+
+OUR WEBSITE
+http://www.shaycarl.com
+
+Be my Book Facer friend!
+http://www.FaceBook.com/ShayCarlBook
+
+Subscribe to my iPhone channel for quick live updates.
+http://www.youtube.com/iphoneTARD
+
+OUR TWEETS
+
+Shay http://www.twitter.com/shaycarl
+
+Katilette http://www.twitter.com/katilette</media:description>
+			<media:keywords>shaycarl, shaytards, cabin, camping, in, Island, Park, summer, family, fun</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=D3EfCcNioow&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D3EfCcNioow/default.jpg' height='90' width='120' time='00:11:27' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D3EfCcNioow/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D3EfCcNioow/1.jpg' height='90' width='120' time='00:05:43.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D3EfCcNioow/2.jpg' height='90' width='120' time='00:11:27' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/D3EfCcNioow/3.jpg' height='90' width='120' time='00:17:10.500' yt:name='end'/>
+			<media:title type='plain'>BABY ON A BRIDGE!</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='1374'/>
+			<yt:uploaded>2011-06-10T14:56:03.000Z</yt:uploaded>
+			<yt:videoid>D3EfCcNioow</yt:videoid>
+		</media:group>
+		<gd:rating average='4.974191' max='5' min='1' numRaters='22938' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='2684' viewCount='254628'/>
+		<yt:rating numDislikes='148' numLikes='22790'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMAQ347eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:RgycQvyfeTs</id>
+		<published>2011-06-10T22:48:34.000Z</published>
+		<updated>2011-06-12T08:47:22.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sxephil'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='philip'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='defranco'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Kristen'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Bell'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Tracy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Morgan'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Gays'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='New'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='York'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Spain'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='PSN'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Hackers'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Weston'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Cage'/>
+		<title>Gay Panic at the Disco! featuring Tracy Morgan</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/RgycQvyfeTs?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=RgycQvyfeTs&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/RgycQvyfeTs/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/RgycQvyfeTs/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=RgycQvyfeTs'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/RgycQvyfeTs?v=2'/>
+		<author>
+			<name>sxephil</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/sxephil</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='allowed'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/RgycQvyfeTs/comments?v=2' countHint='14052'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='http://www.youtube.com/v/RgycQvyfeTs?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='409' yt:format='5'/>
+			<media:content url='rtsp://v3.cache4.c.youtube.com/CiQLENy73wIaGwk7eZ_8QpwMRhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='409' yt:format='1'/>
+			<media:content url='rtsp://v7.cache1.c.youtube.com/CiQLENy73wIaGwk7eZ_8QpwMRhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='409' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>sxephil</media:credit>
+			<media:description type='plain'>Love P0ster: http://dft.ba/-vyN  New Fail Friday: http://st8.fm/PhillyD
+New Movie Club - http://youtu.be/yClrZqADoS8
+
+----------------------------
+FACEBOOK: http://on.fb.me/mqpRW7  TWITTER:  http://Twitter.com/PhillyD
+----------------------------
+All of todays stories:  http://dft.ba/-vyO
+----------------------------
+
+music by:
+Ronald Jenkees: http://bit.ly/mQsz3h
+@hagemeister
+@urbandelights</media:description>
+			<media:keywords>sxephil, philip, defranco, Kristen, Bell, Tracy, Morgan, Gays, New, York, Spain, PSN, Hackers, Weston, Cage</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=RgycQvyfeTs&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/RgycQvyfeTs/default.jpg' height='90' width='120' time='00:03:24.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/RgycQvyfeTs/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/RgycQvyfeTs/1.jpg' height='90' width='120' time='00:01:42.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/RgycQvyfeTs/2.jpg' height='90' width='120' time='00:03:24.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/RgycQvyfeTs/3.jpg' height='90' width='120' time='00:05:06.750' yt:name='end'/>
+			<media:title type='plain'>Gay Panic at the Disco! featuring Tracy Morgan</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='409'/>
+			<yt:uploaded>2011-06-10T22:48:34.000Z</yt:uploaded>
+			<yt:videoid>RgycQvyfeTs</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9306936' max='5' min='1' numRaters='23259' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1562' viewCount='373749'/>
+		<yt:rating numDislikes='403' numLikes='22856'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkQCRX47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:mPlsC8CERII</id>
+		<published>2011-06-11T02:54:25.000Z</published>
+		<updated>2011-06-12T08:46:04.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ROCKTARD'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='BIRTHDAY'/>
+		<title>HAPPY BIRTHDAY ROCKTARD!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/mPlsC8CERII?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=mPlsC8CERII&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/mPlsC8CERII/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/mPlsC8CERII/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=mPlsC8CERII'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/mPlsC8CERII?v=2'/>
+		<author>
+			<name>SHAYTARDS</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/shaytards</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/mPlsC8CERII/comments?v=2' countHint='7844'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People</media:category>
+			<media:content url='http://www.youtube.com/v/mPlsC8CERII?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='163' yt:format='5'/>
+			<media:content url='rtsp://v5.cache5.c.youtube.com/CiQLENy73wIaGwmCRITAC2z5mBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='163' yt:format='1'/>
+			<media:content url='rtsp://v1.cache6.c.youtube.com/CiQLENy73wIaGwmCRITAC2z5mBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='163' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>SHAYTARDS</media:credit>
+			<media:description type='plain'>Video edited by: http://www.youtube.com/micahstubz
+
+Amazing song done by http://www.youtube.com/DannaRichards
+
+HAPPY BIRTHDAY ROCKTARD! I love you so much!</media:description>
+			<media:keywords>ROCKTARD, BIRTHDAY</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=mPlsC8CERII&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mPlsC8CERII/default.jpg' height='90' width='120' time='00:01:21.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mPlsC8CERII/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mPlsC8CERII/1.jpg' height='90' width='120' time='00:00:40.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mPlsC8CERII/2.jpg' height='90' width='120' time='00:01:21.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/mPlsC8CERII/3.jpg' height='90' width='120' time='00:02:02.250' yt:name='end'/>
+			<media:title type='plain'>HAPPY BIRTHDAY ROCKTARD!</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='163'/>
+			<yt:uploaded>2011-06-11T02:54:25.000Z</yt:uploaded>
+			<yt:videoid>mPlsC8CERII</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9612494' max='5' min='1' numRaters='14761' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1712' viewCount='147691'/>
+		<yt:rating numDislikes='143' numLikes='14618'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMGRH47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Gh7N4GuSk9U</id>
+		<published>2011-06-10T23:37:44.000Z</published>
+		<updated>2011-06-12T08:47:05.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Too'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Much'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Momentum'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='FAIL'/>
+		<title>Too Much Momentum FAIL</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Gh7N4GuSk9U?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Gh7N4GuSk9U&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Gh7N4GuSk9U/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Gh7N4GuSk9U/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Gh7N4GuSk9U'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/Gh7N4GuSk9U?v=2'/>
+		<author>
+			<name>failblog</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/failblog</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Gh7N4GuSk9U/comments?v=2' countHint='4237'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category>
+			<media:content url='http://www.youtube.com/v/Gh7N4GuSk9U?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='32' yt:format='5'/>
+			<media:content url='rtsp://v1.cache5.c.youtube.com/CiQLENy73wIaGwnVk5Jr4M0eGhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='32' yt:format='1'/>
+			<media:content url='rtsp://v6.cache2.c.youtube.com/CiQLENy73wIaGwnVk5Jr4M0eGhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='32' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>failblog</media:credit>
+			<media:description type='plain'>For more FAIL visit http://failblog.org</media:description>
+			<media:keywords>Too, Much, Momentum, FAIL</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=Gh7N4GuSk9U&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Gh7N4GuSk9U/default.jpg' height='90' width='120' time='00:00:16' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Gh7N4GuSk9U/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Gh7N4GuSk9U/1.jpg' height='90' width='120' time='00:00:08' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Gh7N4GuSk9U/2.jpg' height='90' width='120' time='00:00:16' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Gh7N4GuSk9U/3.jpg' height='90' width='120' time='00:00:24' yt:name='end'/>
+			<media:title type='plain'>Too Much Momentum FAIL</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='32'/>
+			<yt:uploaded>2011-06-10T23:37:44.000Z</yt:uploaded>
+			<yt:videoid>Gh7N4GuSk9U</yt:videoid>
+		</media:group>
+		<gd:rating average='2.999929' max='5' min='1' numRaters='28135' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='270' viewCount='273960'/>
+		<yt:rating numDislikes='14068' numLikes='14067'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMBQ347eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:PfpOJ3QXq7E</id>
+		<published>2011-06-10T19:18:43.000Z</published>
+		<updated>2011-06-12T08:47:32.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='robbie'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='magical'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='magic'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tape'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='worm'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tapeworm'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mexico'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gothic'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='goth'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='butt'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='serpent'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='smosh'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='anthony'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='padilla'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ian'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hecox'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='WHY'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ARE'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='YOU'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='READING'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='THESE'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='MOTHA-FIRETRUCKIN&apos;'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='TAGS?!'/>
+		<title>MY MAGICAL TAPEWORM!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/PfpOJ3QXq7E?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=PfpOJ3QXq7E&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/PfpOJ3QXq7E/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/PfpOJ3QXq7E/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=PfpOJ3QXq7E'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/PfpOJ3QXq7E?v=2'/>
+		<author>
+			<name>smosh</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/smosh</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/PfpOJ3QXq7E/comments?v=2' countHint='6364'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='http://www.youtube.com/v/PfpOJ3QXq7E?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='314' yt:format='5'/>
+			<media:content url='rtsp://v2.cache4.c.youtube.com/CiQLENy73wIaGwmxqxd0J076PRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='314' yt:format='1'/>
+			<media:content url='rtsp://v1.cache3.c.youtube.com/CiQLENy73wIaGwmxqxd0J076PRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='314' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>smosh</media:credit>
+			<media:description type='plain'>DELETED SCENES + BLOOPERS: http://bit.ly/TapewormEXTRAS
+
+The sad story of what happens when you eat some bad Mexican food.
+------------------------------------
+Hey it's our very own website: http://smosh.com
+Smosh merch: http://smosh.com/merch
+Our Facebook page: http://facebook.com/smosh
+Want to know when we're filming and/or pooping? Now you can: http://twitter.com/smosh</media:description>
+			<media:keywords>robbie, the, magical, magic, tape, worm, tapeworm, mexico, gothic, goth, butt, serpent, smosh, anthony, padilla, ian, hecox, WHY, ARE, YOU, READING, THESE, MOTHA-FIRETRUCKIN', TAGS?!</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=PfpOJ3QXq7E&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PfpOJ3QXq7E/default.jpg' height='90' width='120' time='00:02:37' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PfpOJ3QXq7E/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PfpOJ3QXq7E/1.jpg' height='90' width='120' time='00:01:18.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PfpOJ3QXq7E/2.jpg' height='90' width='120' time='00:02:37' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PfpOJ3QXq7E/3.jpg' height='90' width='120' time='00:03:55.500' yt:name='end'/>
+			<media:title type='plain'>MY MAGICAL TAPEWORM!</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='314'/>
+			<yt:uploaded>2011-06-10T19:18:43.000Z</yt:uploaded>
+			<yt:videoid>PfpOJ3QXq7E</yt:videoid>
+		</media:group>
+		<gd:rating average='4.817369' max='5' min='1' numRaters='14762' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='3677' viewCount='683343'/>
+		<yt:rating numDislikes='674' numLikes='14088'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMGQn47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:qyo611Z940w</id>
+		<published>2011-06-10T21:55:36.000Z</published>
+		<updated>2011-06-12T08:47:03.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='vlogluisfiestasok'/>
+		<title>FIESTAS DE SALON - LUISITO REY</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/qyo611Z940w?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=qyo611Z940w&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/qyo611Z940w/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/qyo611Z940w/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=qyo611Z940w'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/qyo611Z940w?v=2'/>
+		<author>
+			<name>luisitorey</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/luisitorey</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/qyo611Z940w/comments?v=2' countHint='2575'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People</media:category>
+			<media:content url='http://www.youtube.com/v/qyo611Z940w?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='679' yt:format='5'/>
+			<media:content url='rtsp://v5.cache8.c.youtube.com/CiQLENy73wIaGwlM431W1zoqqxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='679' yt:format='1'/>
+			<media:content url='rtsp://v5.cache5.c.youtube.com/CiQLENy73wIaGwlM431W1zoqqxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='679' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>luisitorey</media:credit>
+			<media:description type='plain'/>
+			<media:keywords>vlogluisfiestasok</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=qyo611Z940w&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qyo611Z940w/default.jpg' height='90' width='120' time='00:05:39.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qyo611Z940w/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qyo611Z940w/1.jpg' height='90' width='120' time='00:02:49.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qyo611Z940w/2.jpg' height='90' width='120' time='00:05:39.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/qyo611Z940w/3.jpg' height='90' width='120' time='00:08:29.250' yt:name='end'/>
+			<media:title type='plain'>FIESTAS DE SALON - LUISITO REY</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='679'/>
+			<yt:uploaded>2011-06-10T21:55:36.000Z</yt:uploaded>
+			<yt:videoid>qyo611Z940w</yt:videoid>
+		</media:group>
+		<gd:rating average='4.937548' max='5' min='1' numRaters='12938' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1047' viewCount='147281'/>
+		<yt:rating numDislikes='202' numLikes='12736'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkYNQH47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:vAes-a7tHAg</id>
+		<published>2011-06-11T14:57:48.000Z</published>
+		<updated>2011-06-12T08:43:11.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Games' label='Gaming'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Road'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='to'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Rage'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Quit'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Wings'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Redemption'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='black'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ops'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mw2'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cod4'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='waw'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tdm'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='demolition'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hate'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='my'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='team'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='twitter'/>
+		<title>Come back and Hate</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/vAes-a7tHAg?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=vAes-a7tHAg&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/vAes-a7tHAg/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/vAes-a7tHAg/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=vAes-a7tHAg'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/vAes-a7tHAg?v=2'/>
+		<author>
+			<name>WingsofRedemption</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/wingsofredemption</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/vAes-a7tHAg/comments?v=2' countHint='2595'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Gaming' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Games</media:category>
+			<media:content url='http://www.youtube.com/v/vAes-a7tHAg?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='205' yt:format='5'/>
+			<media:content url='rtsp://v8.cache6.c.youtube.com/CiQLENy73wIaGwkIHO2u-awHvBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='205' yt:format='1'/>
+			<media:content url='rtsp://v5.cache8.c.youtube.com/CiQLENy73wIaGwkIHO2u-awHvBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='205' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>WingsofRedemption</media:credit>
+			<media:description type='plain'>Chicken Sandwitch</media:description>
+			<media:keywords>Road, to, the, Rage, Quit, Wings, of, Redemption, black, ops, mw2, cod4, waw, tdm, demolition, hate, my, team, twitter</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=vAes-a7tHAg&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vAes-a7tHAg/default.jpg' height='90' width='120' time='00:01:42.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vAes-a7tHAg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vAes-a7tHAg/1.jpg' height='90' width='120' time='00:00:51.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vAes-a7tHAg/2.jpg' height='90' width='120' time='00:01:42.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/vAes-a7tHAg/3.jpg' height='90' width='120' time='00:02:33.750' yt:name='end'/>
+			<media:title type='plain'>Come back and Hate</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='205'/>
+			<yt:uploaded>2011-06-11T14:57:48.000Z</yt:uploaded>
+			<yt:videoid>vAes-a7tHAg</yt:videoid>
+		</media:group>
+		<gd:rating average='4.843464' max='5' min='1' numRaters='13441' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1094' viewCount='26829'/>
+		<yt:rating numDislikes='526' numLikes='12915'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMAQH47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:PAYFfJ8E9z4</id>
+		<published>2011-06-10T14:58:02.000Z</published>
+		<updated>2011-06-12T08:47:21.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='The'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Real'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Bubzbeauty'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='truth'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='about'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bubz'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bubbi'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rikehtube'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='asian'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='family'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rikeh'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chubby'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='funny'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='comedy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='skit'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='crazy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bitch'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='put'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='her'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='foot'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='in'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='my'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mouth'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='probably'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gave'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='me'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='and'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='disease'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fml'/>
+		<title>The REAL Bubzbeauty</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/PAYFfJ8E9z4?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=PAYFfJ8E9z4&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/PAYFfJ8E9z4/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/PAYFfJ8E9z4/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=PAYFfJ8E9z4'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/PAYFfJ8E9z4?v=2'/>
+		<author>
+			<name>rikehtube</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/rikehtube</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/PAYFfJ8E9z4/comments?v=2' countHint='3728'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category>
+			<media:content url='http://www.youtube.com/v/PAYFfJ8E9z4?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='258' yt:format='5'/>
+			<media:content url='rtsp://v1.cache7.c.youtube.com/CiQLENy73wIaGwk-9wSffAUGPBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='258' yt:format='1'/>
+			<media:content url='rtsp://v2.cache3.c.youtube.com/CiQLENy73wIaGwk-9wSffAUGPBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='258' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>rikehtube</media:credit>
+			<media:description type='plain'>Hallo my bradahs!
+
+It's Rikeh!
+I think it's about time you all knew the truth about the REAL Bubzbeauty.
+I know her true colours. She is PURE EVIL!!!!
+How would I know? I'm her brother...... unfortunately! ='( LOL JOKES! or am I?
+
+Cheers sis (Bubz) for collaborating with me in my first video. She has faith in me *happy tears*. I will actually be featured in her next Bubbiosity video so watch out for lil Rikeh ;)
+
+Follow me on Twitter. I have no friends ='(
+http://www.twitter.com/rikehtube
+
+My Sis Bubz's comedy channel:
+http://www.youtube.com/bubbiosity
+
+Do you guys have any crazy siblings? Comment below. And if they're hot, comment with their phone numbers below =D.
+
+Thanks for watching my video. Don't forget to subscribe for more random shiz.
+
+Rikeh</media:description>
+			<media:keywords>The, Real, Bubzbeauty, truth, about, bubz, bubbi, rikehtube, asian, family, rikeh, chubby, funny, comedy, skit, crazy, bitch, put, her, foot, in, my, mouth, probably, gave, me, and, disease, fml</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=PAYFfJ8E9z4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PAYFfJ8E9z4/default.jpg' height='90' width='120' time='00:02:09' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PAYFfJ8E9z4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PAYFfJ8E9z4/1.jpg' height='90' width='120' time='00:01:04.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PAYFfJ8E9z4/2.jpg' height='90' width='120' time='00:02:09' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/PAYFfJ8E9z4/3.jpg' height='90' width='120' time='00:03:13.500' yt:name='end'/>
+			<media:title type='plain'>The REAL Bubzbeauty</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='258'/>
+			<yt:uploaded>2011-06-10T14:58:02.000Z</yt:uploaded>
+			<yt:videoid>PAYFfJ8E9z4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9800506' max='5' min='1' numRaters='12231' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='4653' viewCount='133405'/>
+		<yt:rating numDislikes='61' numLikes='12170'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkYNRH47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:5rWOvkFBXHY</id>
+		<published>2011-06-11T21:43:26.000Z</published>
+		<updated>2011-06-12T08:43:15.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shaycarl'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='shaytards'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='camping'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Island'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Park'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Idaho'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='West'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Yellowstone'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='James'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Blunt'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Back'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='to'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Bedlam'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='BabyTard'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='singing'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Goodbye'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='My'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Friend'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='New'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='York'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='City'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='NYC'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='JFK'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='beautiful'/>
+		<title>ACCIDENTAL NIPPLE RUB!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/5rWOvkFBXHY?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=5rWOvkFBXHY&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/5rWOvkFBXHY/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/5rWOvkFBXHY/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=5rWOvkFBXHY'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/5rWOvkFBXHY?v=2'/>
+		<author>
+			<name>SHAYTARDS</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/shaytards</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/5rWOvkFBXHY/comments?v=2' countHint='4309'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category>
+			<media:content url='http://www.youtube.com/v/5rWOvkFBXHY?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='917' yt:format='5'/>
+			<media:content url='rtsp://v8.cache5.c.youtube.com/CiQLENy73wIaGwl2XEFBvo615hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='917' yt:format='1'/>
+			<media:content url='rtsp://v2.cache5.c.youtube.com/CiQLENy73wIaGwl2XEFBvo615hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='917' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>SHAYTARDS</media:credit>
+			<media:description type='plain'>Check out the new video I did on my shaycarl channel with Mystery Guitar Man and Conan Obrien! 
+http://www.youtube.com/watch?v=cA68F0VOOq4&amp;feature=channel_video_title
+
+*NEW SHIRTS ARE HERE*
+GET YOUR SHAYCARL SHIRTS, HATS, HOODIES &amp; STICKERS HERE!
+http://www.DistrictLines.com/Shay-Carl
+
+Follow my buddy James Blunt!
+
+http://twitter.com/#!/DirtyLilBlunt
+
+http://www.facebook.com/jamesblunt
+
+Subscribe to my bro yo! http://www.youtube.com/CaseyLavere
+
+OUR WEBSITE
+http://www.shaycarl.com
+
+Be my Book Facer friend!
+http://www.FaceBook.com/ShayCarlBook
+
+Subscribe to my iPhone channel for quick live updates.
+http://www.youtube.com/iphoneTARD
+
+OUR TWEETS
+
+Shay http://www.twitter.com/shaycarl
+
+Katilette http://www.twitter.com/katilette</media:description>
+			<media:keywords>shaycarl, shaytards, camping, Island, Park, Idaho, West, Yellowstone, James, Blunt, Back, to, Bedlam, BabyTard, singing, Goodbye, My, Friend, New, York, City, NYC, JFK, beautiful</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=5rWOvkFBXHY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5rWOvkFBXHY/default.jpg' height='90' width='120' time='00:07:38.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5rWOvkFBXHY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5rWOvkFBXHY/1.jpg' height='90' width='120' time='00:03:49.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5rWOvkFBXHY/2.jpg' height='90' width='120' time='00:07:38.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/5rWOvkFBXHY/3.jpg' height='90' width='120' time='00:11:27.750' yt:name='end'/>
+			<media:title type='plain'>ACCIDENTAL NIPPLE RUB!</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='917'/>
+			<yt:uploaded>2011-06-11T21:43:26.000Z</yt:uploaded>
+			<yt:videoid>5rWOvkFBXHY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9711933' max='5' min='1' numRaters='11664' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1788' viewCount='35842'/>
+		<yt:rating numDislikes='84' numLikes='11580'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMARn47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:1LndJdUJuyQ</id>
+		<published>2011-06-10T16:38:39.000Z</published>
+		<updated>2011-06-12T08:47:27.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Games' label='Gaming'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='world'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='record'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='podcast'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pod'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cast'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gameplay'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='game'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='play'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='commentary'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='new'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='records'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='talk'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='long'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='whiteboy7thst'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='cod'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='call'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='duty'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='black'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ops'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='call duty'/>
+		<title>WORLD RECORD #3</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/1LndJdUJuyQ?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=1LndJdUJuyQ&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/1LndJdUJuyQ/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/1LndJdUJuyQ/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=1LndJdUJuyQ'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/1LndJdUJuyQ?v=2'/>
+		<author>
+			<name>WhiteBoy7thst</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/whiteboy7thst</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/1LndJdUJuyQ/comments?v=2' countHint='4808'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Gaming' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Games</media:category>
+			<media:content url='http://www.youtube.com/v/1LndJdUJuyQ?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='4170' yt:format='5'/>
+			<media:content url='rtsp://v5.cache8.c.youtube.com/CiQLENy73wIaGwkkuwnVJd251BMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='4170' yt:format='1'/>
+			<media:content url='rtsp://v3.cache7.c.youtube.com/CiQLENy73wIaGwkkuwnVJd251BMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='4170' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>WhiteBoy7thst</media:credit>
+			<media:description type='plain'>Please FAVORITE this video! It helps me out a lot :) 
+
+I have another pod cast video similar to this one about my trip to L.A!                                                                                                                                                      
+T-Shirts
+http://www.whiteboy7thst.spreadshirt.com</media:description>
+			<media:keywords>world, record, podcast, pod, cast, gameplay, game, play, commentary, new, records, talk, long, whiteboy7thst, cod, call, of, duty, black, ops, call duty</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=1LndJdUJuyQ&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1LndJdUJuyQ/default.jpg' height='90' width='120' time='00:34:45' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1LndJdUJuyQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1LndJdUJuyQ/1.jpg' height='90' width='120' time='00:17:22.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1LndJdUJuyQ/2.jpg' height='90' width='120' time='00:34:45' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/1LndJdUJuyQ/3.jpg' height='90' width='120' time='00:52:07.500' yt:name='end'/>
+			<media:title type='plain'>WORLD RECORD #3</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='4170'/>
+			<yt:uploaded>2011-06-10T16:38:39.000Z</yt:uploaded>
+			<yt:videoid>1LndJdUJuyQ</yt:videoid>
+		</media:group>
+		<gd:rating average='4.7411804' max='5' min='1' numRaters='11282' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='8458' viewCount='215532'/>
+		<yt:rating numDislikes='730' numLikes='10552'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkcFR347eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:jLP51sxPXcc</id>
+		<published>2011-06-10T17:44:21.000Z</published>
+		<updated>2011-06-12T08:40:16.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ownagepranks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='daycare'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='prank'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='call'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='funny'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='accents'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='improv'/>
+		<title>Old Kid at Daycare Prank - Ownage Pranks</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/jLP51sxPXcc?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=jLP51sxPXcc&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/jLP51sxPXcc/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/jLP51sxPXcc/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=jLP51sxPXcc'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/jLP51sxPXcc?v=2'/>
+		<author>
+			<name>OwnagePranks</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/ownagepranks</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/jLP51sxPXcc/comments?v=2' countHint='4121'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category>
+			<media:content url='http://www.youtube.com/v/jLP51sxPXcc?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='862' yt:format='5'/>
+			<media:content url='rtsp://v1.cache8.c.youtube.com/CiQLENy73wIaGwnHXU_M1vmzjBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='862' yt:format='1'/>
+			<media:content url='rtsp://v1.cache6.c.youtube.com/CiQLENy73wIaGwnHXU_M1vmzjBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='862' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>OwnagePranks</media:credit>
+			<media:description type='plain'>This is a prank from my live show a couple weeks ago, a ton of people requested I put it up :) Follow me on twitter/facebook to catch my live events!
+http://facebook.com/OwnagePranks
+http://twitter.com/OwnagePranks
+
+Shirts! http://districtlines.com/OwnagePranks
+
+Click SHARE and show this to your friends on Facebook/Twitter! 
+
+Subscribe to my vlog channel!
+http://youtube.com/ownagehimself
+
+Subscribe to my 2nd prank channel for short pranks &amp; extras!
+http://youtube.com/MrOwnagePranks
+
+Register on the website and join the growing community on the forums!
+http://ownagepranks.com
+
+Subtitle help from:
+http://www.youtube.com/user/DonaldDuckPotter</media:description>
+			<media:keywords>ownagepranks, daycare, prank, call, funny, accents, improv</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=jLP51sxPXcc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jLP51sxPXcc/default.jpg' height='90' width='120' time='00:07:11' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jLP51sxPXcc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jLP51sxPXcc/1.jpg' height='90' width='120' time='00:03:35.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jLP51sxPXcc/2.jpg' height='90' width='120' time='00:07:11' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/jLP51sxPXcc/3.jpg' height='90' width='120' time='00:10:46.500' yt:name='end'/>
+			<media:title type='plain'>Old Kid at Daycare Prank - Ownage Pranks</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='862'/>
+			<yt:uploaded>2011-06-10T17:44:21.000Z</yt:uploaded>
+			<yt:videoid>jLP51sxPXcc</yt:videoid>
+		</media:group>
+		<gd:rating average='4.953478' max='5' min='1' numRaters='8942' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='2057' viewCount='136601'/>
+		<yt:rating numDislikes='104' numLikes='8838'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMGQ347eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:llluerrge88</id>
+		<published>2011-06-10T19:38:54.000Z</published>
+		<updated>2011-06-12T08:47:02.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SuperJunior'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='슈퍼주니어'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='성민'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SUNGMIN'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='려욱'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='RYEOWOOK'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='희철'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='HEECHUL'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='시원'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SIWON'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='예성'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='YESUNG'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='규현'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='KYUHYUN'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='동해'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='DONGHAE'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='은혁'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='EUNHYUK'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='신동'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SHINDONG'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='이특'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='LEETEUK'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SJ'/>
+		<title>[SMTOWN LIVE WORLD TOUR in PARIS] Don't Don _ Super Junior</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/llluerrge88?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=llluerrge88&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/llluerrge88/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/llluerrge88/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=llluerrge88'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/llluerrge88?v=2'/>
+		<author>
+			<name>smtown</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/smtown</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/llluerrge88/comments?v=2' countHint='3773'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category>
+			<media:content url='http://www.youtube.com/v/llluerrge88?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='301' yt:format='5'/>
+			<media:content url='rtsp://v7.cache1.c.youtube.com/CiQLENy73wIaGwnPe-C6em5ZlhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='301' yt:format='1'/>
+			<media:content url='rtsp://v1.cache5.c.youtube.com/CiQLENy73wIaGwnPe-C6em5ZlhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='301' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>smtown</media:credit>
+			<media:description type='plain'>♬ Enjoy everything about SMTOWN LIVE WORLD TOUR in PARIS
+♬ FACEBOOK SMTOWN : http://www.facebook.com/smtown
+♬ Super Junior Don't Don ℗ S.M.Entertainment</media:description>
+			<media:keywords>SuperJunior, 슈퍼주니어, 성민, SUNGMIN, 려욱, RYEOWOOK, 희철, HEECHUL, 시원, SIWON, 예성, YESUNG, 규현, KYUHYUN, 동해, DONGHAE, 은혁, EUNHYUK, 신동, SHINDONG, 이특, LEETEUK, SJ</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=llluerrge88&amp;feature=youtube_gdata_player'/>
+			<media:restriction type='country' relationship='deny'>DE</media:restriction>
+			<media:thumbnail url='http://i.ytimg.com/vi/llluerrge88/default.jpg' height='90' width='120' time='00:02:30.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/llluerrge88/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/llluerrge88/1.jpg' height='90' width='120' time='00:01:15.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/llluerrge88/2.jpg' height='90' width='120' time='00:02:30.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/llluerrge88/3.jpg' height='90' width='120' time='00:03:45.750' yt:name='end'/>
+			<media:title type='plain'>[SMTOWN LIVE WORLD TOUR in PARIS] Don't Don _ Super Junior</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='301'/>
+			<yt:uploaded>2011-06-10T19:38:54.000Z</yt:uploaded>
+			<yt:videoid>llluerrge88</yt:videoid>
+		</media:group>
+		<gd:rating average='4.89488' max='5' min='1' numRaters='8828' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='3688' viewCount='365303'/>
+		<yt:rating numDislikes='232' numLikes='8596'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkUBQn47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:VR_oaRD2nl8</id>
+		<published>2011-06-11T07:10:14.000Z</published>
+		<updated>2011-06-12T08:44:13.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='disney'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='land'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='world'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='with'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fpsrussia'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fps'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kyle'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='whiteboy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='white'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='boy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='whiteboy7thst'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='xjawz'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='paintball'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kitty'/>
+		<title>Disney Land with FPS Russia, Whiteboy7thst, and Paintball Kitty!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/VR_oaRD2nl8?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=VR_oaRD2nl8&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/VR_oaRD2nl8/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/VR_oaRD2nl8/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=VR_oaRD2nl8'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/VR_oaRD2nl8?v=2'/>
+		<author>
+			<name>xJawz</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/xjawz</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/VR_oaRD2nl8/comments?v=2' countHint='2701'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People</media:category>
+			<media:content url='http://www.youtube.com/v/VR_oaRD2nl8?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='45' yt:format='5'/>
+			<media:content url='rtsp://v6.cache6.c.youtube.com/CiQLENy73wIaGwlfnvYQaegfVRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='45' yt:format='1'/>
+			<media:content url='rtsp://v5.cache6.c.youtube.com/CiQLENy73wIaGwlfnvYQaegfVRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='45' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>xJawz</media:credit>
+			<media:description type='plain'>Please take a moment to rate the video guys!
+
+Paintball Kitty: http://www.youtube.com/user/PaintballKitty
+Whiteboy7thst: http://www.youtube.com/user/WhiteBoy7thst
+FPSRussia: http://www.youtube.com/user/fpsrussia</media:description>
+			<media:keywords>disney, land, world, with, fpsrussia, fps, kyle, whiteboy, white, boy, whiteboy7thst, xjawz, paintball, kitty</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=VR_oaRD2nl8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VR_oaRD2nl8/default.jpg' height='90' width='120' time='00:00:22.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VR_oaRD2nl8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VR_oaRD2nl8/1.jpg' height='90' width='120' time='00:00:11.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VR_oaRD2nl8/2.jpg' height='90' width='120' time='00:00:22.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/VR_oaRD2nl8/3.jpg' height='90' width='120' time='00:00:33.750' yt:name='end'/>
+			<media:title type='plain'>Disney Land with FPS Russia, Whiteboy7thst, and Paintball Kitty!</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='45'/>
+			<yt:uploaded>2011-06-11T07:10:14.000Z</yt:uploaded>
+			<yt:videoid>VR_oaRD2nl8</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9148126' max='5' min='1' numRaters='8405' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='764' viewCount='142835'/>
+		<yt:rating numDislikes='179' numLikes='8226'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMEQX47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Kyqo_AVnIS4</id>
+		<published>2011-06-10T18:21:42.000Z</published>
+		<updated>2011-06-12T08:46:40.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SHINee 샤이니'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='민호'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='MINHO'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='종현'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='JONGHYUN'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='태민'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='TAEMIN'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='키'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='KEY'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='온유'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ONEW'/>
+		<title>[SMTOWN LIVE WORLD TOUR in PARIS] Replay _ SHINee</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Kyqo_AVnIS4?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Kyqo_AVnIS4&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Kyqo_AVnIS4/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Kyqo_AVnIS4/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Kyqo_AVnIS4'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/Kyqo_AVnIS4?v=2'/>
+		<author>
+			<name>smtown</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/smtown</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Kyqo_AVnIS4/comments?v=2' countHint='3350'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category>
+			<media:content url='http://www.youtube.com/v/Kyqo_AVnIS4?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='213' yt:format='5'/>
+			<media:content url='rtsp://v3.cache7.c.youtube.com/CiQLENy73wIaGwkuIWcF_KgqKxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='213' yt:format='1'/>
+			<media:content url='rtsp://v3.cache5.c.youtube.com/CiQLENy73wIaGwkuIWcF_KgqKxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='213' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>smtown</media:credit>
+			<media:description type='plain'>♬ Enjoy everything about SMTOWN LIVE WORLD TOUR in PARIS
+♬ FACEBOOK SMTOWN : http://www.facebook.com/smtown
+♬ SHINee Replay ℗ S.M.Entertainment</media:description>
+			<media:keywords>SHINee 샤이니, 민호, MINHO, 종현, JONGHYUN, 태민, TAEMIN, 키, KEY, 온유, ONEW</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=Kyqo_AVnIS4&amp;feature=youtube_gdata_player'/>
+			<media:restriction type='country' relationship='deny'>DE</media:restriction>
+			<media:thumbnail url='http://i.ytimg.com/vi/Kyqo_AVnIS4/default.jpg' height='90' width='120' time='00:01:46.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Kyqo_AVnIS4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Kyqo_AVnIS4/1.jpg' height='90' width='120' time='00:00:53.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Kyqo_AVnIS4/2.jpg' height='90' width='120' time='00:01:46.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Kyqo_AVnIS4/3.jpg' height='90' width='120' time='00:02:39.750' yt:name='end'/>
+			<media:title type='plain'>[SMTOWN LIVE WORLD TOUR in PARIS] Replay _ SHINee</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='213'/>
+			<yt:uploaded>2011-06-10T18:21:42.000Z</yt:uploaded>
+			<yt:videoid>Kyqo_AVnIS4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.912626' max='5' min='1' numRaters='8332' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='3818' viewCount='418814'/>
+		<yt:rating numDislikes='182' numLikes='8150'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkQDRn47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:2TqM0XmKaGQ</id>
+		<published>2011-06-10T19:55:27.000Z</published>
+		<updated>2011-06-12T08:46:17.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='remi'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='remy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='gaillard'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='grenziger'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='goldorak'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='army'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='armée'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='war'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='guerre'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='actarus'/>
+		<title>Goldorak (Rémi Gaillard)</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/2TqM0XmKaGQ?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=2TqM0XmKaGQ&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/2TqM0XmKaGQ/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/2TqM0XmKaGQ/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=2TqM0XmKaGQ'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/2TqM0XmKaGQ?v=2'/>
+		<author>
+			<name>nqtv</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/nqtv</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/2TqM0XmKaGQ/comments?v=2' countHint='2452'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category>
+			<media:content url='http://www.youtube.com/v/2TqM0XmKaGQ?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='91' yt:format='5'/>
+			<media:content url='rtsp://v2.cache4.c.youtube.com/CiQLENy73wIaGwlkaIp50Yw62RMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='91' yt:format='1'/>
+			<media:content url='rtsp://v4.cache1.c.youtube.com/CiQLENy73wIaGwlkaIp50Yw62RMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='91' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>nqtv</media:credit>
+			<media:description type='plain'>Dangerously funny videos created and produced by Rémi GAILLARD. The show continues on http://www.nimportequi.com</media:description>
+			<media:keywords>remi, remy, gaillard, grenziger, goldorak, army, armée, war, guerre, actarus</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=2TqM0XmKaGQ&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2TqM0XmKaGQ/default.jpg' height='90' width='120' time='00:00:45.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2TqM0XmKaGQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2TqM0XmKaGQ/1.jpg' height='90' width='120' time='00:00:22.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2TqM0XmKaGQ/2.jpg' height='90' width='120' time='00:00:45.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/2TqM0XmKaGQ/3.jpg' height='90' width='120' time='00:01:08.250' yt:name='end'/>
+			<media:title type='plain'>Goldorak (Rémi Gaillard)</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='91'/>
+			<yt:uploaded>2011-06-10T19:55:27.000Z</yt:uploaded>
+			<yt:videoid>2TqM0XmKaGQ</yt:videoid>
+		</media:group>
+		<gd:rating average='4.921521' max='5' min='1' numRaters='8257' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='932' viewCount='236195'/>
+		<yt:rating numDislikes='162' numLikes='8095'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMHQH47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:EOWrdo1kVYw</id>
+		<published>2011-06-10T19:23:46.000Z</published>
+		<updated>2011-06-12T08:47:11.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Girls&apos;Generation'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='소녀시대'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='태연'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='TAEYEON'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='티파니'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='TIFFANY'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='써니'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SUNNY'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='서현'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SEOHYUN'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='제시카'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='JESSICA'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='유리'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='YURI'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='윤아'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='YOONA'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='효연'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='HYOYEON'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='수영'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SOOYOUNG'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='GG'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='SNSD'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='少女時代'/>
+		<title>[SMTOWN LIVE WORLD TOUR in PARIS] Genie _ Girls' Generation</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/EOWrdo1kVYw?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=EOWrdo1kVYw&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/EOWrdo1kVYw/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/EOWrdo1kVYw/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=EOWrdo1kVYw'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/EOWrdo1kVYw?v=2'/>
+		<author>
+			<name>smtown</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/smtown</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/EOWrdo1kVYw/comments?v=2' countHint='4023'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category>
+			<media:content url='http://www.youtube.com/v/EOWrdo1kVYw?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='233' yt:format='5'/>
+			<media:content url='rtsp://v3.cache3.c.youtube.com/CiQLENy73wIaGwmMVWSNdqvlEBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='233' yt:format='1'/>
+			<media:content url='rtsp://v3.cache2.c.youtube.com/CiQLENy73wIaGwmMVWSNdqvlEBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='233' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>smtown</media:credit>
+			<media:description type='plain'>♬ Enjoy everything about SMTOWN LIVE WORLD TOUR in PARIS
+♬ FACEBOOK SMTOWN : http://www.facebook.com/smtown
+♬ Girls' Generation Genie ℗ S.M.Entertainment</media:description>
+			<media:keywords>Girls'Generation, 소녀시대, 태연, TAEYEON, 티파니, TIFFANY, 써니, SUNNY, 서현, SEOHYUN, 제시카, JESSICA, 유리, YURI, 윤아, YOONA, 효연, HYOYEON, 수영, SOOYOUNG, GG, SNSD, 少女時代</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=EOWrdo1kVYw&amp;feature=youtube_gdata_player'/>
+			<media:restriction type='country' relationship='deny'>DE</media:restriction>
+			<media:thumbnail url='http://i.ytimg.com/vi/EOWrdo1kVYw/default.jpg' height='90' width='120' time='00:01:56.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EOWrdo1kVYw/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EOWrdo1kVYw/1.jpg' height='90' width='120' time='00:00:58.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EOWrdo1kVYw/2.jpg' height='90' width='120' time='00:01:56.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/EOWrdo1kVYw/3.jpg' height='90' width='120' time='00:02:54.750' yt:name='end'/>
+			<media:title type='plain'>[SMTOWN LIVE WORLD TOUR in PARIS] Genie _ Girls' Generation</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='233'/>
+			<yt:uploaded>2011-06-10T19:23:46.000Z</yt:uploaded>
+			<yt:videoid>EOWrdo1kVYw</yt:videoid>
+		</media:group>
+		<gd:rating average='4.6065063' max='5' min='1' numRaters='9037' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='2975' viewCount='765971'/>
+		<yt:rating numDislikes='889' numLikes='8148'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkYNRH47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:yULxdzqhXUI</id>
+		<published>2011-06-11T18:32:40.000Z</published>
+		<updated>2011-06-12T08:43:15.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Dave'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Days'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='You&apos;ve'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Been'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='On'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='My'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Mind'/>
+		<title>Dave Days - You've Been On My Mind - Official Music Video</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/yULxdzqhXUI?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=yULxdzqhXUI&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/yULxdzqhXUI/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/yULxdzqhXUI/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=yULxdzqhXUI'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/yULxdzqhXUI?v=2'/>
+		<author>
+			<name>davedays</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/davedays</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/yULxdzqhXUI/comments?v=2' countHint='9039'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category>
+			<media:content url='http://www.youtube.com/v/yULxdzqhXUI?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='301' yt:format='5'/>
+			<media:content url='rtsp://v6.cache5.c.youtube.com/CiQLENy73wIaGwlCXaE6d_FCyRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='301' yt:format='1'/>
+			<media:content url='rtsp://v4.cache1.c.youtube.com/CiQLENy73wIaGwlCXaE6d_FCyRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='301' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>davedays</media:credit>
+			<media:description type='plain'>Song on iTunes! http://itunes.apple.com/us/album/dinner-and-a-movie/id410949144
+
+Follow me on Twitter: http://www.twitter.com/davedays
+
+Facebook: http://www.facebook.com/ddays
+
+Get shirts! http://www.gomerch.com/davedays
+______________________________________________
+
+Thanks to Kurt for directing and filming: http://www.youtube.com/KurtHugoSchneider
+
+CAST
+Dave - Dave Days (http://youtube.com/davedays)
+Kimmi - Kimmi Smiles (http://youtube.com/kimmitalks)
+Little Dave - Sinoeh Yanes
+Little Kimmi - Skyler
+Drummer - Ricky Ficarelli (http://youtube.com/rickyficarelli)
+Guitarist - Jake Broido  (http://youtube.com/jakebroido)
+Froyo extras - Eugene Luzong, Dana McKee
+
+CREW
+Director - Kurt Schneider (http://youtube.com/kurthugoschneider)
+DP - Chris Ripley (http://christopherripley.com)
+Producers - Jen Alarcon, TJ Smith (http://youtube.com/ivyleaguepunk)
+2nd AD - Lindsey Pearsall
+Production Assistants - Cristian Carceller, Eugene Luzong, Taylor Lipari (http://youtube.com/taylorlipari)
+G&amp;E - Kurt Schmidt, Mike Schmidt
+Art Dept - Artie Terra, Brittany White, Remy Brimmer
+Grip - Kate Kodet
+
+Special thanks to Introspect Entertainment, Menchie's froyo, and all the awesome people who came to be in the concert scene (you guys rock)</media:description>
+			<media:keywords>Dave, Days, You've, Been, On, My, Mind</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=yULxdzqhXUI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yULxdzqhXUI/default.jpg' height='90' width='120' time='00:02:30.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yULxdzqhXUI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yULxdzqhXUI/1.jpg' height='90' width='120' time='00:01:15.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yULxdzqhXUI/2.jpg' height='90' width='120' time='00:02:30.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yULxdzqhXUI/3.jpg' height='90' width='120' time='00:03:45.750' yt:name='end'/>
+			<media:title type='plain'>Dave Days - You've Been On My Mind - Official Music Video</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='301'/>
+			<yt:uploaded>2011-06-11T18:32:40.000Z</yt:uploaded>
+			<yt:videoid>yULxdzqhXUI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.962448' max='5' min='1' numRaters='8415' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='3040' viewCount='74675'/>
+		<yt:rating numDislikes='79' numLikes='8336'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkMHR347eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Vzl9ntDPeoI</id>
+		<published>2011-06-10T19:43:55.000Z</published>
+		<updated>2011-06-12T08:47:16.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Michelle'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Phan'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ricebunny'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mascara'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='jessica'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='harlow'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='makeup'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='tutorial'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='how'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='to'/>
+		<title>Mascara 101</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Vzl9ntDPeoI?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Vzl9ntDPeoI&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Vzl9ntDPeoI/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Vzl9ntDPeoI/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Vzl9ntDPeoI'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/Vzl9ntDPeoI?v=2'/>
+		<author>
+			<name>MichellePhan</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/michellephan</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Vzl9ntDPeoI/comments?v=2' countHint='2001'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto</media:category>
+			<media:content url='http://www.youtube.com/v/Vzl9ntDPeoI?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='222' yt:format='5'/>
+			<media:content url='rtsp://v1.cache8.c.youtube.com/CiQLENy73wIaGwmCes_Qnn05VxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='222' yt:format='1'/>
+			<media:content url='rtsp://v4.cache8.c.youtube.com/CiQLENy73wIaGwmCes_Qnn05VxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='222' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>MichellePhan</media:credit>
+			<media:description type='plain'>Before you buy a new mascara, watch this video! Jessica Harlow and I are going to give you a breakdown on the type of mascara that could work better for your lash type :)
+
+Please check out my girl Jessica Harlow. She has Ahhhmazing makeup tutorials!
+http://www.youtube.com/MissJessicaHarlow
+
+Music by Samantha James
+"I Found You"
+
+Mascaras used
+
+ÔSCILLATION INTENSITY
+http://bit.ly/lid6xC
+
+HYPNÔSE
+http://bit.ly/iLZWhP
+
+Monthly Lancome sponsored video
+filmed in NY</media:description>
+			<media:keywords>Michelle, Phan, ricebunny, mascara, jessica, harlow, makeup, tutorial, how, to</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=Vzl9ntDPeoI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Vzl9ntDPeoI/default.jpg' height='90' width='120' time='00:01:51' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Vzl9ntDPeoI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Vzl9ntDPeoI/1.jpg' height='90' width='120' time='00:00:55.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Vzl9ntDPeoI/2.jpg' height='90' width='120' time='00:01:51' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Vzl9ntDPeoI/3.jpg' height='90' width='120' time='00:02:46.500' yt:name='end'/>
+			<media:title type='plain'>Mascara 101</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='222'/>
+			<yt:uploaded>2011-06-10T19:43:55.000Z</yt:uploaded>
+			<yt:videoid>Vzl9ntDPeoI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.8357143' max='5' min='1' numRaters='8400' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1102' viewCount='300413'/>
+		<yt:rating numDislikes='345' numLikes='8055'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkUDRX47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:7yEKYUJRPtY</id>
+		<published>2011-06-11T14:53:25.000Z</published>
+		<updated>2011-06-12T08:44:34.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Comedy' label='Comedy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Bubbiosity'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rikehtube'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='High'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='school'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chicks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='girls'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='hot'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='popular'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='funny'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='skit'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='asian'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='chinese'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ip'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='man'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='parody'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mean'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='baby'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bubz'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='you'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='just'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='checked'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='out'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='man&apos;s'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ass'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='lol'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fml'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='enjoy'/>
+		<title>High School Girls</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/7yEKYUJRPtY?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=7yEKYUJRPtY&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/7yEKYUJRPtY/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/7yEKYUJRPtY/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=7yEKYUJRPtY'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/7yEKYUJRPtY?v=2'/>
+		<author>
+			<name>bubbiosity</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/bubbiosity</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/7yEKYUJRPtY/comments?v=2' countHint='3300'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Comedy' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Comedy</media:category>
+			<media:content url='http://www.youtube.com/v/7yEKYUJRPtY?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='329' yt:format='5'/>
+			<media:content url='rtsp://v2.cache7.c.youtube.com/CiQLENy73wIaGwnWPlFCYQoh7xMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='329' yt:format='1'/>
+			<media:content url='rtsp://v4.cache3.c.youtube.com/CiQLENy73wIaGwnWPlFCYQoh7xMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='329' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>bubbiosity</media:credit>
+			<media:description type='plain'>IT REALLY HAS BEEN A WHILE! But I'm back! ^_~
+
+This video is all about High School and the different groups of people you'll meet during school. There's the geeks, freaks, asians, vampires and of course, the plastics! The most pretty &amp; popular girls in school. They may be "beautiful", but we all know ALL women are dangerous. Just another random video for fun. Not to be taken seriously so hope nobody gets offended ^_^
+
+Big shout out to Ricky, Leon &amp; Tim for helping me out in this Bubbiosity video! It takes a real man to be dressed up as ladies in crazy makeup!! Apparently the day we filmed was the day they lost their dignity though....
+
+What was your most hilarious memory of High School? Comment and let me know! Subscribe to my VLOG channel 'Bubzvlogz' for blooper video (coming soon).
+
+To those who clicked the video for the 'thumbnail of the hot ass', how does it feel to know that the 'hot ass' actually belongs a MALE. Yes, you just checked out a MAN's ass!!!!! 
+
+Check out my brother Ricky's new comedy channel. You can watch here: http://www.youtube.com/watch?v=PAYFfJ8E9z4&amp;feature=channel_video_title
+
+Subscribe to Ricky's Youtube channel:
+http://www.youtube.com/rikehtube
+
+
+
+
+Follow me on Twitter:
+http://www.twitter.com/bubzbeauty
+
+Subscribe to my Vlog channel:
+http://www.youtube.com/bubzvlogz
+
+Bubzbeauty Official Website:
+http://www.bubzbeauty.com
+
+Shop the Bubbi Clothing Line:
+http://bubbi.bubzbeauty.com
+
+
+Connect with me at the Bubzbeauty Fanpage where I chill n catch up with you guys ^^
+http://www.facebook.com/ItsBubz</media:description>
+			<media:keywords>Bubbiosity, rikehtube, High, school, chicks, girls, hot, popular, funny, skit, asian, chinese, ip, man, parody, mean, baby, bubz, you, just, checked, out, man's, ass, lol, fml, enjoy</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=7yEKYUJRPtY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7yEKYUJRPtY/default.jpg' height='90' width='120' time='00:02:44.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7yEKYUJRPtY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7yEKYUJRPtY/1.jpg' height='90' width='120' time='00:01:22.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7yEKYUJRPtY/2.jpg' height='90' width='120' time='00:02:44.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/7yEKYUJRPtY/3.jpg' height='90' width='120' time='00:04:06.750' yt:name='end'/>
+			<media:title type='plain'>High School Girls</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='329'/>
+			<yt:uploaded>2011-06-11T14:53:25.000Z</yt:uploaded>
+			<yt:videoid>7yEKYUJRPtY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.9205427' max='5' min='1' numRaters='8105' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='2650' viewCount='99055'/>
+		<yt:rating numDislikes='161' numLikes='7944'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkYARX47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Ra7zGysnUPU</id>
+		<published>2011-06-10T12:47:00.000Z</published>
+		<updated>2011-06-12T08:42:24.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Games' label='Gaming'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='slyfoxhound'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='xxslyxx'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='xxslyfoxhoundxx'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='slyfox'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='minecraft'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='HomieCraft'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Notch'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Homieknights'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='the'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='octagontable'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='are'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='so'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='strong'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='theirTrololololcan'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='move'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mountains'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='wowthatsastrongtrolololol'/>
+		<title>Homies Power Level Friday: HomieCraft Ep.5 "Whatchu Know About LandSharks? Hater!"</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Ra7zGysnUPU?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Ra7zGysnUPU&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Ra7zGysnUPU/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Ra7zGysnUPU/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Ra7zGysnUPU'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/Ra7zGysnUPU?v=2'/>
+		<author>
+			<name>xXSlyFoxHoundXx</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/xxslyfoxhoundxx</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Ra7zGysnUPU/comments?v=2' countHint='2617'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Gaming' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Games</media:category>
+			<media:content url='http://www.youtube.com/v/Ra7zGysnUPU?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='2800' yt:format='5'/>
+			<media:content url='rtsp://v6.cache7.c.youtube.com/CiQLENy73wIaGwn1UCcrG_OuRRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='2800' yt:format='1'/>
+			<media:content url='rtsp://v6.cache8.c.youtube.com/CiQLENy73wIaGwn1UCcrG_OuRRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='2800' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>xXSlyFoxHoundXx</media:credit>
+			<media:description type='plain'>Challenge For My Homies 9,000 Likes! 
+
+Official SlyFoxHound &amp; Homies Shirt Store
+http://www.redbubble.com/people/slyfoxhound/shop/t-shirts
+
+
+MY TWITTER http://twitter.com/#!/SlyFoxHound
+
+MY FACEBOOK http://tinyurl.com/4hpw2oc
+
+Music By:
+http://www.myspace.com/epiloguesound
+
+Ep.4
+http://www.youtube.com/watch?v=AjByxzX-BZI&amp;feature=channel_video_title</media:description>
+			<media:keywords>slyfoxhound, xxslyxx, xxslyfoxhoundxx, slyfox, minecraft, HomieCraft, Notch, Homieknights, of, the, octagontable, are, so, strong, theirTrololololcan, move, mountains, wowthatsastrongtrolololol</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=Ra7zGysnUPU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ra7zGysnUPU/default.jpg' height='90' width='120' time='00:23:20' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ra7zGysnUPU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ra7zGysnUPU/1.jpg' height='90' width='120' time='00:11:40' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ra7zGysnUPU/2.jpg' height='90' width='120' time='00:23:20' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Ra7zGysnUPU/3.jpg' height='90' width='120' time='00:35:00' yt:name='end'/>
+			<media:title type='plain'>Homies Power Level Friday: HomieCraft Ep.5 "Whatchu Know About LandSharks? Hater!"</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='2800'/>
+			<yt:uploaded>2011-06-10T12:47:00.000Z</yt:uploaded>
+			<yt:videoid>Ra7zGysnUPU</yt:videoid>
+		</media:group>
+		<gd:rating average='4.974723' max='5' min='1' numRaters='7754' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='813' viewCount='109155'/>
+		<yt:rating numDislikes='49' numLikes='7705'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkQHR347eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:Exck9VNhk_Y</id>
+		<published>2011-06-10T23:33:35.000Z</published>
+		<updated>2011-06-12T08:45:36.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='People' label='People &amp; Blogs'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Swifty'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Hot'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='sauce'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ghost'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pepper'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='eat'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='spicy'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='food'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='burn'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='blog'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='vlog'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='everyday'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='life'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mma'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='has'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='time'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='fire'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='burning'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='flame'/>
+		<title>Swifty eats fire!</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/Exck9VNhk_Y?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=Exck9VNhk_Y&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Exck9VNhk_Y/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/Exck9VNhk_Y/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=Exck9VNhk_Y'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/Exck9VNhk_Y?v=2'/>
+		<author>
+			<name>swiftyirl</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/swiftyirl</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/Exck9VNhk_Y/comments?v=2' countHint='4720'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='People &amp; Blogs' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>People</media:category>
+			<media:content url='http://www.youtube.com/v/Exck9VNhk_Y?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='478' yt:format='5'/>
+			<media:content url='rtsp://v7.cache1.c.youtube.com/CiQLENy73wIaGwn2k2FT9SQXExMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='478' yt:format='1'/>
+			<media:content url='rtsp://v2.cache8.c.youtube.com/CiQLENy73wIaGwn2k2FT9SQXExMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='478' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube'>swiftyirl</media:credit>
+			<media:description type='plain'>REMEMBER TO SUBSCRIBE FOR YOUR DAILY FIX!    |
+                                                                                           v
+Give you back life {remix} by Ephixa http://ephixa.com/track/give-you-back-life-swifty-song
+Winners are being picked tonight so you know what you have to do to increase your chance to WIN!.
+
+You can follow me on FACEBOOK/swiftygaming &amp; /swiftyfans .
+
+Twitter @swiftyirl</media:description>
+			<media:keywords>Swifty, Hot, sauce, ghost, pepper, eat, spicy, food, burn, blog, video, vlog, everyday, life, mma, has, time, fire, burning, flame</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=Exck9VNhk_Y&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Exck9VNhk_Y/default.jpg' height='90' width='120' time='00:03:59' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Exck9VNhk_Y/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Exck9VNhk_Y/1.jpg' height='90' width='120' time='00:01:59.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Exck9VNhk_Y/2.jpg' height='90' width='120' time='00:03:59' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/Exck9VNhk_Y/3.jpg' height='90' width='120' time='00:05:58.500' yt:name='end'/>
+			<media:title type='plain'>Swifty eats fire!</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='478'/>
+			<yt:uploaded>2011-06-10T23:33:35.000Z</yt:uploaded>
+			<yt:videoid>Exck9VNhk_Y</yt:videoid>
+		</media:group>
+		<gd:rating average='4.981644' max='5' min='1' numRaters='7627' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='5918' viewCount='71354'/>
+		<yt:rating numDislikes='35' numLikes='7592'/>
+	</entry>
+	<entry gd:etag='W/&quot;DUcEQ347eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:McDvumypeQY</id>
+		<published>2011-06-10T19:04:28.000Z</published>
+		<updated>2011-06-12T08:23:22.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Music' label='Music'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Rihanna Man Down'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Man Down Video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Man Down Music Video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Rihanna'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Man'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Down'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Music'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Parody'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Song'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Lyrics'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Island'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Def'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Jam'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Pop'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='R&amp;B/Soul'/>
+		<title>Rihanna - Man Down (OFFICIAL MUSIC VIDEO) PARODY / Fat Clown</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/McDvumypeQY?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=McDvumypeQY&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/McDvumypeQY/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/McDvumypeQY/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=McDvumypeQY'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/McDvumypeQY?v=2'/>
+		<author>
+			<name>keeptheheat</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/keeptheheat</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/McDvumypeQY/comments?v=2' countHint='974'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Music' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Music</media:category>
+			<media:content url='http://www.youtube.com/v/McDvumypeQY?f=standard&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='192' yt:format='5'/>
+			<media:content url='rtsp://v3.cache5.c.youtube.com/CiQLENy73wIaGwkGealsuu_AMRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='192' yt:format='1'/>
+			<media:content url='rtsp://v5.cache1.c.youtube.com/CiQLENy73wIaGwkGealsuu_AMRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='192' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>keeptheheat</media:credit>
+			<media:description type='plain'>FACEBOOK ME!! http://apps.facebook.com/keeptheheat
+Subscribe: http://bit.ly/SubscribeForMore
+_
+
+Get my FREE iPhone / iPod App
+‪‪http://bit.ly/DownloadMyApp
+
+‬‬Follow me on Twitter
+‪http://twitter.com/keeptheheat‬
+
+Like my shoes? Get your own pair!
+‪http://bit.ly/heatseekers‬
+_
+
+Instrumental by Approaching Nirvana
+http://youtube.com/approachingnirvana
+
+Animation by RedMinus
+http://youtube.com/redminus
+_
+
+Keywords:
+Rihanna Man Down Official Music Video
+"Man Down Official Music Video"
+Rihanna Man Down Official Music Video
+"Man Down Official Music Video"
+Rihanna Man Down Official Video
+"Man Down Official Video"
+Rihanna Man Down Official Video
+"Man Down Official Video"
+Rihanna Man Down Music Video
+"Man Down Music Video"
+Rihanna Man Down Music Video
+"Man Down Music Video"
+Rihanna Man Down Parody
+"Man Down Parody"
+Rihanna Man Down Parody
+"Man Down Parody"
+New Song Pop Records Lyrics Live Remix HD MP3 Download Mediafire
+New Song Pop Records Lyrics Live Remix HD MP3 Download Mediafire
+Shot Killed Kill Fat Clown Mexican Mexico Parody Spoof KEEPtheHEAT Keep The Heat Alex Negrete
+Shot Killed Kill Fat Clown Mexican Mexico Parody Spoof KEEPtheHEAT Keep The Heat Alex Negrete
+Rihanna - Man Down RihannaVEVO Rihanna - Man Down RihannaVEVO
+Rihanna - Man Down RihannaVEVO Rihanna - Man Down RihannaVEVO
+Rihanna - Man Down RihannaVEVO Rihanna - Man Down RihannaVEVO
+Rihanna - Man Down RihannaVEVO Rihanna - Man Down RihannaVEVO
+Rihanna - Man Down RihannaVEVO Rihanna - Man Down RihannaVEVO
+Music video by Rihanna performing Man Down. © 2011 Island Def Jam
+Music video by Rihanna performing Man Down. © 2011 Island Def Jam
+Music video by Rihanna performing Man Down. © 2011 Island Def Jam
+Music video by Rihanna performing Man Down. © 2011 Island Def Jam
+Music video by Rihanna performing Man Down. © 2011 Island Def Jam
+Rihanna Man Down Island Def Jam Pop R&amp;B/Soul
+Rihanna Man Down Island Def Jam Pop R&amp;B/Soul
+Rihanna Man Down Island Def Jam Pop R&amp;B/Soul
+Rihanna Man Down Island Def Jam Pop R&amp;B/Soul
+Rihanna Man Down Island Def Jam Pop R&amp;B/Soul
+_
+
+"These keywords along with all other similar text contained in the
+metadata of this video allow it to be indexed higher in search results,
+thus enabling a broader audience to discover and enjoy my content. 
+This is not to be confused with metadata spam which is, in essence,
+including terms that are unrelated to the actual content. Since these
+terms clearly relate to my content it is therefore not spam and more
+accurately described as "Search Engine Optimization."
+
+If you are an artist, label or represent an artist and are interested in
+working with me in any way, please do not hesitate to contact me. I
+am always interested and excited at the opportunity to work with other
+creative individuals."
+
+Thanks,
+Alex Negrete
+KEEPtheHEAT @ gmail . com</media:description>
+			<media:keywords>Rihanna Man Down, Man Down Video, Man Down Music Video, Rihanna, Man, Down, Music, Video, Parody, Song, Lyrics, Island, Def, Jam, Pop, R&amp;B/Soul</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=McDvumypeQY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/McDvumypeQY/default.jpg' height='90' width='120' time='00:01:36' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/McDvumypeQY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/McDvumypeQY/1.jpg' height='90' width='120' time='00:00:48' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/McDvumypeQY/2.jpg' height='90' width='120' time='00:01:36' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/McDvumypeQY/3.jpg' height='90' width='120' time='00:02:24' yt:name='end'/>
+			<media:title type='plain'>Rihanna - Man Down (OFFICIAL MUSIC VIDEO) PARODY / Fat Clown</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='192'/>
+			<yt:uploaded>2011-06-10T19:04:28.000Z</yt:uploaded>
+			<yt:videoid>McDvumypeQY</yt:videoid>
+		</media:group>
+		<gd:rating average='4.810602' max='5' min='1' numRaters='7772' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='554' viewCount='44552'/>
+		<yt:rating numDislikes='368' numLikes='7404'/>
+	</entry>
+	<entry gd:etag='W/&quot;AkUCRH47eCp7ImA9WhZUGEs.&quot;'>
+		<id>tag:youtube.com,2008:video:8SbVKKuO-KI</id>
+		<published>2011-06-10T16:06:05.000Z</published>
+		<updated>2011-06-12T08:44:25.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Games' label='Gaming'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='call'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='of'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='duty'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='modern'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='warfare'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mw3'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='xjawz'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='early'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='played'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='game'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='secret'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='info'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='perks'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='weapons'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='spec'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='ops'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='survival'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='killstreaks'/>
+		<title>XBOX 360 SPECIFICATIONS</title>
+		<content type='application/x-shockwave-flash' src='http://www.youtube.com/v/8SbVKKuO-KI?f=standard&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='http://www.youtube.com/watch?v=8SbVKKuO-KI&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/8SbVKKuO-KI/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/videos/8SbVKKuO-KI/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='http://m.youtube.com/details?v=8SbVKKuO-KI'/>
+		<link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/standardfeeds/us/top_rated/v/8SbVKKuO-KI?v=2'/>
+		<author>
+			<name>xJawz</name>
+			<uri>http://gdata.youtube.com/feeds/api/users/xjawz</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink href='http://gdata.youtube.com/feeds/api/videos/8SbVKKuO-KI/comments?v=2' countHint='3989'/>
+		</gd:comments>
+		<media:group>
+			<media:category>My Favorites</media:category>
+			<media:content url='https://cmd-hue.github.io/playtest.mp4' type='video/mp4' medium='video' expression='full' duration='30' yt:format='1'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:type='partner'>test</media:credit>
+			<media:description type='plain'>ok what</media:description>
+			<media:keywords>plankton</media:keywords>
+			<media:player url='http://www.youtube.com/watch?v=8SbVKKuO-KI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8SbVKKuO-KI/default.jpg' height='90' width='120' time='00:01:26.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8SbVKKuO-KI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8SbVKKuO-KI/1.jpg' height='90' width='120' time='00:00:43.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8SbVKKuO-KI/2.jpg' height='90' width='120' time='00:01:26.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8SbVKKuO-KI/3.jpg' height='90' width='120' time='11:59:59.999' yt:name='end'/>
+			<media:title type='plain'>whar</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='30'/>
+			<yt:uploaded>2013-01-01T06:26:05.000Z</yt:uploaded>
+			<yt:videoid>8SbVKKuO-KI</yt:videoid>
+		</media:group>
+		<gd:rating average='4.680342' max='5' min='1' numRaters='7946' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='646' viewCount='158444'/>
+		<yt:rating numDislikes='420' numLikes='6767'/>
+	</entry>
+</feed>

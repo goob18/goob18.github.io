@@ -10892,7 +10892,7 @@
             }
 
             if (a == "Y30JRSgfhYXA6i6xX1erWg") {
-                return APP_URL + "/assets/channels4_profile_smosh.jpg";  
+                return PROXY_URL + "/assets/channels4_profile_smosh.jpg";  
                }
 
             if (a == "aBf1a-dpIsw8OxqH4ki2Kg") {
