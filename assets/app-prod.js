@@ -11248,6 +11248,7 @@
                 STmost_popular_Education: "icon-education",
                 STmost_popular_Animals: "icon-pets",
                 STmost_popular: "icon-star"
+                STfavorites: "icon-star"
             };
             this.Ga("sets", this.fQ)
         }
