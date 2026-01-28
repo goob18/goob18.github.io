@@ -152,8 +152,38 @@
       "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
     },
     {
-      "title": "default",
-      "gdata_list_id": "UUUCA4QJNMg-dHwPXClmXCsqew",
+      "title": "Google Nexus",
+      "gdata_list_id": "UUgooglenexus",
+      "icon": "music",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "Roblox",
+      "gdata_list_id": "UUUCjiPEaapiHbJMoAdi_L8fNA",
+      "icon": "music",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+        {
+      "gdata_url": "\\/feeds\\/api\\/users\\/Y30JRSgfhYXA6i6xX1erWg\\/uploads",
+      "title": "Smosh",
+      "tab": "featured",
+      "gdata_list_id": "UUY30JRSgfhYXA6i6xX1erWg"
+    },
+    {
+      "gdata_url": "\\/feeds\\/api\\/users\\/aBf1a-dpIsw8OxqH4ki2Kg\\/uploads",
+      "title": "Geek & Sundry",
+      "tab": "featured",
+      "gdata_list_id": "UUaBf1a-dpIsw8OxqH4ki2Kg"
+    },
+    {
+      "title": "YouTube Nation",
+      "gdata_list_id": "UUUCUD4yDVyM54QpfqGJX4S7ng",
       "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
