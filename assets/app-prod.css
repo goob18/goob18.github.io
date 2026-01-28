@@ -877,7 +877,7 @@ ul {
 .video-tile .video-thumb.preloaded {
   background: no-repeat center;
   background-size: auto;
-  background-image: url('https://goob18.github.io/assetsweb/20130711074930im_/https://www.youtube.com/s/tv/html5/7b193301/img/icon-playbutton.png')
+  background-image: url('https://web.archive.org/web/20130711074930im_/https://www.youtube.com/s/tv/html5/7b193301/img/icon-playbutton.png')
 }
 
 .action-tile .content {
@@ -3475,23 +3475,18 @@ body.lg {
   }
 }
 
-/*
-   FILE ARCHIVED ON 07:49:30 Jul 11, 2013 AND RETRIEVED FROM THE
-   INTERNET ARCHIVE ON 00:38:45 Feb 11, 2025.
-   JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+.debug-watermark {
+    background-color: rgba(235, 49, 3, 0.7);
+    color: #0e0202;
+    font-family: "Roboto Light", sans-serif;
+    font-size: 100%;
+    left: 0;
+    padding: 1em;
+    position: absolute;
+    bottom: 0;
+    width: 70%;
+} /* for debug mode */
 
-   ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-   SECTION 108(a)(3)).
-*/
 
-/*
-playback timings (ms):
-captures_list: 1.158
-exclusion.robots: 0.018
-exclusion.robots.policy: 0.008
-esindex: 0.01
-cdx.remote: 646.027
-LoadShardBlock: 270.913 (3)
-PetaboxLoader3.datanode: 430.877 (4)
-load_resource: 272.058
-*/
+
+/* (c) Giggity Files - End of main CSS */
