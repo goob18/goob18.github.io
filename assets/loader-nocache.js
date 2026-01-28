@@ -12,6 +12,12 @@ window.labels = {
     'aj': 'a0000009'
 };
 
+if (maintenance === 'true') {
+    window.location.href = "https://goob18.github.io/error.html";
+} else {
+    console.log("Goob18 is up and running!");
+}
+
 (function() {
     var a = window.labels;
     if (window.jstiming && window.jstiming.load) {
@@ -67,7 +73,7 @@ window.labels = {
         if (window.yt && yt.tv && yt.tv.initializer) {
             yt.tv.initializer(d);
         } else {
-            window.location.href = "http://www.youtube.com/error?src=404";
+            console.log("fail");alert("Failed to load Goob18. Try again later.");
         }
     };
 
