@@ -8472,7 +8472,7 @@
             this.supportsSteelDial = !(!this.g || "undefined" == typeof this.g.DialServer);
             this.supportsDrm = this.supportsHdDrm = this.Wd;
             this.supportsNetworkRetry = this.Oa;
-            "tv" === this.$e.toLowerCase() ? this.Fj = "tv" : this.Lm || (this.Fj = "desktop")
+            "tv" === this.$e.toLowerCase() ? this.Fj = "tv" : this.Lm || (this.Fj = window.environment.cmodel)
         };
         d.BN = function() {
             if (this.ja = v("devicePlugin") ? document.getElementById("devicePlugin") : "devicePlugin") this.reversedSelectionKeys = !!this.ja && void 0 !== this.ja.crossMeansAdvance && !this.ja.crossMeansAdvance, this.Vi = this.ja.psnOnlineName ? this.ja.psnOnlineName : "", this.Ui = this.ja.psnAvatarURL ? this.ja.psnAvatarURL : "", this.es = s(this.ja.licenseArea) ? this.ja.licenseArea : -1

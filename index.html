@@ -55,6 +55,35 @@
     <div id="loader"></div>
     <div id="leanback"></div>
     <script>
+        function getCookie(name) {
+  const cookies = document.cookie.split("; ");
+  for (const cookie of cookies) {
+    const [key, value] = cookie.split("=");
+    if (key === name) {
+      return decodeURIComponent(value);
+    }
+  }
+  return null;
+}
+function setCookie(name, value, days = 365) {
+  const expires = new Date(Date.now() + days * 864e5).toUTCString();
+  document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
+}
+var model = getCookie("cmodel") || "desktop";
+document.addEventListener("keydown", (event) => {
+  if (event.altKey && event.key.toLowerCase() === "h") {
+    event.preventDefault();
+
+    const currentValue = getCookie("cmodel") || "";
+    const newValue = prompt("Edit cmodel cookie:", currentValue);
+
+    if (newValue !== null) {
+      setCookie("cmodel", newValue);
+      alert("cmodel updated!");
+    }
+  }
+});
+
         window['swfConfig'] = {
             "params": {
                 "allowfullscreen": "true",
@@ -98,7 +127,7 @@
             "country": "US",
             "language": "*",
             "cbrand": "NINTENDO",
-            "cmodel": "wiiu",
+            "cmodel": model,
             "cc_load_policy": 1,
             "post_play_sw": 100,
             "xbox_drm_enabled": true,
