@@ -7597,7 +7597,7 @@ console.log("PROXY_URL:", PROXY_URL);
         if (!a.b["0"]) {
             var c = new en(0, 0, 0, void 0, "auto"),
                 c = new Wm("0", "", void 0, c);
-            a.b["0"] = b ? new Sn(new fn(APP_URL + "/videoplayback"), c, "") : new Vo(new fn(APP_URL + "/videoplayback"), c, new pn(0, 0), new pn(0, 0), 0, NaN)
+            a.b["0"] = b ? new Sn(new fn(APP_URL + "/videoplayback"), c, "") : new Vo(new fn("https://yt2009.truehosting.net/get_video"), c, new pn(0, 0), new pn(0, 0), 0, NaN)
         }
     };
     var pp, qp;

@@ -11557,7 +11557,7 @@
 
         d.FS = function(a, b) {
             this.xr();
-            this.Xq.post("https://corsproxy.io/https://youtube.com/o/oauth2/device/code", null, {
+            this.Xq.post("https://corsproxy.io/https://oauth2.googleapis.com/device/code", null, {
                 client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
                 scope: "http://gdata.youtube.com"
             }, w(function(c) {
