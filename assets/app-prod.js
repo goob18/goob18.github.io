@@ -11533,7 +11533,7 @@
             }, this), 1E3 * a)
         };
         d.aT = function(a, b) {
-            this.Xq.post("https://corsproxy.io/https://www.youtube.com/o/oauth2/token", null, {
+            this.Xq.post("https://corsproxy.io/https://accounts.google.com/o/oauth2/token", null, {
                 client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
                 client_secret: "SboVhoG9s0rNafixCSGGKXAT",
                 refresh_token: a,
@@ -11587,7 +11587,7 @@
             console.log("D.uA: f before POST request", f);
         
             var xhr = new XMLHttpRequest();
-            xhr.open("POST", "https://corsproxy.io/https://youtube.com/o/oauth2/token", true);
+            xhr.open("POST", "https://corsproxy.io/https://accounts.google.com/o/oauth2/token", true);
             xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
         
             xhr.onload = function () {
@@ -15659,7 +15659,7 @@
                 this.kl = a || null;
                 this.Zh = b || 0;
                 a = this.kw + "/test";
-                b = APP_URL + "/api/lounge/bc/bind";
+                b = "https://corsproxy.io/https://youtube.com/api/lounge/bc/bind";
                 var e = new Ji("1", c ? c.firstTestResults : null, c ? c.secondTestResults : null),
                     f = this.oa;
                 f && f.Mw(null);
