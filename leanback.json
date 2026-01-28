@@ -105,6 +105,69 @@
       "tab": "featured",
       "icon": "animals",
       "gdata_list_id": "STmost_popular_Animals"
+    },
+    {
+      "title": "Google Chrome",
+      "gdata_list_id": "UUUCL8ZULXASCc1I_oaOT0NaOQ",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "PhoneArena",
+      "gdata_list_id": "UUUCwPRdjbrlqTjWOl7ig9JLHg",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "ShinyWR",
+      "gdata_list_id": "UUUC747kxnP5gZY2pvy3FsDkFw",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "Alcatel USA",
+      "gdata_list_id": "UUUCEaCxSsXPpM-wSAKx9S1QKQ",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "kronovanet",
+      "gdata_list_id": "UUUC4dvH--V8tOJWPbjCGmuf9g",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "default",
+      "gdata_list_id": "UUUCA4QJNMg-dHwPXClmXCsqew",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "Featured",
+      "gdata_list_id": "PLj6qdykhRWPn02pYC5ljJ-EbzAbYdj_qH",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
     }
   ]
 }
