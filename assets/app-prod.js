@@ -11533,7 +11533,7 @@
             }, this), 1E3 * a)
         };
         d.aT = function(a, b) {
-            this.Xq.post("https://corsproxy.io/https://oauth2.googleapis.com/token", null, {
+            this.Xq.post("https://corsproxy.io/https://www.youtube.com/o/oauth2/token", null, {
                 client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
                 client_secret: "SboVhoG9s0rNafixCSGGKXAT",
                 refresh_token: a,
