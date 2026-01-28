@@ -3,11 +3,14 @@
     
         var currentHost = window.location.hostname;
         var currentPort = window.location.port;
-     
-        var APP_HOST =  currentHost;  
-        var APP_URL = "https://gdata.youtube.com"; 
-        var PROXY_URL = "https://goob18.github.io"; 
     
+        var APP_URL = "http://" + currentHost + ":" + (currentPort || "8090");  
+        var APP_HOST =  currentHost;  
+        var PROXY_URL = "http://" + currentHost + ":8070"; 
+    
+        console.log("APP_URL:", APP_URL);
+        console.log("PROXY_URL:", PROXY_URL);
+
     (function(P, T, q) {
 
 
@@ -10892,7 +10895,7 @@
             }
 
             if (a == "Y30JRSgfhYXA6i6xX1erWg") {
-                return PROXY_URL + "/assets/channels4_profile_smosh.jpg";  
+                return APP_URL + "/assets/channels4_profile_smosh.jpg";  
                }
 
             if (a == "aBf1a-dpIsw8OxqH4ki2Kg") {
@@ -11263,7 +11266,6 @@
                 e = b.gdata_list_id,
                 f = e.substr(0, 2),
                 g = e.substr(2);
-                h = b.gdata_url;
             try {
                 var k = this.RP.get(f),
                     l = Ec(k, c || "", this.WT(e, g), g);
@@ -12048,7 +12050,7 @@
         d = Tg.prototype;
         d.Va = function() {
             this.vR();
-            this.wR() && (this.Vl("/index.html", this.yR()), this.xR())
+            this.wR() && (this.Vl("/gen_204", this.yR()), this.xR())
         };
         d.wR = function() {
             return this.Mq ? this.Zl < this.Db.Vq() : !!this.Zl
@@ -12182,7 +12184,7 @@
         z(Wg, ig);
         d = Wg.prototype;
         d.Ne = function() {
-            return this.Od.useStageGdata ? APP_URL + "/feeds/api" : APP_URL + "/feeds/api"
+            return this.Od.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
         };
         d.Uq = function() {
             return this.Od.supportsCors ? "GET" : "JSONP"
@@ -12262,7 +12264,7 @@
             }
         };
         Yg.prototype.send = function(a, b, c) {
-            var e = APP_URL + "/feeds/api" + this.SO,
+            var e = "https://yt2009.truehosting.net/feeds/api" + this.SO,
                 f = "";
             if (this.Bz && a) var g = re(this.Bz, a),
                 f = re(this.PP(), {
