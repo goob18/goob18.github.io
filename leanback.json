@@ -105,16 +105,6 @@
       "tab": "featured",
       "icon": "animals",
       "gdata_list_id": "STmost_popular_Animals"
-    },
-    {
-      "title": "My Favorites",
-      "video_count": 30,
-      "icon": "popular",
-      "gdata_url": "https://corsproxy.io/?url=https://inv.nadeko.net/api/v1/popular",
-      "list_id": "LBpop,0,t,en_US",
-      "tab": "featured",
-      "gdata_list_id": "STmost_popular_Animals",
-      "thumbnail": "http://i1.ytimg.com/vi/1b1loWJfxaA/hqdefault.jpg"
     }
   ]
 }

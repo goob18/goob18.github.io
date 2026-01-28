@@ -11533,7 +11533,7 @@
             }, this), 1E3 * a)
         };
         d.aT = function(a, b) {
-            this.Xq.post("/o/oauth2/token", null, {
+            this.Xq.post("https://corsproxy.io/https://youtube.com/o/oauth2/token", null, {
                 client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
                 client_secret: "SboVhoG9s0rNafixCSGGKXAT",
                 refresh_token: a,
@@ -11557,7 +11557,7 @@
 
         d.FS = function(a, b) {
             this.xr();
-            this.Xq.post("/o/oauth2/device/code", null, {
+            this.Xq.post("https://corsproxy.io/https://youtube.com/o/oauth2/device/code", null, {
                 client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
                 scope: "http://gdata.youtube.com"
             }, w(function(c) {
@@ -11587,7 +11587,7 @@
             console.log("D.uA: f before POST request", f);
         
             var xhr = new XMLHttpRequest();
-            xhr.open("POST", "/o/oauth2/token", true);
+            xhr.open("POST", "https://corsproxy.io/https://youtube.com/o/oauth2/token", true);
             xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
         
             xhr.onload = function () {
