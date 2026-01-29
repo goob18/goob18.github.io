@@ -9526,7 +9526,7 @@ if (!self.__WB_pmw) {
         C(Ih, Hh);
         d = Ih.prototype;
         d.Gg = function() {
-            return this.b.useTestInnerTube ? "tin" : this.b.useReleaseInnerTube || this.b.qf && !this.b.oa ? "sin" : "in"
+            return this.b.useStageGdata
         }
         ;
         d.df = function() {
@@ -11828,7 +11828,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.df = function() {
-            return this.b.useStageGdata ? "//web.archive.org/web/20140611010647/https://stage.gdata.youtube.com/feeds/api" : "//web.archive.org/web/20140611010647/https://gdata.youtube.com/feeds/api"
+            return this.b.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
         }
         ;
         d.Yg = function() {
@@ -27889,7 +27889,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.cy = function() {
-            return this.b.useStageGdata = !0
+            return this.b.useStageGdata = true
         }
         ;
         d.fh = function(a) {
