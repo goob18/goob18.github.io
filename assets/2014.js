@@ -27279,7 +27279,7 @@ if (!self.__WB_pmw) {
         C(Io, I);
         d = Io.prototype;
         d.uy = function(a) {
-            var b = Math.floor(115 * Math.random() + 1);
+            var b = Math.floor(57 * Math.random() + 1);
             return a + "/bg" + b + ".jpg"
         }
         ;
