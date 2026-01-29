@@ -6808,7 +6808,7 @@ if (!self.__WB_pmw) {
             this.nf = this.wf = this.supportsSounds = !1;
             this.supportedCastVersion = null;
             this.V = this.supportsTranslateZ = !0;
-            this.supportsLive = this.useStageMdx = this.useStageGdata = !1;
+            this.supportsLive = this.useStageMdx = this.useStageGdata = !0;
             this.bw = k;
             this.Mn = this.on = this.supportsAccountManager = this.supportsUploads = this.supportsBackgrounds = !1;
             this.requestVideoQuality = "";
@@ -27889,7 +27889,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.cy = function() {
-            return this.b.useStageGdata = true
+            return this.b.useStageGdata = !1
         }
         ;
         d.fh = function(a) {
