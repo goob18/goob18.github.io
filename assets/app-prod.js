@@ -19523,7 +19523,7 @@
             b.className != a && (b.className = a)
         };
         d.bP = function() {
-            this.zs = "bg" + Math.floor(56 * Math.random() + 1) + ".jpg"
+            this.zs = "bg" + Math.floor(57 * Math.random() + 1) + ".jpg"
         };
         d.Xf = function(a) {
             if (this.G.supportsBackgrounds && !this.kt()) {
