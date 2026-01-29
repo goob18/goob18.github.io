@@ -27735,7 +27735,7 @@ if (!self.__WB_pmw) {
                 return this.F.g
             }, this));
             this.b.push(a);
-            if (window.tvdebug) {
+            if (window.tvdebug === true) {
                 var a = new Ul(this.g,"toggleTile","request-toggle-video-info","Show Video Info","",x(function() {
                     return this.h.isVideoInfoVisible
                 }, this))
