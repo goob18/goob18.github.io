@@ -10928,7 +10928,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
         this.keyMapId = this.xu();
         this.gb = this.j ? "NINTENDO" : null;
         this.cssPrefix = this.wu();
-        "tv" === this.H.toLowerCase() ? this.ga = "tv" : this.rb || (this.ga = "desktop")
+        "tv" === this.H.toLowerCase() ? this.ga = "tv" : window.environment.cmodel || (this.ga = "desktop")
     }
     ;
     d.WH = function() {}
