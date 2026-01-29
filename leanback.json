@@ -109,7 +109,6 @@
     {
       "title": "Google Chrome",
       "gdata_list_id": "UUUCL8ZULXASCc1I_oaOT0NaOQ",
-      "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -118,7 +117,6 @@
     {
       "title": "PhoneArena",
       "gdata_list_id": "UUUCwPRdjbrlqTjWOl7ig9JLHg",
-      "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -127,7 +125,6 @@
     {
       "title": "ShinyWR",
       "gdata_list_id": "UUUC747kxnP5gZY2pvy3FsDkFw",
-      "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -136,7 +133,6 @@
     {
       "title": "Alcatel USA",
       "gdata_list_id": "UUUCEaCxSsXPpM-wSAKx9S1QKQ",
-      "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -145,7 +141,6 @@
     {
       "title": "kronovanet",
       "gdata_list_id": "UUUC4dvH--V8tOJWPbjCGmuf9g",
-      "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -154,7 +149,6 @@
     {
       "title": "Google Nexus",
       "gdata_list_id": "UUgooglenexus",
-      "icon": "music",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -163,7 +157,6 @@
     {
       "title": "Roblox",
       "gdata_list_id": "UUUCjiPEaapiHbJMoAdi_L8fNA",
-      "icon": "music",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -184,7 +177,6 @@
     {
       "title": "YouTube Nation",
       "gdata_list_id": "UUUCUD4yDVyM54QpfqGJX4S7ng",
-      "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -193,7 +185,6 @@
     {
       "title": "0326kyon",
       "gdata_list_id": "UU0326kyon",
-      "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -202,7 +193,6 @@
     {
       "title": "narq",
       "gdata_list_id": "UUUCeKjekaP9TA3lahIvtQxQVQ",
-      "icon": "trends",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -211,7 +201,7 @@
     {
       "title": "Goob18 Featured",
       "gdata_list_id": "PLj6qdykhRWPn02pYC5ljJ-EbzAbYdj_qH",
-      "icon": "trends",
+      "icon": "music",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
@@ -220,7 +210,7 @@
     {
       "title": "YT2009 Featured",
       "gdata_list_id": "STrecently_featured",
-      "icon": "trends",
+      "icon": "comedy",
       "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
