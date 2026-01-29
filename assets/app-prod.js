@@ -21421,7 +21421,7 @@
             this.Bj = this.w(w(this.pu, this), 3E5, !1);
             this.Rg.WK(w(function(a) {
                 this.displayPairingCode = this.PK(a);
-                this.pn = APP_URL + "https://api.qrserver.com/v1/create-qr-code/?size=350x350&data=http%3A%2F%2Fm.youtube.com%2Fpair%3FpairingCode%3D" + a;
+                this.pn = "https://api.qrserver.com/v1/create-qr-code/?size=350x350&data=http%3A%2F%2Fm.youtube.com%2Fpair%3FpairingCode%3D" + a;
                 this.zD.Ti || (this.xD.src = this.pn);
                 this.qu()
             }, this))
