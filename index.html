@@ -130,20 +130,7 @@ document.addEventListener("keydown", (event) => {
     }
   }
 });
-var degrees = getCookie("debug") || "false";
-document.addEventListener("keydown", (event) => {
-  if (event.altKey && event.key.toLowerCase() === "d") {
-    event.preventDefault();
 
-    const currentValue = getCookie("debug") || "false";
-    const newValue = prompt("Edit cmodel cookie:", currentValue);
-
-    if (newValue !== null) {
-      setCookie("debug", newValue);
-      alert("debug updated!");
-    }
-  }
-});
 
         window['swfConfig'] = {
             "params": {
@@ -199,7 +186,7 @@ document.addEventListener("keydown", (event) => {
         };
         window['label'] = "8bead6ff";
         window['ytdl'] = version;
-        window['devjs'] = degrees;
+        window['devjs'] = false;
         window['appRoot'] = "/assets";
     </script>
     <script src="/assets/loader-nocache.js"></script>
