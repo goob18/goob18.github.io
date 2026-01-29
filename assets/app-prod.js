@@ -10901,6 +10901,10 @@
             if (a == "aBf1a-dpIsw8OxqH4ki2Kg") {
                 return "https://goob18.github.io/assets/channels4_profile_geek.jpg";  
             }
+
+            if (b == "ny2S_jYomUw") {
+                return "https://goob18.github.io/ain8wg.jpg";  
+            }
         
 
 
