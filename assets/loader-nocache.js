@@ -70,12 +70,17 @@ if (maintenance === 'true') {
             window.jstiming.load.tick("js_r");
         }
 
-        if (window.yt && yt.tv && yt.tv.initializer) {
-            yt.tv.initializer(d);
+        if (window.yt && yt.tv && yt.tv.initializer && maintenance === 'false') {
+            console.log("[DEV] 1 second wait to load Goob18");
+            setTimeout(() => {
+  yt.tv.initializer(d);
+}, 1000);
         } else {
             console.log("fail");alert("Failed to load Goob18. Try again later.");
+            console.log("[DEV] yt.tv.initializer is not defined, debug: " + d);
         }
     };
+
 
     if (!window.jstiming) {
         n(l + "/csi-head.js");
