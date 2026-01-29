@@ -6,10 +6,13 @@
     
         var APP_URL = "http://" + currentHost + ":" + (currentPort || "8090");  
         var APP_HOST =  currentHost;  
-        var PROXY_URL = "http://" + currentHost + ":8070"; 
+        var PROXY_URL = "https://" + currentHost; 
+        var NPROXY_URL = "https://corsproxy.io/"; 
+        
     
         console.log("APP_URL:", APP_URL);
         console.log("PROXY_URL:", PROXY_URL);
+        console.log("NPROXY_URL:", NPROXY_URL);
 
     (function(P, T, q) {
 
@@ -16196,7 +16199,7 @@
         };
         
         d.Ml = function(a) {
-            return PROXY_URL + "/http://youtube.com/" + a;
+            return NPROXY_URL + "/http://youtube.com/" + a;
         };
         
 
@@ -16205,7 +16208,7 @@
             Ah(w(this.cy, this), 864E5)
         };
         d.wL = function(a) {
-            S.eg((PROXY_URL + "/https://www.youtube.com/api/lounge/pairing/generate_screen_id"), {
+            S.eg((NPROXY_URL + "/https://www.youtube.com/api/lounge/pairing/generate_screen_id"), {
                 method: "GET",
                 format: "RAW",
                 yd: function(b) {
@@ -16221,7 +16224,7 @@
                 screen_id: this.qa.Tc || "",
                 screen_name: b
             };
-            S.eg((PROXY_URL + "/https://www.youtube.com/api/lounge/pairing/get_pairing_code"), {
+            S.eg((NPROXY_URL + "/https://www.youtube.com/api/lounge/pairing/get_pairing_code"), {
                 Sp: a,
                 method: "POST",
                 format: "RAW",
@@ -16232,7 +16235,7 @@
             })
         };
         d.vT = function(a, b, c) {
-            S.eg((PROXY_URL + "/https://www.youtube.com/api/lounge/pairing/register_pairing_code"), {
+            S.eg((NPROXY_URL + "/https://www.youtube.com/api/lounge/pairing/register_pairing_code"), {
                 Sp: {
                     screen_id: this.qa.Tc,
                     pairing_code: a,
@@ -16253,7 +16256,7 @@
                 }, this);
                 b(f)
             }, this);
-            S.eg((PROXY_URL + "/https://www.youtube.com/api/lounge/pairing/get_lounge_token_batch"), {
+            S.eg((NPROXY_URL + "/https://www.youtube.com/api/lounge/pairing/get_lounge_token_batch"), {
                 Sp: {
                     screen_ids: a
                 },
