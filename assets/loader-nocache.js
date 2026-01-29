@@ -77,7 +77,7 @@ if (maintenance === 'true') {
 }, 1100);
         } else {
             console.log("fail");alert("Failed to load Goob18. Try again later.");
-            console.log("[DEV] yt.tv.initializer is not defined, debug: " + d);
+            console.log("[DEV] yt.tv.initializer is not defined or failed to load, assets folder: " + d);
         }
     };
 
@@ -114,9 +114,16 @@ if (maintenance === 'true') {
         q(l + "/app-prod.css");
         n(l + "/app-concat-bundle.js");
     } else {
+    if (window.version === "2014") {
+        console.log("[TV] Loading 2014 legacy build");
+
+        q(l + "/2014.css");
+        n(l + "/2014.js");
+    } else {
         q(l + "/app-prod.css");
         n(l + "/app-prod.js");
     }
+}
 
     window.checkBrokenLabel = function() {
         if (typeof yt === "undefined" && k) {

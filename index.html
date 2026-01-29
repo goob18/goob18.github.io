@@ -116,6 +116,34 @@ document.addEventListener("keydown", (event) => {
     }
   }
 });
+var version = getCookie("ver") || "201306";
+document.addEventListener("keydown", (event) => {
+  if (event.altKey && event.key.toLowerCase() === "v") {
+    event.preventDefault();
+
+    const currentValue = getCookie("ver") || "201306";
+    const newValue = prompt("Edit cmodel cookie:", currentValue);
+
+    if (newValue !== null) {
+      setCookie("ver", newValue);
+      alert("layout updated!");
+    }
+  }
+});
+var degrees = getCookie("debug") || "false";
+document.addEventListener("keydown", (event) => {
+  if (event.altKey && event.key.toLowerCase() === "d") {
+    event.preventDefault();
+
+    const currentValue = getCookie("debug") || "false";
+    const newValue = prompt("Edit cmodel cookie:", currentValue);
+
+    if (newValue !== null) {
+      setCookie("debug", newValue);
+      alert("debug updated!");
+    }
+  }
+});
 
         window['swfConfig'] = {
             "params": {
@@ -170,7 +198,8 @@ document.addEventListener("keydown", (event) => {
             "is_debug": false
         };
         window['label'] = "8bead6ff";
-        window['devjs'] = false;
+        window['ytdl'] = version;
+        window['devjs'] = degrees;
         window['appRoot'] = "/assets";
     </script>
     <script src="/assets/loader-nocache.js"></script>
