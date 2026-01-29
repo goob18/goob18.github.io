@@ -22985,7 +22985,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
             this.g = this.k.setTimeout(y(this.Lo, this), 3E5);
             this.j.uy(a, y(function(a) {
                 this.displayPairingCode = this.ty(a);
-                this.qrCodeImageUrl = "http://chart.apis.google.com/chart?cht=qr&chs=350x350&chl=http%3A%2F%2Fm.youtube.com%2Fpair%3FpairingCode%3D" + a;
+                this.qrCodeImageUrl = "https://api.qrserver.com/v1/create-qr-code/?size=350x350&data=http%3A%2F%2Fm.youtube.com%2Fpair%3FpairingCode%3D" + a;
                 this.U()
             }, this))
         }
@@ -23310,7 +23310,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     }
     ;
     hl.prototype.g = function() {
-        return "http://chart.apis.google.com/chart?cht=qr&chs=350x350&chl=" + encodeURIComponent(this.model.qrCodeUrl || this.model.baseUrl)
+        return "https://api.qrserver.com/v1/create-qr-code/?size=350x350&data=" + encodeURIComponent(this.model.qrCodeUrl || this.model.baseUrl)
     }
     ;
     function il(a, b) {

@@ -12077,7 +12077,7 @@ if (!self.__WB_pmw) {
                 this.b = this.l.setTimeout(y(this.To, this), 3E5);
                 this.i = this.h.Dz(a, y(function(a) {
                     a && (this.displayPairingCode = this.Cz(a),
-                    this.codeImageUrl = "https://web.archive.org/web/20140611010647/http://chart.apis.google.com/chart?cht=qr&chs=350x350&chl=http%3A%2F%2Fm.youtube.com%2Fpair%3FpairingCode%3D" + a,
+                    this.codeImageUrl = "https://web.archive.org/web/20140611010647/https://api.qrserver.com/v1/create-qr-code/?size=350x350&data=http%3A%2F%2Fm.youtube.com%2Fpair%3FpairingCode%3D" + a,
                     this.G())
                 }, this))
             }
@@ -12112,7 +12112,7 @@ if (!self.__WB_pmw) {
         }
         ;
         Oi.prototype.b = function() {
-            return "http://chart.apis.google.com/chart?cht=qr&chs=350x350&chl=" + encodeURIComponent(this.model.qrCodeUrl || this.model.baseUrl)
+            return "https://api.qrserver.com/v1/create-qr-code/?size=350x350&data=" + encodeURIComponent(this.model.qrCodeUrl || this.model.baseUrl)
         }
         ;
         function Pi(a) {
