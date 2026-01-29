@@ -102,6 +102,21 @@ document.addEventListener("keydown", (event) => {
   }
 });
 
+var country = getCookie("country") || "*";
+document.addEventListener("keydown", (event) => {
+  if (event.altKey && event.key.toLowerCase() === "j") {
+    event.preventDefault();
+
+    const currentValue = getCookie("country") || "*";
+    const newValue = prompt("set your country:", currentValue);
+
+    if (newValue !== null) {
+      setCookie("country", newValue);
+      alert("country updated!");
+    }
+  }
+});
+
         window['swfConfig'] = {
             "params": {
                 "allowfullscreen": "true",
@@ -142,7 +157,7 @@ document.addEventListener("keydown", (event) => {
             "network_retry": true,
             "start_time": 1377939600,
             "experiments": [919112, 938603, 914048, 916626, 919515, 929117, 929121, 929906, 929907, 929922, 929127, 929129, 929131, 929930, 936403, 925726, 925720, 925722, 925718, 929917, 906945, 929933, 920302, 913428, 920605, 919811, 913563, 904830, 919373, 930803, 908536, 904122, 938701, 936308, 909549, 912711, 904494, 904497, 900375, 936312, 906001],
-            "country": "US",
+            "country": country,
             "language": lang,
             "cbrand": "NINTENDO",
             "cmodel": model,
