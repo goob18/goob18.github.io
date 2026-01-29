@@ -122,7 +122,7 @@ document.addEventListener("keydown", (event) => {
     event.preventDefault();
 
     const currentValue = getCookie("ver") || "201306";
-    const newValue = prompt("Edit cmodel cookie:", currentValue);
+    const newValue = prompt("Set Layout Version:", currentValue);
 
     if (newValue !== null) {
       setCookie("ver", newValue);
