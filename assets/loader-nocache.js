@@ -74,7 +74,7 @@ if (maintenance === 'true') {
             console.log("[DEV] 1 second wait to load Goob18");
             setTimeout(() => {
   yt.tv.initializer(d);
-}, 1000);
+}, 1100);
         } else {
             console.log("fail");alert("Failed to load Goob18. Try again later.");
             console.log("[DEV] yt.tv.initializer is not defined, debug: " + d);
