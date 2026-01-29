@@ -11068,7 +11068,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.Hs = function(a, b, c) {
-            return this.g + "//web.archive.org/web/20140418000039/https://i1.ytimg.com/" + b + "/" + a + "/" + c + ".jpg"
+            return "https://i1.ytimg.com/" + b + "/" + a + "/" + c + ".jpg"
         }
         ;
         d.hJ = function(a) {
