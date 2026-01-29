@@ -114,22 +114,18 @@ if (maintenance === 'true') {
         q(l + "/app-prod.css");
         n(l + "/app-concat-bundle.js");
     } else {
-    if (window.version === "2014") {
-        console.log("[TV] Loading 2014 legacy build");
-
-        q(l + "/2014.css");
-        n(l + "/2014.js");
-    } else {
-    if (window.version === "mek2013") {
-        console.log("[TV] Loading mek build");
-
-        q(l + "/mek.css");
-        n(l + "/mek.js");
-    } else {
-        q(l + "/app-prod.css");
-        n(l + "/app-prod.js");
+        if (window.version === "2014") {
+            q(l + "/2014.css");
+            n(l + "/2014.js");
+        } else if (window.version === "mek2013") {
+            q(l + "/mek.css");
+            n(l + "/mek.js");
+        } else {
+            q(l + "/app-prod.css");
+            n(l + "/app-prod.js");
+        }
     }
-}
+
 
     window.checkBrokenLabel = function() {
         if (typeof yt === "undefined" && k) {
