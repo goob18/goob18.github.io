@@ -130,7 +130,20 @@ document.addEventListener("keydown", (event) => {
     }
   }
 });
+var debug = getCookie("debug") || "false";
+document.addEventListener("keydown", (event) => {
+  if (event.altKey && event.key.toLowerCase() === "x") {
+    event.preventDefault();
 
+    const currentValue = getCookie("debug") || "false";
+    const newValue = prompt("want debug:", currentValue);
+
+    if (newValue !== null) {
+      setCookie("debug", newValue);
+      alert("debug updated!");
+    }
+  }
+});
 
         window['swfConfig'] = {
             "params": {
@@ -189,6 +202,7 @@ document.addEventListener("keydown", (event) => {
         window['ytdl'] = version;
         window['devjs'] = false;
         window['appRoot'] = "/assets";
+        window['tvdebug'] = debug; // window.tvdebug
     </script>
     <script src="/assets/loader-nocache.js"></script>
 </body>

@@ -8131,7 +8131,7 @@ if (!self.__WB_pmw) {
             this.keyMapId = this.Bt();
             this.jb = this.j ? "NINTENDO" : null;
             this.cssPrefix = this.At();
-            "tv" === this.D.toLowerCase() ? this.fa = "tv" : this.kb || (this.fa = "desktop")
+            "tv" === this.D.toLowerCase() ? this.fa = "tv" : this.kb || (this.fa = window.environment.cmodel)
         }
         ;
         d.lH = function() {}
@@ -27735,7 +27735,7 @@ if (!self.__WB_pmw) {
                 return this.F.g
             }, this));
             this.b.push(a);
-            if (this.h.ga) {
+            if (window.tvdebug) {
                 var a = new Ul(this.g,"toggleTile","request-toggle-video-info","Show Video Info","",x(function() {
                     return this.h.isVideoInfoVisible
                 }, this))
