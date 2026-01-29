@@ -29416,7 +29416,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.qG = function() {
-            var a = Math.floor(115 * Math.random() + 1);
+            var a = Math.floor(57 * Math.random() + 1);
             this.Na = M.Or + "/bg" + a + ".jpg"
         }
         ;
