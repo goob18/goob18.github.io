@@ -27889,7 +27889,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.cy = function() {
-            return this.b.useStageGdata = !1
+            return this.b.useStageGdata = !0
         }
         ;
         d.fh = function(a) {
