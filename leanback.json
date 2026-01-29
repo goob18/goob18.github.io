@@ -207,6 +207,15 @@
       "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
       "tab": "featured",
       "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "YT2009 Featured",
+      "gdata_list_id": "STrecently_featured",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
     }
   ]
 }

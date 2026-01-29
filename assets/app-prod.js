@@ -11258,7 +11258,8 @@
                 STmost_popular_Education: "icon-education",
                 STmost_popular_Animals: "icon-pets",
                 STmost_popular: "icon-star",
-                "PLj6qdykhRWPn02pYC5ljJ-EbzAbYdj_qH": "icon-speechbubble"
+                "PLj6qdykhRWPn02pYC5ljJ-EbzAbYdj_qH": "icon-speechbubble",
+                STrecently_featured: "icon-related"
             };
             this.Ga("sets", this.fQ)
         }
