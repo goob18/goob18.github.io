@@ -6808,7 +6808,7 @@ if (!self.__WB_pmw) {
             this.nf = this.wf = this.supportsSounds = !1;
             this.supportedCastVersion = null;
             this.V = this.supportsTranslateZ = !0;
-            this.supportsLive = this.useStageMdx = this.useStageGdata = !0;
+            this.supportsLive = this.useStageMdx = window.environment.useStageGdata = !0;
             this.bw = k;
             this.Mn = this.on = this.supportsAccountManager = this.supportsUploads = this.supportsBackgrounds = !1;
             this.requestVideoQuality = "";
@@ -9526,7 +9526,7 @@ if (!self.__WB_pmw) {
         C(Ih, Hh);
         d = Ih.prototype;
         d.Gg = function() {
-            return this.b.useStageGdata
+            return window.environment.useStageGdata
         }
         ;
         d.df = function() {
@@ -11824,11 +11824,11 @@ if (!self.__WB_pmw) {
         C(Ei, Hh);
         d = Ei.prototype;
         d.Gg = function() {
-            return this.b.useStageGdata ? "sgd" : "gd"
+            return window.environment.useStageGdata ? "sgd" : "gd"
         }
         ;
         d.df = function() {
-            return this.b.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
+            return window.environment.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
         }
         ;
         d.Yg = function() {
@@ -17238,7 +17238,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.Gg = function() {
-            return this.b.useStageGdata ? "sgd" : "gd"
+            return window.environment.useStageGdata ? "sgd" : "gd"
         }
         ;
         d.df = function() {
@@ -27889,7 +27889,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.cy = function() {
-            return this.b.useStageGdata = !0
+            return window.environment.useStageGdata = !0
         }
         ;
         d.fh = function(a) {
