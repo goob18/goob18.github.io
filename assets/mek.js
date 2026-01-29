@@ -27975,7 +27975,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     }
     ;
     d.TG = function() {
-        var a = Math.floor(115 * Math.random() + 1);
+        var a = Math.floor(57 * Math.random() + 1);
         this.Oa = N.fi + "/bg" + a + ".jpg"
     }
     ;
