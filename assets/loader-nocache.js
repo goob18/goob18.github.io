@@ -70,7 +70,7 @@ if (maintenance === 'true') {
             window.jstiming.load.tick("js_r");
         }
 
-        if (window.yt && yt.tv && yt.tv.initializer && maintenance === 'false') {
+        if (window.yt && yt.tv && yt.tv.initializer) {
             console.log("[DEV] 1 second wait to load Goob18");
             setTimeout(() => {
   yt.tv.initializer(d);
