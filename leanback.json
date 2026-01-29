@@ -191,6 +191,15 @@
       "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
     },
     {
+      "title": "0326kyon",
+      "gdata_list_id": "UU0326kyon",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
       "title": "Featured",
       "gdata_list_id": "PLj6qdykhRWPn02pYC5ljJ-EbzAbYdj_qH",
       "icon": "trends",
