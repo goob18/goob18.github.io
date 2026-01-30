@@ -1,12 +1,3 @@
-var _____WB$wombat$assign$function_____=function(name){return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name))||self[name];};if(!self.__WB_pmw){self.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
-let window = _____WB$wombat$assign$function_____("window");
-let self = _____WB$wombat$assign$function_____("self");
-let document = _____WB$wombat$assign$function_____("document");
-let location = _____WB$wombat$assign$function_____("location");
-let top = _____WB$wombat$assign$function_____("top");
-let parent = _____WB$wombat$assign$function_____("parent");
-let frames = _____WB$wombat$assign$function_____("frames");
-let opens = _____WB$wombat$assign$function_____("opens");
 (function(){function g(a){throw a;}
 var i=void 0,k=!0,l=null,m=!1,q,r=this,aa=function(a,b){var c=a.split("."),d=r;!(c[0]in d)&&d.execScript&&d.execScript("var "+c[0]);for(var e;c.length&&(e=c.shift());)!c.length&&s(b)?d[e]=b:d=d[e]?d[e]:d[e]={}},ba=function(a){for(var a=a.split("."),b=r,c;c=a.shift();)if(b[c]!=l)b=b[c];else return l;return b},t=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";
 if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},s=function(a){return a!==i},u=function(a){return"array"==t(a)},v=function(a){var b=t(a);
@@ -50,26 +41,3 @@ format:"RAW",X:this}),c(this.h)):c("")},a,b))},mc=function(a,b){a.W.push(b);lc(a
 $.prototype.ua=function(a){a=Ab(a.responseText);for(this.q=a.screens&&a.screens[0].loungeToken?a.screens[0].loungeToken:"";a=this.O.pop();)a(this.q)};$.prototype.wa=function(a){for(var b;b=this.W.pop();)b(a.responseText);this.da=0};$.prototype.va=function(){this.da<this.ra&&(this.q="",this.da++,lc(this))};var nc=function(){Ta(window,"message",z(this.ya,this));this.za=(new T(r.window.location,k)).f.get("allowFrom")||window.location.hash.substring(1);this.A=new $};
 nc.prototype.ya=function(a){a=Ab(a.Y.data);if(a.message)switch(a.message){case "hasScreenId":a=z(this.I,this,"hasScreenId");this.A.sa()?a({hasScreenId:k}):a({hasScreenId:m});break;case "retrieveLoungeToken":oc(this,z(this.I,this,"retrieveLoungeToken"));break;case "refreshLoungeToken":a=z(this.I,this,"refreshLoungeToken");this.A.q="";oc(this,a);break;case "retrievePairingCode":pc(this,z(this.I,this,"retrievePairingCode"));break;case "registerPairingCode":qc(this,a.pairingCode,z(this.I,this,"registerPairingCode"));
 break;case "clearAll":a=this.A,a.V.remove(a.U),a.h="",a.q=""}};nc.prototype.I=function(a,b){var c=this.za+"://"+fb(document.location.href),d=window.parent;b.message=a;d.postMessage(Eb(new Cb(i),b),c)};var oc=function(a,b){jc(a.A,function(a){b({loungeToken:a||""})})},pc=function(a,b){mc(a.A,function(a){b({pairingCode:a||""})})},qc=function(a,b,c){kc(a.A,b,function(a){c({screenId:a})})};aa("yt.www.remotepairing.init",function(){new nc});})();
-
-}
-
-/*
-     FILE ARCHIVED ON 13:18:18 Aug 25, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 22:02:20 Jan 30, 2026.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.809
-  exclusion.robots: 0.09
-  exclusion.robots.policy: 0.076
-  esindex: 0.014
-  cdx.remote: 13.739
-  LoadShardBlock: 178.966 (3)
-  PetaboxLoader3.datanode: 189.246 (4)
-  load_resource: 68.779
-  PetaboxLoader3.resolve: 42.292
-*/
