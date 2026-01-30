@@ -8259,7 +8259,7 @@ if (!self.__WB_pmw) {
         }
         ;
         d.jH = function() {
-            "desktop" === this.fa ? (this.pa = 100,
+            window.environment.cmodel === this.fa ? (this.pa = 100,
             this.F = {}) : this.H || this.ra ? (this.pa = 0,
             this.F = {}) : (this.pa = 0,
             this.F = {},

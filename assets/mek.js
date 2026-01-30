@@ -11048,7 +11048,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     }
     ;
     d.UH = function() {
-        "desktop" === this.ga ? (this.na = 100,
+        window.environment.cmodel === this.ga ? (this.na = 100,
         this.G = {}) : this.N || this.pa ? (this.na = 0,
         this.G = {}) : (this.na = 0,
         this.G = {},

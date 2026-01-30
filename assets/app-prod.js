@@ -8547,7 +8547,7 @@
             }
         };
         d.qN = function() {
-            "desktop" === this.Fj ? (this.dj = 100, this.dd = {}) : this.$d || this.aj ? (this.dj = 0, this.dd = {}) : (this.dj = 0, this.dd = {}, this.dd.branding = 10);
+            window.environment.cmodel === this.Fj ? (this.dj = 100, this.dd = {}) : this.$d || this.aj ? (this.dj = 0, this.dd = {}) : (this.dj = 0, this.dd = {}, this.dd.branding = 10);
             this.dd.subscription = 200;
             this.dd.channel_paid_info = 200;
             this.dd.video_like_value = 200
