@@ -120,6 +120,9 @@ if (maintenance === 'true') {
         } else if (window.version === "mek2013") {
             q(l + "/mek.css");
             n(l + "/mek.js");
+        } else if (window.version === "e13") {
+            q(l + "/e13.css");
+            n(l + "/e13.js");
         } else {
             q(l + "/app-prod.css");
             n(l + "/app-prod.js");
