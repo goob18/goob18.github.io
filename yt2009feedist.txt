@@ -1,0 +1,37 @@
+
+=== STANDARD FEEDS ===
+https://gdata.youtube.com/feeds/api/standardfeeds/most_popular
+https://gdata.youtube.com/feeds/api/standardfeeds/top_rated
+https://gdata.youtube.com/feeds/api/standardfeeds/recently_featured
+https://gdata.youtube.com/feeds/api/standardfeeds/recently_uploaded
+
+=== VIDEOS ===
+https://gdata.youtube.com/feeds/api/videos
+https://gdata.youtube.com/feeds/api/videos?q={query}
+https://gdata.youtube.com/feeds/api/videos/{video_id}
+https://gdata.youtube.com/feeds/api/videos/{video_id}/related
+https://gdata.youtube.com/feeds/api/videos/{video_id}/comments
+
+=== USERS ===
+https://gdata.youtube.com/feeds/api/users/{username}/uploads
+https://gdata.youtube.com/feeds/api/users/{username}/favorites
+https://gdata.youtube.com/feeds/api/users/{username}/playlists
+
+=== PLAYLISTS ===
+https://gdata.youtube.com/feeds/api/playlists/{playlist_id}
+
+=== NOTES ===
+this is not full list of youtube api endpoints
+some endpoints do not work
+api is deprecated
+for use with yt2009
+the tv feed endpoints are https://yt2009.truehosting.net/feeds/api/
+
+=== NOT SUPPORTED ===
+ratings feed
+responses feed
+watch_history
+subscriptions feed
+tag-only feeds (/videos/-/{tag})
+category listing feed
+authenticated write endpoints
