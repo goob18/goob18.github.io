@@ -14049,7 +14049,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     ;
     q.loadPlayerTemplate_ = function() {
         this.isPlayerHtmlLoaded_ ? this.checkPlayerLoadProgress_() : cd("html5-video-player") ? (this.isPlayerHtmlLoaded_ = k,
-        this.checkPlayerLoadProgress_()) : this.templateClient_.get("/leanback_ajax", {
+        this.checkPlayerLoadProgress_()) : this.templateClient_.get("https://yt2009.truehosting.net/leanback_ajax", {
             action_player_template: 1,
             hl: this.locale_.isoLocale,
             override_hl: 1
@@ -26258,7 +26258,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             }
         }, {
             name: "featuredService",
-            path: "/leanback.json",
+            path: "/e13leanback.json",
             parser: "featuredParser",
             paramKey: l,
             params: {
