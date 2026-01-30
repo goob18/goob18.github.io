@@ -1,22 +1,9 @@
 {
-  "name": "Goob18 - YouTube TV 2013 Replica",
-  "short_name": "Goob18",
-  "description": "A replica of the 2013 YouTube TV interface — browse videos with a classic look and feel.",
-  "start_url": "/?utm_source=web_app_manifest",
-  "scope": "/",
-  "display": "standalone",
-  "orientation": "landscape",
+  "name": "Goob18",
+  "theme_color": "#2196f3",
   "background_color": "#b0ffb0",
-  "theme_color": "#0b000b",
-  "icons": [
-    {
-      "src": "ico.png",
-      "sizes": "128x128",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ],
-  "categorization": ["video", "entertainment"],
-  "related_applications": [],
-  "prefer_related_applications": false
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "scope": "/",
+  "start_url": "https://goob18.github.io"
 }
