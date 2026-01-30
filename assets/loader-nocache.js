@@ -123,6 +123,9 @@ if (maintenance === 'true') {
         } else if (window.version === "e13") {
             q(l + "/e13.css");
             n(l + "/e13.js");
+        } else  if (window.version === "oginternet") {
+            q(l + "/app-prod.css");
+            n(l + "/app-prod-arc.js");
         } else {
             q(l + "/app-prod.css");
             n(l + "/app-prod.js");
