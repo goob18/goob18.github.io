@@ -9275,7 +9275,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     ;
     var qe = function(a, b, c, e, f, g, l, m) {
         this.id = a;
-        this.path = "";
+        this.path = b || "";
         this.http = c;
         this.environment = e;
         this.parser = f;
@@ -9289,8 +9289,8 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     }
     ;
     n.getFullUrl = function(a) {
-        var b = this.getBaseUrl() + this.path;
-        return b
+        var b = this.getBaseUrl();
+        return ke(me([b], a || {}))
     }
     ;
     n.getDefaultTransportMethod = function() {
@@ -17089,7 +17089,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     n.getFullUrl = function(a) {
         a = a || {};
         a.vpsid = this.serviceId;
-        return "https://yt2009.truehosting.net/feeds/api" + a;
+        return ci.superClass_.getFullUrl.call(this, a)
     }
     ;
     n.getBaseUrl = function() {
