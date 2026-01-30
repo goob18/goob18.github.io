@@ -17089,7 +17089,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     n.getFullUrl = function(a) {
         a = a || {};
         a.vpsid = this.serviceId;
-        return ci.superClass_.getFullUrl.call(this, a)
+        return "https://yt2009.truehosting.net/feeds/api" + a;
     }
     ;
     n.getBaseUrl = function() {
