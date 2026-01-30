@@ -2015,7 +2015,7 @@
     }
     ;
     p.g = function(a, b) {
-        var c = this.f + "://"
+        var c = "https://"
           , d = tb(document.location.href)[3] || k
           , c = c + (d && decodeURIComponent(d))
           , d = window.parent;
