@@ -9275,7 +9275,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     ;
     var qe = function(a, b, c, e, f, g, l, m) {
         this.id = a;
-        this.path = b || "";
+        this.path = "";
         this.http = c;
         this.environment = e;
         this.parser = f;
@@ -9290,7 +9290,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     ;
     n.getFullUrl = function(a) {
         var b = this.getBaseUrl() + this.path;
-        return ke(me([b], a || {}))
+        return b
     }
     ;
     n.getDefaultTransportMethod = function() {
@@ -23031,7 +23031,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             }
         }, {
             name: "featuredService",
-            path: "/leanback_ajax",
+            path: "/leanback.json",
             parser: "featuredParser",
             paramKey: j,
             params: {
