@@ -14267,7 +14267,7 @@
         var c = b.substr(1)
           , d = "all";
         "H" == b.substr(0, 1) && (d = "HD");
-        return Vh("/search_ajax?style=json&", {
+        return Vh("https://yt2009.truehosting.net/search_ajax?style=json&", {
             page: a + 1,
             quality: d,
             search_query: c,
