@@ -12438,11 +12438,11 @@
         a = {
             users: (t(a) ? a : [a]).join(",")
         };
-        return Th("/leanback_ajax?action_user_info=1", a)
+        return Th("https://yt2009.truehosting.net/leanback_ajax?action_user_info=1", a)
     }
     ;
     p.uC = function(a) {
-        return Th("/leanback_ajax?action_user_playlists=1", {
+        return Th("https://yt2009.truehosting.net/leanback_ajax?action_user_playlists=1", {
             user: a
         })
     }
@@ -14267,7 +14267,7 @@
         var c = b.substr(1)
           , d = "all";
         "H" == b.substr(0, 1) && (d = "HD");
-        return Vh("https://yt2009.truehosting.net/search_ajax?style=json&", {
+        return Vh("https://yt2009.truehosting.net/feeds/api/videos?alt=json&", {
             page: a + 1,
             quality: d,
             search_query: c,
