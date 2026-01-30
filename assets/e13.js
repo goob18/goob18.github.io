@@ -1,4 +1,4 @@
-/* https://web.archive.org/web/20130311132549/https://www.youtube.com/tv#/browse */
+/* https://web.archive.org/web/20130311132549/https://www.youtube.com/tv */
 /*
  AngularJS v1.0.6
  (c) 2010-2012 Google, Inc. http://angularjs.org
@@ -12150,7 +12150,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
         this.authService_ = c;
         this.timeService_ = e;
         this.lastState_ = l;
-        this.isLoggedIn_ = m
+        this.isLoggedIn_ = m;
     };
     E(Tg, Sg);
     q = Tg.prototype;
@@ -26258,7 +26258,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             }
         }, {
             name: "featuredService",
-            path: "/leanback_ajax",
+            path: "/leanback.json",
             parser: "featuredParser",
             paramKey: l,
             params: {
@@ -26268,7 +26268,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             }
         }, {
             name: "relatedChannelsService",
-            path: "/leanback_ajax",
+            path: "https://yt2009.truehosting.net/leanback_ajax",
             parser: "channelParser",
             paramKey: l,
             params: {
