@@ -7,7 +7,22 @@
 <!-- os:  -->
 <!-- browser:  -->
 <!-- machid: wWWSj-xSLJHAInqh4BRYa5EHYu90VKRiFpvFrOh54LgmQkz65bXGEA -->
-
+ <script>
+          function getCookie(name) {
+  const cookies = document.cookie.split("; ");
+  for (const cookie of cookies) {
+    const [key, value] = cookie.split("=");
+    if (key === name) {
+      return decodeURIComponent(value);
+    }
+  }
+  return null;
+}
+function setCookie(name, value, days = 365) {
+  const expires = new Date(Date.now() + days * 864e5).toUTCString();
+  document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
+}
+ </script>
 <head>
   <title>YouTube - Broadcast Yourself</title>
   <link rel="icon" href="favicon.ico" type="image/x-icon"/>
@@ -21,7 +36,7 @@
   <!-- splash screen -->
   <div id="splash" style="position: absolute; overflow: hidden; left: 5%; top: 5%; height: 90%; width: 90%;">
     <div style="position: absolute; left: 35%; width: 30%; height: 40%; top: 30%;">
-      <img style="position: absolute; width: 100%; height: 100%;" src="http://s.ytimg.com/yt/img/tv/wii-logo-vfl42689.png" alt="YouTube"/>
+      <img style="position: absolute; width: 100%; height: 100%;" src="https://s.ytimg.com/yt/img/tv/wii-logo-vfl42689.png" alt="YouTube"/>
     </div>
   </div>
   <!-- iframe for history control -->
@@ -42,8 +57,8 @@
 
 
 
-  var resourceSwfBridge = 'http://s.ytimg.com/yt/swf/express_bridge-vfl79326.swf';
-  var resourceSwfPlayer = 'http://s.ytimg.com/yt/swf/express-vfl80517.swf';
+  var resourceSwfBridge = 'https://s.ytimg.com/yt/swf/express_bridge-vfl79326.swf';
+  var resourceSwfPlayer = 'https://s.ytimg.com/yt/swf/express-vfl80517.swf';
   var gaiaLoginUrl = 'https://www.google.com/accounts/ServiceLogin?service=youtube&hl=en_US&passive=&skipll=true&uilel=3&continue=http%3A//www.youtube.com/signup%3Fhl%3Den_US%26warned%3D%26nomobiletemp%3D1%26next%3Dhttp%253A//www.youtube.com/tv';
   var safeSearchMode = 'off';
   var hlSelected = 'en';
@@ -57,7 +72,7 @@
   var bodyExpansionWidth = 0;
   var bodyExpansionHeight = 0;
 
-  var paramLogo = 'http://s.ytimg.com/yt/img/tv/yttv-logo-sm-vfl72219.png';
+  var paramLogo = 'https://s.ytimg.com/yt/img/tv/yttv-logo-sm-vfl72219.png';
 
   var resizeEvent = function() {
     if (isPlatformPS3) {
@@ -73,13 +88,13 @@
   -->
   </script>
 
-    <link rel="stylesheet" type="text/css" href="http://s.ytimg.com/yt/css/tv/yttv/yttv-base-vfl80517.css">
-    <link rel="stylesheet" type="text/css" href="http://s.ytimg.com/yt/css/tv/yttv/yttv-button-vfl80517.css">
-    <link rel="stylesheet" type="text/css" href="http://s.ytimg.com/yt/css/tv/yttv/yttv-default-vfl80517.css">
-    <link rel="stylesheet" type="text/css" href="http://s.ytimg.com/yt/css/tv/yttv/yttv-image-vfl80517.css">
-    <link rel="stylesheet" type="text/css" href="http://s.ytimg.com/yt/css/tv/yttv/yttv-site-vfl80517.css">
+    <link rel="stylesheet" type="text/css" href="https://s.ytimg.com/yt/css/tv/yttv/yttv-base-vfl80517.css">
+    <link rel="stylesheet" type="text/css" href="https://s.ytimg.com/yt/css/tv/yttv/yttv-button-vfl80517.css">
+    <link rel="stylesheet" type="text/css" href="https://s.ytimg.com/yt/css/tv/yttv/yttv-default-vfl80517.css">
+    <link rel="stylesheet" type="text/css" href="https://s.ytimg.com/yt/css/tv/yttv/yttv-image-vfl80517.css">
+    <link rel="stylesheet" type="text/css" href="https://s.ytimg.com/yt/css/tv/yttv/yttv-site-vfl80517.css">
 
-  <script type="text/javascript" src="http://s.ytimg.com/yt/swfobject-vfl28407.js"></script>
+  <script type="text/javascript" src="https://s.ytimg.com/yt/swfobject-vfl28407.js"></script>
   <script type="text/javascript" src="tv.js"></script>
 
   <!-- SYN DNA -->
@@ -137,7 +152,7 @@
   var dataVideoBroken = {
     video_id: null,
     playlist_id: null,
-    image_url: 'http://s.ytimg.com/yt/img/tv/wii-broken-vfl42689.png',
+    image_url: 'https://s.ytimg.com/yt/img/tv/wii-broken-vfl42689.png',
     title: 'not available',
     description: null,
     duration: null,
@@ -148,12 +163,12 @@
     view_count: null
   };
 
-  var dataPendingImg = 'http://s.ytimg.com/yt/img/tv/yttv-pending-vfl53923.gif';
+  var dataPendingImg = 'https://s.ytimg.com/yt/img/tv/yttv-pending-vfl53923.gif';
 
   var dataNoVideo = {
     video_id: null,
     playlist_id: null,
-    image_url: 'http://s.ytimg.com/yt/img/tv/pixel-vfl41434.gif',
+    image_url: 'https://s.ytimg.com/yt/img/tv/pixel-vfl41434.gif',
     title: null,
     description: null,
     duration: null,
@@ -410,8 +425,8 @@
         remove: add
       }],
       _VIEW: {
-        boxchecked: generateImage('http://s.ytimg.com/yt/img/tv/yttv-checkbox-checked-vfl69395.png', '', 1.058823, 0.574728, 'min'),
-        boxempty: generateImage('http://s.ytimg.com/yt/img/tv/yttv-checkbox-empty-vfl69395.png', '', 1.058823, 0.574728, 'min'),
+        boxchecked: generateImage('https://s.ytimg.com/yt/img/tv/yttv-checkbox-checked-vfl69395.png', '', 1.058823, 0.574728, 'min'),
+        boxempty: generateImage('https://s.ytimg.com/yt/img/tv/yttv-checkbox-empty-vfl69395.png', '', 1.058823, 0.574728, 'min'),
         text: { _CLASS: 'yttv-view-wrappingtext', label: label },
         onclick: {
           _CLASS: 'yttv-view-hidden',
@@ -563,7 +578,7 @@
         { _CLASS: 'syn-control-link', target: 'main.service_watch' }
       ],
       _VIEW: {
-        logo: generateImage('http://s.ytimg.com/yt/img/tv/yttv-logo-sm-vfl72219.png', '', 2.080808, 1.374208, 'min', [
+        logo: generateImage('https://s.ytimg.com/yt/img/tv/yttv-logo-sm-vfl72219.png', '', 2.080808, 1.374208, 'min', [
           { _CLASS: 'syn-control-activate_on_click', target: 'main.page-1'}
         ]),
         title: {
@@ -636,7 +651,7 @@
              _CLASS: 'yttv-view-buttoncontent',
              _VIEW: {
                text2: { _CLASS: 'yttv-view-text', label: 'Info' },
-               icon2: generateImage('http://s.ytimg.com/yt/img/tv/yttv-moreinfo-vfl58814.png', '', 1, 0.753759, 'min')
+               icon2: generateImage('https://s.ytimg.com/yt/img/tv/yttv-moreinfo-vfl58814.png', '', 1, 0.753759, 'min')
              }
            }
          }
@@ -652,7 +667,7 @@
              _CLASS: 'yttv-view-buttoncontent',
              _VIEW: {
                 text2: { _CLASS: 'yttv-view-text', label: 'Related' },
-                icon2: generateImage('http://s.ytimg.com/yt/img/tv/yttv-related-vfl58814.png', '', 1, 0.753759, 'min')
+                icon2: generateImage('https://s.ytimg.com/yt/img/tv/yttv-related-vfl58814.png', '', 1, 0.753759, 'min')
              }
            }
          }
@@ -678,7 +693,7 @@
                  { _CLASS: 'syn-control-activate_on_click' },
               ],
               _VIEW: {
-                paddlecontent: generateImage('http://s.ytimg.com/yt/img/tv/yttv-uparrow-vfl65740.png', '', 1.457142, 1.329545, 'min')
+                paddlecontent: generateImage('https://s.ytimg.com/yt/img/tv/yttv-uparrow-vfl65740.png', '', 1.457142, 1.329545, 'min')
               }
             },
             item1: contentRelatedItem(),
@@ -692,7 +707,7 @@
                 { _CLASS: 'syn-control-activate_on_click' },
               ],
               _VIEW: {
-                paddlecontent: generateImage('http://s.ytimg.com/yt/img/tv/yttv-downarrow-vfl65740.png', '', 1.5, 1.329545, 'min')
+                paddlecontent: generateImage('https://s.ytimg.com/yt/img/tv/yttv-downarrow-vfl65740.png', '', 1.5, 1.329545, 'min')
               }
             },
             counter: viewPageCount()
@@ -785,7 +800,7 @@
               _CLASS: 'yttv-view-buttoncontent',
               _VIEW: {
                 text2: { _CLASS: 'yttv-view-text', label: 'Favorite' },
-                icon2: generateImage('http://s.ytimg.com/yt/img/tv/yttv-favorite_icon-vfl58814.png', '', 1, 0.720703, 'min')
+                icon2: generateImage('https://s.ytimg.com/yt/img/tv/yttv-favorite_icon-vfl58814.png', '', 1, 0.720703, 'min')
               }
             }
           }
@@ -803,7 +818,7 @@
               _CLASS: 'yttv-view-buttoncontent',
               _VIEW: {
                 text2: { _CLASS: 'yttv-view-text', label: 'Flag' },
-                icon2: generateImage('http://s.ytimg.com/yt/img/tv/yttv-flag_icon-vfl58814.png', '', 1, 0.720703, 'min')
+                icon2: generateImage('https://s.ytimg.com/yt/img/tv/yttv-flag_icon-vfl58814.png', '', 1, 0.720703, 'min')
               }
             }
           }
@@ -821,7 +836,7 @@
               _CLASS: 'yttv-view-buttoncontent',
               _VIEW: {
                 text2: { _CLASS: 'yttv-view-text', label: 'Share' },
-                icon2: generateImage('http://s.ytimg.com/yt/img/tv/yttv-share_icon-vfl58814.png', '', 1, 0.720703, 'min')
+                icon2: generateImage('https://s.ytimg.com/yt/img/tv/yttv-share_icon-vfl58814.png', '', 1, 0.720703, 'min')
               }
             }
           }
@@ -836,7 +851,7 @@
             { _CLASS: 'syn-control-change_style_on_mouse_event', type: 'mousehover', style: 'newhover'}
           ],
           _VIEW: {
-            vicon: generateImage('http://s.ytimg.com/yt/img/tv/yttv-leftarrow-vfl59966.png', '', 0.653846, 0.315, 'min')
+            vicon: generateImage('https://s.ytimg.com/yt/img/tv/yttv-leftarrow-vfl59966.png', '', 0.653846, 0.315, 'min')
           }
         }
       }
@@ -914,7 +929,7 @@
               },
               label_key: 'user'
             },
-            icon: generateImage('http://s.ytimg.com/yt/img/tv/yttv-account_icon-vfl76266.png', '', 1, 0.6375, 'min')
+            icon: generateImage('https://s.ytimg.com/yt/img/tv/yttv-account_icon-vfl76266.png', '', 1, 0.6375, 'min')
           }
         },
         featuredtabs: {
@@ -1010,7 +1025,7 @@
                 { _CLASS: 'syn-control-change_style_on_mouse_event', type: 'mousehover', style: 'mousehover'}
               ],
               _VIEW: {
-                paddlecontent: generateImage('http://s.ytimg.com/yt/img/tv/yttv-uparrow-vfl65740.png', '', 1.457142, 1.1953125, 'min')
+                paddlecontent: generateImage('https://s.ytimg.com/yt/img/tv/yttv-uparrow-vfl65740.png', '', 1.457142, 1.1953125, 'min')
               }
             },
             popup: {
@@ -1034,7 +1049,7 @@
                 { _CLASS: 'syn-control-change_style_on_mouse_event', type: 'mousehover', style: 'mousehover'}
               ],
               _VIEW: {
-                paddlecontent: generateImage('http://s.ytimg.com/yt/img/tv/yttv-downarrow-vfl65740.png', '', 1.5, 1.1953125, 'min')
+                paddlecontent: generateImage('https://s.ytimg.com/yt/img/tv/yttv-downarrow-vfl65740.png', '', 1.5, 1.1953125, 'min')
               }
             },
             counter: viewPageCount()
@@ -1077,7 +1092,7 @@
                 { _CLASS: 'syn-control-ga_track_event', category: 'login', action: 'gaia' }
               ],
               _VIEW: {
-                image: generateImage('http://s.ytimg.com/yt/img/tv/yttv-gaia-login-vfl69395.png', '', 2.635135, 1.615909, 'min'),
+                image: generateImage('https://s.ytimg.com/yt/img/tv/yttv-gaia-login-vfl69395.png', '', 2.635135, 1.615909, 'min'),
                 content: {
                   _CLASS: 'yttv-view-wrappingtext',
                   label: 'Sign in with your Google Account!'
@@ -1469,25 +1484,25 @@
         controls: {
           _CLASS: 'yttv-view-default',
           _VIEW: {
-            playbutton: generateImage('http://s.ytimg.com/yt/img/tv/yttv-playbutton-vfl70493.png', '', 1, 0.703125, 'min', [
+            playbutton: generateImage('https://s.ytimg.com/yt/img/tv/yttv-playbutton-vfl70493.png', '', 1, 0.703125, 'min', [
               { _CLASS: 'syn-control-activate_on_click' }
             ]),
-            pausebutton: generateImage('http://s.ytimg.com/yt/img/tv/yttv-pausebutton-vfl70493.png', '', 1, 0.703125, 'min', [
+            pausebutton: generateImage('https://s.ytimg.com/yt/img/tv/yttv-pausebutton-vfl70493.png', '', 1, 0.703125, 'min', [
               { _CLASS: 'syn-control-activate_on_click' }
             ]),
-            ffbutton: generateImage('http://s.ytimg.com/yt/img/tv/yttv-ffbutton-vfl70493.png', '', 1, 0.703125, 'min', [
+            ffbutton: generateImage('https://s.ytimg.com/yt/img/tv/yttv-ffbutton-vfl70493.png', '', 1, 0.703125, 'min', [
               { _CLASS: 'syn-control-activate_on_click' }
             ]),
-            rwbutton: generateImage('http://s.ytimg.com/yt/img/tv/yttv-rwbutton-vfl70493.png', '', 1, 0.703125, 'min', [
+            rwbutton: generateImage('https://s.ytimg.com/yt/img/tv/yttv-rwbutton-vfl70493.png', '', 1, 0.703125, 'min', [
               { _CLASS: 'syn-control-activate_on_click' }
             ]),
-            nextbutton: generateImage('http://s.ytimg.com/yt/img/tv/yttv-nextbutton-vfl70493.png', '', 1, 0.703125, 'min', [
+            nextbutton: generateImage('https://s.ytimg.com/yt/img/tv/yttv-nextbutton-vfl70493.png', '', 1, 0.703125, 'min', [
               { _CLASS: 'syn-control-activate_on_click' }
             ]),
-            prevbutton: generateImage('http://s.ytimg.com/yt/img/tv/yttv-prevbutton-vfl70493.png', '', 1, 0.703125, 'min', [
+            prevbutton: generateImage('https://s.ytimg.com/yt/img/tv/yttv-prevbutton-vfl70493.png', '', 1, 0.703125, 'min', [
               { _CLASS: 'syn-control-activate_on_click' }
             ]),
-            fsbutton: generateImage('http://s.ytimg.com/yt/img/tv/yttv-fsbutton-vfl70493.png', '', 1, 0.703125, 'min', [
+            fsbutton: generateImage('https://s.ytimg.com/yt/img/tv/yttv-fsbutton-vfl70493.png', '', 1, 0.703125, 'min', [
               { _CLASS: 'syn-control-activate_on_click' },
               { _CLASS: 'syn-control-activate_on_key', key: 'CTRL+f'}
             ])
@@ -1663,7 +1678,7 @@
                     content: {
                       _CLASS: 'yttv-view-buttoncontent',
                       _VIEW: {
-                        icon: generateImage('http://s.ytimg.com/yt/img/tv/yttv-browse_icon-vfl68068.png', '', 1, 0.8775, 'min'),
+                        icon: generateImage('https://s.ytimg.com/yt/img/tv/yttv-browse_icon-vfl68068.png', '', 1, 0.8775, 'min'),
                         text: { _CLASS: 'yttv-view-text', label: 'Videos' }
                       }
                     }
@@ -2123,7 +2138,7 @@ document.addEventListener("keydown", (event) => {
   </script>
 
   <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
   </script>
 
