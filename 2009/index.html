@@ -1434,37 +1434,6 @@ function setCookie(name, value, days = 365) {
   };
 
   var serviceLogout = function() {
-    return {
-      _CLASS: 'yttv-view-hidden',
-      _CONTROL: {
-        _CLASS: 'yttv-control-logout',
-        type: 'POST',
-        uri: 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_login',
-        parameters: 'action_logout=1',
-        activate_on_success: ['.success', 'main.page-14'],
-        button: 'main.browse_site.browse-buttons.loggedin-sub.logout-button'
-      },
-      _VIEW: {
-        success: {
-        _CLASS: 'yttv-view-hidden',
-          _CONTROL: [{
-            _CLASS: 'syn-control-clear_cache',
-            target: ['main.service_browse_videos', 'main.service_browse_myvideos', 'main.service_browse_search', 'main.service_related']
-          }, {
-            _CLASS: 'syn-control-set_properties',
-            source: '..',
-            target: ['main.content_watch.sharepopup.emails', 'main.content_watch.sharepopup.message'],
-            map: {
-              set: 'set'
-            }
-          }, {
-            _CLASS: 'syn-control-deactivate',
-            target: 'main.browse_site.video-container.loggedinuser'
-          }]
-        }
-      },
-      set: ''
-    };
     setCookie("fake", "");
     window.location.reload();
   };
