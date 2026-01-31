@@ -14,7 +14,7 @@
   <link rel="icon" href="https://s.ytimg.com/yt/favicon-vflZlzSbU.ico" type="image/x-icon"/>
   <link rel="shortcut icon" href="https://s.ytimg.com/yt/favicon-vflZlzSbU.ico" type="image/x-icon"/>
 
-    <link rel="stylesheet" href=xl.css">
+    <link rel="stylesheet" href=xl.css>
 
 
 </head>
@@ -2177,7 +2177,7 @@ id="main.service_recommended"></div></div>
         blocksize: 3,
         loadahead: 2,
         delay: 500,
-        uri: 'https://yt2009.truehosting.net/xl/console_playlist',
+        uri: 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_playlist',
         pending: dataPending,
         error: dataVideoBroken,
         no_item: dataNoVideo
@@ -2371,7 +2371,7 @@ id="main.service_recommended"></div></div>
       _CONTROL: {
         _CLASS: 'xl-control-channel',
         type: 'GET',
-        uri: 'https://yt2009.truehosting.net/xl/console_profile',
+        uri: 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile',
         photo:'main.browse_site.channelsub.channelinfo.channelicon',
         last_log_in: 'main.browse_site.content_channel.channelcontent.lastlogin',
         view_count: 'main.browse_site.content_channel.channelcontent.viewcount',
@@ -2578,7 +2578,7 @@ id="main.service_recommended"></div></div>
       }, {
         _CLASS: 'xl-control-share',
         type: 'POST',
-        uri: 'https://yt2009.truehosting.net/xl/console_user_share',
+        uri: 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_user_share',
         parameters: 'video_id=%s&recipients=%s&message=%s',
         activate_on_success: ['main.content_watch.moreinfo_button', 'main.content_watch.info', 'main.content_watch.popup'],
         activate_on_failure: 'main.content_watch.popup',
@@ -2611,7 +2611,7 @@ id="main.service_recommended"></div></div>
       _CONTROL: {
         _CLASS: 'xl-control-logout',
         type: 'POST',
-        uri: 'https://yt2009.truehosting.net/xl/console_login',
+        uri: 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_login',
         parameters: 'action_logout=1',
         clear_cache: dataAllCache,
         //activate_on_success: ['.success', 'main.page-14'],
@@ -3427,75 +3427,75 @@ id="main.service_recommended"></div></div>
                      'main.browse_site'], 'main.browse_site.video-container.videos.videolist-1', true)
         ],
         service_browse_videos: [
-          serviceBrowse(cacheSpotlight, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_recently_featured'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_recently_added'),
+          serviceBrowse(cacheSpotlight, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_recently_featured'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_recently_added'),
 
-          serviceBrowse(cacheMostViewedToday, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_views_today'),
-          serviceBrowse(cacheMostViewedWeek, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_views_week'),
+          serviceBrowse(cacheMostViewedToday, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_views_today'),
+          serviceBrowse(cacheMostViewedWeek, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_views_week'),
           { _CLASS: 'xl-view-hidden' },
-          serviceBrowse(cacheMostViewed, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_views'),
+          serviceBrowse(cacheMostViewed, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_views'),
 
-          serviceBrowse(cacheTopRatedToday, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_top_rated_today'),
-          serviceBrowse(cacheTopRatedWeek, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_top_rated_week'),
+          serviceBrowse(cacheTopRatedToday, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_top_rated_today'),
+          serviceBrowse(cacheTopRatedWeek, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_top_rated_week'),
           { _CLASS: 'xl-view-hidden' },
-          serviceBrowse(cacheTopRated, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_top_rated'),
+          serviceBrowse(cacheTopRated, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_top_rated'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'buzz_browse_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'buzz_browse_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'buzz_browse_month'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'buzz_browse_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'buzz_browse_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'buzz_browse_month'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_popular_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_popular_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_popular_month'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_popular_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_popular_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_popular_month'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_comment_count_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_comment_count_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_comment_count'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_comment_count_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_comment_count_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_comment_count'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_responded_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_responded_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_responded'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_responded_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_responded_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_responded'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_added_to_favorites_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_added_to_favorites_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_added_to_favorites'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_added_to_favorites_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_added_to_favorites_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'videos_most_added_to_favorites'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_music_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_music_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_music_month'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_music_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_music_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_music_month'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_indy_music_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_indy_music_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_indy_music_month'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_indy_music_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_indy_music_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_indy_music_month'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_major_music_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_major_music_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_major_music_month'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_major_music_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_major_music_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_major_music_month'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_unsigned_music_today'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_unsigned_music_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_unsigned_music_month'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_unsigned_music_today'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_unsigned_music_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'mpt_top_unsigned_music_month'),
 
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'edu_videos_views_week'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'edu_videos_views_month'),
-          serviceBrowse(cacheMore, 'https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'edu_videos_views')
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'edu_videos_views_week'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'edu_videos_views_month'),
+          serviceBrowse(cacheMore, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_browse', textNoVideosFound, 'edu_videos_views')
         ],
         service_browse_myvideos: [
-          serviceBrowseMyVideos(cacheSubscriptions, 'https://yt2009.truehosting.net/xl/console_profile_subscriptions', "No Subscriptions Found"),
-          serviceBrowseMyVideos(cachePlaylists, 'https://yt2009.truehosting.net/xl/console_profile_playlists', "No Playlists Found"),
-          serviceBrowseMyVideos(cacheUploads, 'https://yt2009.truehosting.net/xl/console_profile_videos', "No Videos Uploaded"),
-          serviceBrowseMyVideos(cacheFavorites, 'https://yt2009.truehosting.net/xl/console_profile_favorites', "No Videos Favorited")
+          serviceBrowseMyVideos(cacheSubscriptions, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_subscriptions', "No Subscriptions Found"),
+          serviceBrowseMyVideos(cachePlaylists, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_playlists', "No Playlists Found"),
+          serviceBrowseMyVideos(cacheUploads, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_videos', "No Videos Uploaded"),
+          serviceBrowseMyVideos(cacheFavorites, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_favorites', "No Videos Favorited")
         ],
         service_browse_uservideos: [
-          serviceBrowseUserVideos(cacheSubscriptions, 'https://yt2009.truehosting.net/xl/console_profile_subscriptions', "No Subscriptions Found"),
-          serviceBrowseUserVideos(cachePlaylists, 'https://yt2009.truehosting.net/xl/console_profile_playlists', "No Playlists Found"),
-          serviceBrowseUserVideos(cacheUploads, 'https://yt2009.truehosting.net/xl/console_profile_videos', "No Videos Uploaded"),
-          serviceBrowseUserVideos(cacheFavorites, 'https://yt2009.truehosting.net/xl/console_profile_favorites', "No Videos Favorited")
+          serviceBrowseUserVideos(cacheSubscriptions, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_subscriptions', "No Subscriptions Found"),
+          serviceBrowseUserVideos(cachePlaylists, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_playlists', "No Playlists Found"),
+          serviceBrowseUserVideos(cacheUploads, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_videos', "No Videos Uploaded"),
+          serviceBrowseUserVideos(cacheFavorites, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_favorites', "No Videos Favorited")
         ],
-        service_browse_search: serviceBrowseSearch(cacheSearch, 'https://yt2009.truehosting.net/xl/console_results', "No Videos Found in Search"),
+        service_browse_search: serviceBrowseSearch(cacheSearch, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_results', "No Videos Found in Search"),
         service_related: [
-          serviceRelated(cacheRelated1, 'https://yt2009.truehosting.net/xl/console_related'),
-          serviceRelated(cacheRelated2, 'https://yt2009.truehosting.net/xl/console_related')
+          serviceRelated(cacheRelated1, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_related'),
+          serviceRelated(cacheRelated2, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_related')
         ],
         service_watch: serviceWatch(),
         service_logout: serviceLogout(),
@@ -3506,7 +3506,7 @@ id="main.service_recommended"></div></div>
         service_subscribe: serviceSubscribe(),
         service_unsubscribe: serviceUnsubscribe(),
         service_playlist_item: servicePlaylistItem(cachePlaylistVideos, ''),
-        service_recommended: serviceRecommended(cacheRecommended, 'https://yt2009.truehosting.net/xl/console_profile_recommendation', textNoVideosFound)
+        service_recommended: serviceRecommended(cacheRecommended, 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile_recommendation', textNoVideosFound)
       },
       cache: cacheMore,
       placeholders: [
