@@ -7,7 +7,7 @@
         var APP_URL = "http://" + currentHost + ":" + (currentPort || "8090");  
         var APP_HOST =  currentHost;  
         var PROXY_URL = "https://" + currentHost; 
-        var NPROXY_URL = "https://everyorigin.jwvbremen.nl/get?url="; 
+        var NPROXY_URL = ""; 
         
     
         console.log("APP_URL:", APP_URL);
@@ -11550,7 +11550,7 @@
             }, this), 1E3 * a)
         };
         d.aT = function(a, b) {
-            this.Xq.post("https://everyorigin.jwvbremen.nl/get?url=https://accounts.google.com/o/oauth2/token", null, {
+            this.Xq.post("https://accounts.google.com/o/oauth2/token", null, {
                 client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
                 client_secret: "SboVhoG9s0rNafixCSGGKXAT",
                 refresh_token: a,
@@ -11574,7 +11574,7 @@
 
         d.FS = function(a, b) {
             this.xr();
-            this.Xq.post("https://everyorigin.jwvbremen.nl/get?url=https://oauth2.googleapis.com/device/code", null, {
+            this.Xq.post("https://oauth2.googleapis.com/device/code", null, {
                 client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
                 scope: "http://gdata.youtube.com"
             }, w(function(c) {
@@ -11604,7 +11604,7 @@
             console.log("D.uA: f before POST request", f);
         
             var xhr = new XMLHttpRequest();
-            xhr.open("POST", "https://everyorigin.jwvbremen.nl/get?url=https://accounts.google.com/o/oauth2/token", true);
+            xhr.open("POST", "https://accounts.google.com/o/oauth2/token", true);
             xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
         
             xhr.onload = function () {
@@ -15676,7 +15676,7 @@
                 this.kl = a || null;
                 this.Zh = b || 0;
                 a = this.kw + "/test";
-                b = "https://everyorigin.jwvbremen.nl/get?url=https://youtube.com/api/lounge/bc/bind";
+                b = "https://youtube.com/api/lounge/bc/bind";
                 var e = new Ji("1", c ? c.firstTestResults : null, c ? c.secondTestResults : null),
                     f = this.oa;
                 f && f.Mw(null);

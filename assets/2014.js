@@ -13348,7 +13348,7 @@ if (!self.__WB_pmw) {
                 client_id: this.wh(),
                 scope: "https://web.archive.org/web/20140418000039/http://gdata.youtube.com"
             };
-            this.b.post("/o/oauth2/device/code", null, e, x(function(c) {
+            this.b.post("https://oauth2.googleapis.com/device/code", null, e, x(function(c) {
                 this.YA(c, a, b)
             }, this), x(function() {
                 c()

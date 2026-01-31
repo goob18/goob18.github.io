@@ -12267,7 +12267,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     ;
     q.getPairingCode = function(a, b) {
         this.cancelPolling();
-        this.http_.post("/o/oauth2/device/code", l, {
+        this.http_.post("https://oauth2.googleapis.com/device/code", l, {
             client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
             scope: "http:https://yt2009.truehosting.net"
         }, C(function(c) {

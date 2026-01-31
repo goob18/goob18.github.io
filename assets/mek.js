@@ -12335,7 +12335,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
             client_id: this.ei(),
             scope: "http://gdata.youtube.com"
         };
-        this.b.post("/o/oauth2/device/code", null, e, y(function(c) {
+        this.b.post("https://oauth2.googleapis.com/device/code", null, e, y(function(c) {
             this.kC(c, a, b)
         }, this), y(function() {
             c()

@@ -11025,7 +11025,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     ;
     n.getPairingCode = function(a, b) {
         this.cancelPolling();
-        this.http_.post("/o/oauth2/device/code", {
+        this.http_.post("https://oauth2.googleapis.com/device/code", {
             client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
             scope: "http://gdata.youtube.com"
         }, z(function(c) {
@@ -12671,7 +12671,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     };
     qg.prototype.state = function(a, b) {
         var c = k;
-        a !== h && (this.location_.path("/" + a),
+        a !== h && (this.location_.path(a),
         c = i);
         b && (this.location_.search(b),
         c = i);
