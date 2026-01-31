@@ -2040,7 +2040,7 @@ function setCookie(name, value, days = 365) {
   };
 
   var _root = null;
-  var usernamefake = getCookie("fake") || "false";
+  var usernamefake = getCookie("fake") || "";
 document.addEventListener("keydown", (event) => {
   if (event.altKey && event.key.toLowerCase() === "a") {
     event.preventDefault();
