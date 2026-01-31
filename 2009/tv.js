@@ -5641,9 +5641,9 @@ M.kb = function(a) {
         ue(c, "fullscreen", e)
     });
     if (this.ob())
-        this.lb[db]({
+        x = {
             type: "clear"
-        });
+        };
     else
         !this.ea.paused && !this.ea.ended && this.ea.pause();
     this.Ua = e
@@ -5672,12 +5672,12 @@ M.sf = function(a, b, c, d) {
             if (h && h.video_id && h.restricted == 0)
                 j = h.video_id;
             if (this.ob())
-                this.lb[db]({
+                y = {
                     type: "play",
                     id: j,
                     i: f,
                     li: g
-                });
+                };
             else {
                 this.rb = f;
                 this.zf = g;
