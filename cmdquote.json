@@ -1,5 +1,10 @@
 [
-    "Show 'em the prank, Fred-wiener!",
-    "You look good, Gib.",
-    "You know, everyone at school's saying you're a hero."
+    { "quote": "Show 'em the prank, Fred-wiener!", "author": "Sam Puckett" },
+    { "quote": "You look good, Gib.", "author": "Sam Puckett" },
+    { "quote": "You know, everyone at school's saying you're a hero.", "author": "Carly Shay" },
+    { "quote": "I'm not a hero. I'm just a kid who did what anyone would do.", "author": "Gibby" },
+    { "quote": "No, no, de nopedy nope, I am not gonna lie to your mother.", "author": "Spencer Shay" },
+    { "quote": "I wish the time had gotten away from me. But no, I had to spend the last two hours on Planet Dorfman!", "author": "Carly Shay" },
+    { "quote": "Fun fact: i stole freddie's camera.", "author": "CMD HUE" },
+    { "quote": "If you'd like to make a call, please hang up and try again", "author": "a phone from the world famous Albuquerque Holiday Inn" }
 ]
