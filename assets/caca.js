@@ -9604,7 +9604,7 @@
         }
         ;
         d.Gv = function(a, b, c) {
-            return this.b + "https://i1.ytimg.com/" + b + "/" + a + "/" + c + ".jpg"
+            return "https://i1.ytimg.com/" + b + "/" + a + "/" + c + ".jpg"
         }
         ;
         d.QO = function(a) {
