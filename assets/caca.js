@@ -30362,7 +30362,7 @@
             }, {
                 name: "relatedVideosService",
                 sd: function(a, b) {
-                    return b.useInnerTubeWatchNext ? a.get(Ih, {
+                    return gibby.innertube ? a.get(Ih, {
                         id: "relatedVideos",
                         name: "watchNextService",
                         path: "/next",
