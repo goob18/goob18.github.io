@@ -129,6 +129,9 @@ if (maintenance === 'true') {
         } else if (window.version === "e12") {
             q(l + "/e12.css");
             n(l + "/e12.js");
+        } else if (window.version === "m14") {
+            q(l + "/caca.css");
+            n(l + "/caca.js");
         } else {
             q(l + "/app-prod.css");
             n(l + "/app-prod.js");
