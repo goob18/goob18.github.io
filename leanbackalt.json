@@ -1,0 +1,220 @@
+{
+  "sets": [
+    {
+      "title": "YouTube Trends",
+      "video_count": 4777,
+      "gdata_list_id": "FLtrends",
+      "icon": "trends",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "Music",
+      "video_count": 30,
+      "gdata_list_id": "STmost_popular_Music",
+      "icon": "music",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Music?time=today",
+      "list_id": "LBpop,10,t,en_US",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/ekdXzLxrMnY/hqdefault.jpg"
+    },
+    {
+      "title": "Gaming",
+      "video_count": 30,
+      "gdata_list_id": "STmost_popular_Games",
+      "icon": "gaming",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Games?time=today",
+      "list_id": "LBpop,20,t,en_US",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/7WJBJ9OI1ds/hqdefault.jpg"
+    },
+    {
+      "title": "Sports",
+      "video_count": 30,
+      "gdata_list_id": "STmost_popular_Sports",
+      "icon": "sports",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Sports?time=today",
+      "list_id": "LBpop,17,t,en_US",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/CxkUhVswF5U/hqdefault.jpg"
+    },
+    {
+      "title": "Film & Animation",
+      "video_count": 30,
+      "gdata_list_id": "STmost_popular_Film",
+      "icon": "film",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Film?time=today",
+      "list_id": "LBpop,1,t,en_US",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/DfSyyw8duQ0/hqdefault.jpg"
+    },
+    {
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Entertainment?time=today",
+      "title": "Entertainment",
+      "tab": "featured",
+      "icon": "entertainment",
+      "gdata_list_id": "STmost_popular_Entertainment"
+    },
+    {
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Comedy?time=today",
+      "title": "Comedy",
+      "tab": "featured",
+      "icon": "comedy",
+      "gdata_list_id": "STmost_popular_Comedy"
+    },
+    {
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_News?time=today",
+      "title": "News & Politics",
+      "tab": "featured",
+      "icon": "news",
+      "gdata_list_id": "STmost_popular_News"
+    },
+    {
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_People?time=today",
+      "title": "People & Blogs",
+      "tab": "featured",
+      "icon": "people",
+      "gdata_list_id": "STmost_popular_People"
+    },
+    {
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Tech?time=today",
+      "title": "Science & Technology",
+      "tab": "featured",
+      "icon": "tech",
+      "gdata_list_id": "STmost_popular_Tech"
+    },
+    {
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Howto?time=today",
+      "title": "Howto & Style",
+      "tab": "featured",
+      "icon": "howto",
+      "gdata_list_id": "STmost_popular_Howto"
+    },
+    {
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Education?time=today",
+      "title": "Education",
+      "tab": "featured",
+      "icon": "education",
+      "gdata_list_id": "STmost_popular_Education"
+    },
+    {
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/standardfeeds/US/most_popular_Animals?time=today",
+      "title": "Pets & Animals",
+      "tab": "featured",
+      "icon": "animals",
+      "gdata_list_id": "STmost_popular_Animals"
+    },
+    {
+      "title": "Google Chrome",
+      "gdata_list_id": "UUUCL8ZULXASCc1I_oaOT0NaOQ",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "PhoneArena",
+      "gdata_list_id": "UUUCwPRdjbrlqTjWOl7ig9JLHg",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "ShinyWR",
+      "gdata_list_id": "UUUC747kxnP5gZY2pvy3FsDkFw",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "Alcatel USA",
+      "gdata_list_id": "UUUCEaCxSsXPpM-wSAKx9S1QKQ",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "kronovanet",
+      "gdata_list_id": "UUUC4dvH--V8tOJWPbjCGmuf9g",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "Google Nexus",
+      "gdata_list_id": "UUgooglenexus",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "Roblox",
+      "gdata_list_id": "UUUCjiPEaapiHbJMoAdi_L8fNA",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+        {
+      "gdata_url": "\\/feeds\\/api\\/users\\/Y30JRSgfhYXA6i6xX1erWg\\/uploads",
+      "title": "Smosh",
+      "tab": "featured",
+      "gdata_list_id": "UUY30JRSgfhYXA6i6xX1erWg"
+    },
+    {
+      "gdata_url": "\\/feeds\\/api\\/users\\/aBf1a-dpIsw8OxqH4ki2Kg\\/uploads",
+      "title": "Geek & Sundry",
+      "tab": "featured",
+      "gdata_list_id": "UUaBf1a-dpIsw8OxqH4ki2Kg"
+    },
+    {
+      "title": "YouTube Nation",
+      "gdata_list_id": "UUUCUD4yDVyM54QpfqGJX4S7ng",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "0326kyon",
+      "gdata_list_id": "UU0326kyon",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "narq",
+      "gdata_list_id": "UUUCeKjekaP9TA3lahIvtQxQVQ",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "Goob18 Featured",
+      "gdata_list_id": "PLj6qdykhRWPn02pYC5ljJ-EbzAbYdj_qH",
+      "icon": "music",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    },
+    {
+      "title": "YT2009 Featured",
+      "gdata_list_id": "STrecently_featured",
+      "icon": "comedy",
+      "gdata_url": "https://corsproxy.io/?https://gdata.youtube.com/feeds/api/users/trends/favorites",
+      "list_id": "FLeNZlh03MyUkjRlLFpVQxsg",
+      "tab": "featured",
+      "thumbnail": "http://i1.ytimg.com/vi/6ravZzYKR34/hqdefault.jpg"
+    }
+  ]
+}

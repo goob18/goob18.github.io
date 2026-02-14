@@ -5572,7 +5572,7 @@
                 client_id: this.Qi(),
                 client_secret: this.um(),
                 code: a,
-                grant_type: "https://web.archive.org/web/20140611010647/http://oauth.net/grant_type/device/1.0"
+                grant_type: "http://oauth.net/grant_type/device/1.0"
             }
               , f = y(function(e) {
                 this.BJ(e, a, b, c)
@@ -9512,7 +9512,7 @@
         }
         ;
         d.df = function() {
-            return this.b.useTestInnerTube ? "//web.archive.org/web/20140611010647/https://www-googleapis-test.sandbox.google.com/youtubei/vi" : this.b.useReleaseInnerTube || this.b.qf && !this.b.oa ? "https://web.archive.org/web/20140611010647/https://www-googleapis-staging.sandbox.google.com/youtubei/v1release" : "https://web.archive.org/web/20140611010647/https://www.googleapis.com/youtubei/v1"
+            return this.b.useTestInnerTube ? "https://www-googleapis-test.sandbox.google.com/youtubei/vi" : this.b.useReleaseInnerTube || this.b.qf && !this.b.oa ? "https://www-googleapis-staging.sandbox.google.com/youtubei/v1release" : "https://www.googleapis.com/youtubei/v1"
         }
         ;
         d.Qc = function(a) {
@@ -9604,7 +9604,7 @@
         }
         ;
         d.Gv = function(a, b, c) {
-            return this.b + "//web.archive.org/web/20140611010647/https://i1.ytimg.com/" + b + "/" + a + "/" + c + ".jpg"
+            return this.b + "https://i1.ytimg.com/" + b + "/" + a + "/" + c + ".jpg"
         }
         ;
         d.QO = function(a) {
@@ -11810,7 +11810,7 @@
         }
         ;
         d.df = function() {
-            return this.b.useStageGdata ? "//web.archive.org/web/20140611010647/https://stage.gdata.youtube.com/feeds/api" : "//web.archive.org/web/20140611010647/https://gdata.youtube.com/feeds/api"
+            return this.b.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
         }
         ;
         d.Yg = function() {
@@ -12059,7 +12059,7 @@
                 this.b = this.l.setTimeout(y(this.To, this), 3E5);
                 this.i = this.h.Dz(a, y(function(a) {
                     a && (this.displayPairingCode = this.Cz(a),
-                    this.codeImageUrl = "https://web.archive.org/web/20140611010647/http://chart.apis.google.com/chart?cht=qr&chs=350x350&chl=http%3A%2F%2Fm.youtube.com%2Fpair%3FpairingCode%3D" + a,
+                    this.codeImageUrl = "http://chart.apis.google.com/chart?cht=qr&chs=350x350&chl=http%3A%2F%2Fm.youtube.com%2Fpair%3FpairingCode%3D" + a,
                     this.G())
                 }, this))
             }
@@ -15441,7 +15441,7 @@
                 var b = null;
                 this.va && (b = this.va.rF(this));
                 var c = y(this.sF, this);
-                b || (b = new zj("//web.archive.org/web/20140611010647/https://www.google.com/images/cleardot.gif"),
+                b || (b = new zj("https://www.google.com/images/cleardot.gif"),
                 b.We());
                 Uj(b.toString(), 1E4, c)
             } else
@@ -16832,7 +16832,7 @@
         ;
         d.kh = function(a) {
             this.j = a;
-            this.h.QI() && (a ? this.h.xt('<additionalData xmlns="https://web.archive.org/web/20140611010647/http://www.youtube.com/dial"><screenId>' + a + "</screenId></additionalData>") : this.h.xt(""))
+            this.h.QI() && (a ? this.h.xt('<additionalData xmlns="http://www.youtube.com/dial"><screenId>' + a + "</screenId></additionalData>") : this.h.xt(""))
         }
         ;
         d.qy = function(a) {
@@ -17071,11 +17071,11 @@
         d = Kk.prototype;
         d.fw = function(a) {
             this.i.supportedCastVersion && (this.j ? a() : (this.g.push(a),
-            1 < this.g.length || (this.o ? Ig("https://web.archive.org/web/20140611010647/https://www.gstatic.com/cast/sdk/libs/receiver/2.0.0/cast_receiver.js", {
+            1 < this.g.length || (this.o ? Ig("https://www.gstatic.com/cast/sdk/libs/receiver/2.0.0/cast_receiver.js", {
                 timeout: 3E4
             }).zd(y(this.nC, this)).vh(function() {
                 console.log("Failed to load cast v2 SDK")
-            }) : Ig("https://web.archive.org/web/20140611010647/https://www.gstatic.com/cast/js/receiver/1.0/cast_receiver.js", {
+            }) : Ig("https://www.gstatic.com/cast/js/receiver/1.0/cast_receiver.js", {
                 timeout: 3E4
             }).zd(y(this.mC, this)).vh(function() {
                 console.log("Failed to load cast SDK")
@@ -17224,7 +17224,7 @@
         }
         ;
         d.df = function() {
-            return this.pa.useStageGdata ? "//web.archive.org/web/20140611010647/https://stage.gdata.youtube.com/feeds/api" : "//web.archive.org/web/20140611010647/https://gdata.youtube.com/feeds/api"
+            return this.pa.useStageGdata ? "https://stage.gdata.youtube.com/feeds/api" : "https://gdata.youtube.com/feeds/api"
         }
         ;
         d.aM = function(a, b, c, e) {
@@ -17433,11 +17433,11 @@
               , c = this.createElement("entry")
               , e = this.createElement("id");
             this.g.vm(e, b);
-            var f = this.createElement("batch:id", "https://web.archive.org/web/20140611010647/http://schemas.google.com/gdata/batch");
+            var f = this.createElement("batch:id", "http://schemas.google.com/gdata/batch");
             this.g.vm(f, a);
             a = this.createElement("link");
             Lk(a, {
-                rel: "https://web.archive.org/web/20140611010647/http://schemas.google.com/g/2005#batch",
+                rel: "http://schemas.google.com/g/2005#batch",
                 type: "application/atom+xml",
                 href: b
             });
@@ -17452,7 +17452,7 @@
             kd(c);
             var e = this.createElement("id");
             this.g.vm(e, a);
-            var f = this.createElement("batch:operation", "https://web.archive.org/web/20140611010647/http://schemas.google.com/gdata/batch");
+            var f = this.createElement("batch:operation", "http://schemas.google.com/gdata/batch");
             Lk(f, {
                 type: "query"
             });
@@ -19747,7 +19747,7 @@
         d.Oe = function(a) {
             this.title = el(a.title);
             this.avatarImageURL = a.avatar.thumbnails[0].url;
-            this.backgroundImageURL = a.banner ? a.banner.thumbnails[0].url : "https://web.archive.org/web/20140611010647/https://s.ytimg.com/yts/img/channels/c4/default_banner_hq-vfl4dpY8T.png";
+            this.backgroundImageURL = a.banner ? a.banner.thumbnails[0].url : "https://s.ytimg.com/yts/img/channels/c4/default_banner_hq-vfl4dpY8T.png";
             this.SB(a);
             this.RB(a);
             this.l.isHidden = this.b.isHidden && this.h.isHidden;
@@ -26113,7 +26113,7 @@
             var n = !1
               , q = null;
             this.b.Fb(y(function(u) {
-                n || (-1 == b.indexOf("//") && (b = "//web.archive.org/web/20140611010647/https://www.googleapis.com" + b,
+                n || (-1 == b.indexOf("//") && (b = "https://www.googleapis.com" + b,
                 c = c || {},
                 c.key = "AI39si5-UxCbfO2jRg9EV2bWI0UDWm74GkLzZWFHkQR0bm4d0JTKyrhSi6NZORaTMuJaRH8zs0PmsCONB9uV3pSgzZklwvMoRA",
                 b = Ge(b, c)),
@@ -27425,7 +27425,7 @@
         Mo.prototype.g = function() {
             var a = this.b.bc();
             z(a, this.i.iB());
-            this.h("//web.archive.org/web/20140611010647/https://www.youtube-nocookie.com/device_204", a, null, !0)
+            this.h("https://www.youtube-nocookie.com/device_204", a, null, !0)
         }
         ;
         Mo.inject = ["environmentModel", "privateDataService", "statsService"];
@@ -27479,7 +27479,7 @@
         Oo.prototype.o = function(a, b) {
             var c = this.g.ih()
               , e = '<?xml version="1.0" encoding="UTF-8"?><service xmlns="urn:dial-multiscreen-org:schemas:dial"><name>YouTube</name><options allowStop="false" /><state>' + (null != c || this.i ? "running" : "stopped") + "</state>";
-            null != c && (e += '<additionalData xmlns="https://web.archive.org/web/20140611010647/http://www.youtube.com/dial"><screenId>' + c + "</screenId></additionalData>");
+            null != c && (e += '<additionalData xmlns="http://www.youtube.com/dial"><screenId>' + c + "</screenId></additionalData>");
             b.mimeType = 'text/xml; charset="utf-8"';
             b.responseCode = 200;
             b.body = e + "</service>";
@@ -27844,12 +27844,12 @@
         }
         ;
         d.Yx = function() {
-            this.fh("https://web.archive.org/web/20140611010647/http://www.youtube.com/tv");
+            this.fh("http://www.youtube.com/tv");
             return !0
         }
         ;
         d.Vx = function() {
-            this.fh("https://web.archive.org/web/20140611010647/https://kcdsfrdvcs.appspot.com");
+            this.fh("https://kcdsfrdvcs.appspot.com");
             return !0
         }
         ;
@@ -28542,13 +28542,13 @@
         }
         ;
         d.Qu = function() {
-            this.g.zc("https://web.archive.org/web/20140611010647/https://www.youtube.com/api/xbox/deregister", null, {
+            this.g.zc("https://www.youtube.com/api/xbox/deregister", null, {
                 style: "json"
             })
         }
         ;
         d.Au = function(a) {
-            this.g.zc("https://web.archive.org/web/20140611010647/https://www.youtube.com/api/xbox/register", null, {
+            this.g.zc("https://www.youtube.com/api/xbox/register", null, {
                 token: a
             })
         }
@@ -28577,7 +28577,7 @@
         d.Mq = function(a) {
             var b = y(this.UH, this);
             this.j.push(a);
-            1 == this.j.length && this.g.zc("https://web.archive.org/web/20140611010647/https://www.youtube.com/api/xbox/refresh", null, {
+            1 == this.j.length && this.g.zc("https://www.youtube.com/api/xbox/refresh", null, {
                 style: "json"
             }, y(this.Hg, this, b), y(this.Bi, this, b))
         }
@@ -29294,7 +29294,7 @@
             c.fp(15);
             c = c.GO({}, {});
             c.payload.app = "youtubetv";
-            return sk("//web.archive.org/web/20140611010647/https://inputtools.google.com" + c.url, c.payload)
+            return sk("https://inputtools.google.com" + c.url, c.payload)
         }
         ;
         Op.prototype.g = function(a, b, c) {
@@ -30425,7 +30425,7 @@
                 constructor: Hh,
                 id: "featuredService",
                 parser: "$featuredParser",
-                path: "/leanback_ajax",
+                path: "/leanbackalt.json",
                 opt_params: {
                     action_featured: 1,
                     client: "lb4",
