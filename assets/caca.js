@@ -6990,7 +6990,7 @@
             this.Db = this.Db || this.w || this.fa;
             this.keyMapId = this.uw();
             this.Wc = this.j ? "NINTENDO" : null;
-            "tv" === this.F.toLowerCase() ? this.Fa = "tv" : this.Qa || (this.Fa = "desktop")
+            "tv" === this.F.toLowerCase() ? this.Fa = "tv" : this.Qa || (this.Fa = window.environment.cmodel)
         }
         ;
         d.MM = function() {}
@@ -7136,7 +7136,7 @@
         }
         ;
         d.KM = function() {
-            "desktop" === this.Fa ? (this.Ba = 100,
+            window.environment.cmodel === this.Fa ? (this.Ba = 100,
             this.W = {}) : this.L || this.Ua ? (this.Ba = 0,
             this.W = {}) : (this.Ba = 0,
             this.W = {},
@@ -9508,11 +9508,11 @@
         C(Ih, Hh);
         d = Ih.prototype;
         d.Gg = function() {
-            return this.b.useTestInnerTube ? "tin" : this.b.useReleaseInnerTube || this.b.qf && !this.b.oa ? "sin" : "in"
+            return gibby.innertube ? "tin" : gibby.innertube || this.b.qf && !this.b.oa ? "sin" : "in"
         }
         ;
         d.df = function() {
-            return this.b.useTestInnerTube ? "https://www-googleapis-test.sandbox.google.com/youtubei/vi" : this.b.useReleaseInnerTube || this.b.qf && !this.b.oa ? "https://www-googleapis-staging.sandbox.google.com/youtubei/v1release" : "https://www.googleapis.com/youtubei/v1"
+            return gibby.innertube ? "https://www-googleapis-test.sandbox.google.com/youtubei/vi" : gibby.innertube || this.b.qf && !this.b.oa ? "https://www-googleapis-staging.sandbox.google.com/youtubei/v1release" : "https://www.googleapis.com/youtubei/v1"
         }
         ;
         d.Qc = function(a) {
