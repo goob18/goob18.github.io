@@ -9508,11 +9508,11 @@
         C(Ih, Hh);
         d = Ih.prototype;
         d.Gg = function() {
-            return gibby.innertube ? "tin" : gibby.innertube || this.b.qf && !this.b.oa ? "sin" : "in"
+            return "sin"
         }
         ;
         d.df = function() {
-            return gibby.innertube ? "https://www-googleapis-test.sandbox.google.com/youtubei/vi" : gibby.innertube || this.b.qf && !this.b.oa ? "https://www-googleapis-staging.sandbox.google.com/youtubei/v1release" : "https://www.googleapis.com/youtubei/v1"
+            return gibby.innertube ? "https://www-googleapis-test.sandbox.google.com/youtubei/vi" : gibby.innertube || gibby.innertube ? "https://www-googleapis-staging.sandbox.google.com/youtubei/v1release" : "https://www.googleapis.com/youtubei/v1"
         }
         ;
         d.Qc = function(a) {
