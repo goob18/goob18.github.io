@@ -6024,7 +6024,7 @@ console.log("PROXY_URL:", PROXY_URL);
             if (0 == c.indexOf("/videoplayback")) {
                 a.A = "/videoplayback";
                 c = c.substr(14);
-            } else if (0 == c.indexOf("/api/manifest/")) {
+            } else if (0 == c.indexOf("https://yt2009.truehosting.net/api/manifest/")) {
                 var d = c.indexOf("/", 14);
                 0 < d ? (a.A = c.substr(0, d), c = c.substr(d + 1)) : (a.A = c, c = "");
             }
@@ -9571,7 +9571,7 @@ console.log("PROXY_URL:", PROXY_URL);
         b = xs(b);
         if (!b) return [];
         var d = {
-            $E: "https://web.archive.org/web/20160618062316/https://youtube.com/api/drm/fps?ek=uninitialized"
+            $E: "https://web.archive.org/web/20160618062316/https://youtube.comhttps://yt2009.truehosting.net/api/drm/fps?ek=uninitialized"
         },
             e, f = [],
             h = [],
@@ -12048,7 +12048,7 @@ console.log("PROXY_URL:", PROXY_URL);
         this.D = "atr" == c;
         this.pa = "engage" == c;
         this.Y = !1;
-        this.X = this.D ? "/api/stats/" + c : "//" + b.Ra + "/api/stats/" + c;
+        this.X = this.D ? "https://yt2009.truehosting.net/api/stats/" + c : "//" + b.Ra + "https://yt2009.truehosting.net/api/stats/" + c;
         d && (this.aa = d.fs, d.rtn && (this.g = d.rtn), this.A ? (this.ib = d.state, 0 < d.rti && (this.B = d.rti)) : (this.sa = d.mos, this.Ba = d.volume, d.at && (this.adType = d.at)), d.autonav &&
             (this.autonav = d.autonav));
         this.adFormat = b.adFormat;
@@ -14718,7 +14718,7 @@ console.log("PROXY_URL:", PROXY_URL);
         a.ya ? (d = b.videostats_playback_base_url &&
             b.videostats_playback_base_url.split("/")[2] || APP_URL, a.experiments.G && APP_URL == d && (d = APP_URL)) : d = APP_URL;
         a.Ra = d;
-        a.Pa = "//" + a.Ra + "/api/stats/qoe";
+        a.Pa = "https://yt2009.truehosting.net/api/stats/qoe";
         if (b.feature || c) d = b.feature, a.ab = d, a.G.feature = d;
         if (b.referrer || c) d = b.referrer, a.referrer = d, a.G.referrer = d;
         if (b.q || c) a.searchQuery = b.q;
@@ -20146,7 +20146,7 @@ console.log("PROXY_URL:", PROXY_URL);
     function BD(a, b) {
         var c = null;
         return (new Nd(function (a) {
-            c = vj("//" + b.hostname + "/v1/cache/summary", {
+            c = vj("https://yt2009.truehosting.net/" + "api/v1/cache/summary", {
                 format: "JSON",
                 method: "GET",
                 timeout: this.B,

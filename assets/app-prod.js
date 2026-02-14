@@ -9,6 +9,7 @@
         var PROXY_URL = "https://" + currentHost; 
         var NPROXY_URL = ""; 
         
+        
     
         console.log("APP_URL:", APP_URL);
         console.log("PROXY_URL:", PROXY_URL);
