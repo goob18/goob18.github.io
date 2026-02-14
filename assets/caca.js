@@ -6775,7 +6775,7 @@
             this.additionalDataUrlForDial = this.initReversePairingCode = this.initVideoId = "";
             this.supportsAchievements = this.isChromelessContext = this.isPlayOnlyContext = this.j = this.o = this.ca = this.H = this.i = this.rn = !1;
             this.tn = this.Pn = !0;
-            this.LP = this.Ua = this.isLowPerformingSearch = this.of = this.L = this.zn = this.An = this.isLimitedMemory = this.isLimitedAnimation = this.Cc = this.usePaidScope = this.useInnerTubeWatchNext = this.useReleaseInnerTube = this.useTestInnerTube = this.nn = this.useInnerTube = !1;
+            this.LP = this.Ua = this.isLowPerformingSearch = this.of = this.L = this.zn = this.An = this.isLimitedMemory = this.isLimitedAnimation = this.Cc = this.usePaidScope = gibby.innertubeWatchNext = gibby.innertube = gibby.innertube = this.nn = gibby.innertube = !1;
             this.keyMapId = 0;
             this.supportsSingleVideoTag = !0;
             this.Uv = 10;
@@ -7063,8 +7063,8 @@
         }
         ;
         d.PM = function() {
-            this.nn = this.useInnerTube || this.useTestInnerTube || this.useReleaseInnerTube || this.Ja(Wb) || this.Ja(cc) || this.Ja(dc);
-            this.useInnerTubeWatchNext = this.useInnerTubeWatchNext || this.Ja(Xb);
+            this.nn = gibby.innertube || gibby.innertube || gibby.innertube || this.Ja(Wb) || this.Ja(cc) || this.Ja(dc);
+            gibby.innertubeWatchNext = gibby.innertubeWatchNext || this.Ja(Xb);
             this.supportsLive = this.supportsLive || this.l || this.i || this.Ja($b);
             this.usePaidScope = this.Ja(Tb);
             this.supportsSounds = this.supportsSounds || this.Ja(Qb) && this.o || this.gD(Qb);
