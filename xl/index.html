@@ -8,7 +8,22 @@
 <!-- device: pc -->
 <!-- app: desktop -->
 <!-- machid: sWkFSZzctYUFHdmk2czB5dVhzME02Yzd5N1Rvc216TGM4aG5ObVVqWnM2MHRfQjZOcFpjSjhn -->
-
+ <script>
+          function getCookie(name) {
+  const cookies = document.cookie.split("; ");
+  for (const cookie of cookies) {
+    const [key, value] = cookie.split("=");
+    if (key === name) {
+      return decodeURIComponent(value);
+    }
+  }
+  return null;
+}
+function setCookie(name, value, days = 365) {
+  const expires = new Date(Date.now() + days * 864e5).toUTCString();
+  document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
+}
+ </script>
 <head>
   <title>YouTube XL</title>
   <link rel="icon" href="https://s.ytimg.com/yt/favicon-vflZlzSbU.ico" type="image/x-icon"/>
@@ -1286,11 +1301,11 @@ id="main.service_recommended"></div></div>
               true
             ),
             quality: {_CLASS: 'xl-view-hidden'},
-            /*  generateCheckBoxItem(
+            generateCheckBoxItem(
                 "I have a fast connection. Always play higher-quality video when it is available.",
                 'config.preferHigherQuality',
                 true
-              )*/
+              )
             language_button: {
               _CLASS: 'xl-view-button',
               navobject: focusMouseHover,
@@ -2371,7 +2386,7 @@ id="main.service_recommended"></div></div>
       _CONTROL: {
         _CLASS: 'xl-control-channel',
         type: 'GET',
-        uri: 'https://api.codetabs.com/v1/proxy/?quest=https://yt2009.truehosting.net/xl/console_profile',
+        uri: 'https://yt2009.truehosting.net/xl/console_profile',
         photo:'main.browse_site.channelsub.channelinfo.channelicon',
         last_log_in: 'main.browse_site.content_channel.channelcontent.lastlogin',
         view_count: 'main.browse_site.content_channel.channelcontent.viewcount',
@@ -3561,9 +3576,22 @@ id="main.service_recommended"></div></div>
       "https://s.ytimg.com/yt/img/syn/xl-starhalf-vflyxcdM3.png",
       "https://s.ytimg.com/yt/img/syn/xl-starempty-vfl5UsLL3.png"
     );
+  var usernamefake = getCookie("fake") || "";
+document.addEventListener("keydown", (event) => {
+  if (event.altKey && event.key.toLowerCase() === "a") {
+    event.preventDefault();
 
+    const currentValue = getCookie("fake") || "";
+    const newValue = prompt("enter fake username:", currentValue);
+
+    if (newValue !== null) {
+      setCookie("fake", newValue);
+      alert("fake username updated!");
+    }
+  }
+});
     var config = yt.xl.config;
-    config.user = '';
+    config.user = usernamefake;
     var defaultPage = 'featured';
     if (config.user) {
       defaultPage = 'recommended';
@@ -3729,7 +3757,7 @@ id="main.service_recommended"></div></div>
     }, 1);
   }
 
-  -->
+
   </script>
 
 
