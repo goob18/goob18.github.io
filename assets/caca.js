@@ -11810,7 +11810,7 @@
         }
         ;
         d.df = function() {
-            return this.b.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
+            return this.b.useStageGdata ? "https://tv36.pages.dev/feeds/api" : "https://tv36.pages.dev/feeds/api"
         }
         ;
         d.Yg = function() {

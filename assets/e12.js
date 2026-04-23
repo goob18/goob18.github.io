@@ -12504,7 +12504,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     F(mg, qe);
     n = mg.prototype;
     n.getBaseUrl = function() {
-        return "https://yt2009.truehosting.net/feeds/api"
+        return "https://tv36.pages.dev/feeds/api"
     }
     ;
     n.getDefaultTransportMethod = function() {
@@ -17093,7 +17093,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     }
     ;
     n.getBaseUrl = function() {
-        return "https://yt2009.truehosting.net/feeds/api"
+        return "https://tv36.pages.dev/feeds/api"
     }
     ;
     n.loadFromGdata_ = function(a, b, c, e, f) {

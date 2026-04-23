@@ -10645,11 +10645,11 @@
           , r = Sj(a.L, f);
         m.url = c(n);
         if (j) {
-            var j = "https://yt2009.truehosting.net" + m.url
+            var j = "https://tv36.pages.dev" + m.url
               , w = Xa(n, function(a) {
                 return {
                     id: a,
-                    url: "https://yt2009.truehosting.net" + c(a)
+                    url: "https://tv36.pages.dev" + c(a)
                 }
             }, a);
             m.body = a.b.Tb(Xm, {
@@ -12438,17 +12438,17 @@
         a = {
             users: (t(a) ? a : [a]).join(",")
         };
-        return Th("https://yt2009.truehosting.net/leanback_ajax?action_user_info=1", a)
+        return Th("https://tv36.pages.dev/leanback_ajax?action_user_info=1", a)
     }
     ;
     p.uC = function(a) {
-        return Th("https://yt2009.truehosting.net/leanback_ajax?action_user_playlists=1", {
+        return Th("https://tv36.pages.dev/leanback_ajax?action_user_playlists=1", {
             user: a
         })
     }
     ;
     p.ai = function(a, b, c) {
-        return Th("https://yt2009.truehosting.net/feeds/api/users/default/" + a, {
+        return Th("https://tv36.pages.dev/feeds/api/users/default/" + a, {
             "max-results": c,
             "start-index": b * c + 1,
             v: "2.1",
@@ -12457,7 +12457,7 @@
     }
     ;
     p.dA = function() {
-        return Th("https://yt2009.truehosting.net/feeds/api/users/default", {
+        return Th("https://tv36.pages.dev/feeds/api/users/default", {
             v: "2.1",
             alt: "json-in-script"
         })
@@ -12582,7 +12582,7 @@
     }
     ;
     function yo(a) {
-        return '<?xml version="1.0" encoding="UTF-8"?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:yt="http://yt2009.truehosting.net/schemas/2007">' + a + "</entry>"
+        return '<?xml version="1.0" encoding="UTF-8"?><entry xmlns="http://www.w3.org/2005/Atom" xmlns:yt="http://tv36.pages.dev/schemas/2007">' + a + "</entry>"
     }
     p.Vt = function(a, b) {
         if (1 == b.length && xo(this, oj(b[0])))
@@ -13949,7 +13949,7 @@
                   , g = Hb(uq, function(a) {
                     return a == d
                 }, a)
-                  , f = "<summary>" + (f ? f : g) + "</summary>" + ('<category scheme="http://yt2009.truehosting.net/schemas/2007/complaint-reasons.cat" term="' + g + '"/>');
+                  , f = "<summary>" + (f ? f : g) + "</summary>" + ('<category scheme="http://tv36.pages.dev/schemas/2007/complaint-reasons.cat" term="' + g + '"/>');
                 gn(a.a, b, {
                     path: c,
                     body: yo(f)
@@ -14199,7 +14199,7 @@
     }
     ;
     p.mC = function(a, b, c) {
-        return Vh("https://yt2009.truehosting.net/feeds/api/playlists/" + c, {
+        return Vh("https://tv36.pages.dev/feeds/api/playlists/" + c, {
             "max-results": b,
             "start-index": a * b + 1,
             v: "2.1",
@@ -14267,7 +14267,7 @@
         var c = b.substr(1)
           , d = "all";
         "H" == b.substr(0, 1) && (d = "HD");
-        return Vh("https://yt2009.truehosting.net/feeds/api/videos?alt=json&", {
+        return Vh("https://tv36.pages.dev/feeds/api/videos?alt=json&", {
             page: a + 1,
             quality: d,
             search_query: c,
@@ -21251,7 +21251,7 @@
     };
     function ay(a) {
         V.call(this);
-        this.e = (new Qx("https://yt2009.truehosting.net/feeds/api/users/live/broadcasts/__video_id__/states?v=2")).Tb({
+        this.e = (new Qx("https://tv36.pages.dev/feeds/api/users/live/broadcasts/__video_id__/states?v=2")).Tb({
             video_id: a
         });
         this.a = new mg(15E3 + Math.floor(3E4 * Math.random()));
@@ -31511,7 +31511,7 @@
             var d = this.Mu
               , f = "/feeds/api/videos/" + this.Ha + "/comments"
               , a = "<content>" + a.Og + "</content>";
-            d && (a = '<link rel="https://yt2009.truehosting.net/schemas/2007#in-reply-to"type="application/atom+xml"href="https://yt2009.truehosting.net/' + f + "/" + d + '"/>' + a);
+            d && (a = '<link rel="https://tv36.pages.dev/schemas/2007#in-reply-to"type="application/atom+xml"href="https://tv36.pages.dev/' + f + "/" + d + '"/>' + a);
             gn(b.a, c, {
                 path: f,
                 body: yo(a)
@@ -32019,7 +32019,7 @@
                   , b = ht(this.k().e, v(this.mB, this));
                 wo(a) && gn(a.a, b, {
                     path: "/feeds/api/users/default/subscriptions",
-                    body: yo('<category scheme="http://yt2009.truehosting.net/schemas/2007/subscriptiontypes.cat" term="channel"/><yt:username>' + this.g + "</yt:username>")
+                    body: yo('<category scheme="http://tv36.pages.dev/schemas/2007/subscriptiontypes.cat" term="channel"/><yt:username>' + this.g + "</yt:username>")
                 })
             } else
                 yG(this, l, N("REQUEST_ERROR_DIALOG"), N("ERROR_DIALOG_HEADER"));

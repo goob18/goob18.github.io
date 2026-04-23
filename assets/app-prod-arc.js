@@ -12169,7 +12169,7 @@
         z(Wg, ig);
         d = Wg.prototype;
         d.Ne = function() {
-            return this.Od.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
+            return this.Od.useStageGdata ? "https://tv36.pages.dev/feeds/api" : "https://tv36.pages.dev/feeds/api"
         };
         d.Uq = function() {
             return this.Od.supportsCors ? "GET" : "JSONP"
@@ -12249,7 +12249,7 @@
             }
         };
         Yg.prototype.send = function(a, b, c) {
-            var e = "https://yt2009.truehosting.net/feeds/api" + this.SO,
+            var e = "https://tv36.pages.dev/feeds/api" + this.SO,
                 f = "";
             if (this.Bz && a) var g = re(this.Bz, a),
                 f = re(this.PP(), {

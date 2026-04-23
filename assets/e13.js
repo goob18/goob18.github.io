@@ -11747,7 +11747,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     }
     ;
     q.isVideoSchema = function(a) {
-        return a.rel && "http:https://yt2009.truehosting.net/schemas/2007#video" === a.rel
+        return a.rel && "http:https://tv36.pages.dev/schemas/2007#video" === a.rel
     }
     ;
     q.getEntryLinks = function(a) {
@@ -12269,7 +12269,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
         this.cancelPolling();
         this.http_.post("https://oauth2.googleapis.com/device/code", l, {
             client_id: "861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com",
-            scope: "http:https://yt2009.truehosting.net"
+            scope: "http:https://tv36.pages.dev"
         }, C(function(c) {
             this.pairingCodeSuccessHandler_(c, a, b)
         }, this))
@@ -13505,7 +13505,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     E(eh, mg);
     q = eh.prototype;
     q.getBaseUrl = function() {
-        return this.environment.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
+        return this.environment.useStageGdata ? "https://tv36.pages.dev/feeds/api" : "https://tv36.pages.dev/feeds/api"
     }
     ;
     q.getDefaultTransportMethod = function() {
@@ -13574,7 +13574,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         this.template_ = f
     };
     gh.prototype.send = function(a, b, c) {
-        var e = "https://yt2009.truehosting.net/feeds/api" + this.path_
+        var e = "https://tv36.pages.dev/feeds/api" + this.path_
           , f = "";
         if (this.template_ && a)
             var g = Pd(this.template_, a)
@@ -13597,7 +13597,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     }
     ;
     gh.prototype.getGDataSchema_ = function() {
-        return '<?xml version="1.0" encoding="UTF-8"?> <entry xmlns="http://www.w3.org/2005/Atom" xmlns:yt="http:https://yt2009.truehosting.net/schemas/2007">{body}</entry>'
+        return '<?xml version="1.0" encoding="UTF-8"?> <entry xmlns="http://www.w3.org/2005/Atom" xmlns:yt="http:https://tv36.pages.dev/schemas/2007">{body}</entry>'
     }
     ;
     var hh = function(a, b, c) {
@@ -14049,7 +14049,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     ;
     q.loadPlayerTemplate_ = function() {
         this.isPlayerHtmlLoaded_ ? this.checkPlayerLoadProgress_() : cd("html5-video-player") ? (this.isPlayerHtmlLoaded_ = k,
-        this.checkPlayerLoadProgress_()) : this.templateClient_.get("https://yt2009.truehosting.net/leanback_ajax", {
+        this.checkPlayerLoadProgress_()) : this.templateClient_.get("https://tv36.pages.dev/leanback_ajax", {
             action_player_template: 1,
             hl: this.locale_.isoLocale,
             override_hl: 1
@@ -19476,7 +19476,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     }
     ;
     q.getBaseUrl = function() {
-        return "https://yt2009.truehosting.net/feeds/api"
+        return "https://tv36.pages.dev/feeds/api"
     }
     ;
     q.loadFromGdata_ = function(a, b, c, e, f) {
@@ -26046,7 +26046,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             name: "subscribeService",
             httpMethod: "post",
             path: "/users/default/subscriptions",
-            template: '<category scheme="http:https://yt2009.truehosting.net/schemas/2007/subscriptiontypes.cat" term="channel"/><yt:username>{channelName}</yt:username>'
+            template: '<category scheme="http:https://tv36.pages.dev/schemas/2007/subscriptiontypes.cat" term="channel"/><yt:username>{channelName}</yt:username>'
         }, {
             name: "unsubscribeService",
             httpMethod: "delete",
@@ -26268,7 +26268,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             }
         }, {
             name: "relatedChannelsService",
-            path: "https://yt2009.truehosting.net/leanback_ajax",
+            path: "https://tv36.pages.dev/leanback_ajax",
             parser: "channelParser",
             paramKey: l,
             params: {

@@ -16355,7 +16355,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     }
     ;
     d.$e = function() {
-        return this.b.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
+        return this.b.useStageGdata ? "https://tv36.pages.dev/feeds/api" : "https://tv36.pages.dev/feeds/api"
     }
     ;
     d.ug = function() {
@@ -21946,7 +21946,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     }
     ;
     d.$e = function() {
-        return this.ia.useStageGdata ? "https://yt2009.truehosting.net/feeds/api" : "https://yt2009.truehosting.net/feeds/api"
+        return this.ia.useStageGdata ? "https://tv36.pages.dev/feeds/api" : "https://tv36.pages.dev/feeds/api"
     }
     ;
     d.bH = function(a, b, c, e) {
@@ -25767,7 +25767,7 @@ angular.element(document).find("head").append('<style type="text/css">@charset "
     }
     ;
     Mm.prototype.send = function(a, b, c) {
-        var e = "https://yt2009.truehosting.net/feeds/api" + this.o
+        var e = "https://tv36.pages.dev/feeds/api" + this.o
           , f = "";
         if (this.b && a)
             var g = eg(this.b, a)
